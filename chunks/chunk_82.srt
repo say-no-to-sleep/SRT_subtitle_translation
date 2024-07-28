@@ -1,0 +1,19 @@
+
+352
+00:26:13,630 --> 00:26:17,429
+Another thing to note really quickly is that
+you can actually make a variable without putting
+
+353
+00:26:17,429 --> 00:26:22,999
+information inside of it. This would be like
+if you built up a new cardboard box, gave
+
+354
+00:26:22,999 --> 00:26:27,629
+it a label with a sharpie, but just didn’t
+put information inside of it. You’re simply
+
+355
+00:26:27,629 --> 00:26:33,759
+saving that space in your warehouse for later.

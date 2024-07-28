@@ -1,0 +1,46 @@
+Higher level programming languages have a
+
+1461
+01:51:45,239 --> 01:51:49,989
+high level of abstraction from machine language,
+that series of 0’s and 1’s from way back
+
+1462
+01:51:49,989 --> 01:51:55,370
+when, while lower level programming languages
+have a low level of abstraction from machine
+
+1463
+01:51:55,370 --> 01:52:00,070
+language. For example, block programming where
+you drag and drop programming statements together
+
+1464
+01:52:00,070 --> 01:52:05,590
+like 2d legos would be a high level language,
+as it does not take a high level of understanding
+
+1465
+01:52:05,590 --> 01:52:11,130
+of the inner workings of a computer to program
+it. The theoretical highest level of a programming
+
+1466
+01:52:11,130 --> 01:52:15,570
+language would be if I could just write down
+what I wanted the computer to do in simple
+
+1467
+01:52:15,570 --> 01:52:21,800
+english and it would just work. But, sadly,
+that doesn’t exist yet. On the other side
+
+1468
+01:52:21,800 --> 01:52:26,469
+of the spectrum, the lowest level programming
+language would be just feeding 0’s and 1’s
+
+1469
+01:52:26,469 --> 01:52:32,020
+into the computer at supersonic speed, which
+would be almost impossible and extremely absurd.

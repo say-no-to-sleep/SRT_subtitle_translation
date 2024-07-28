@@ -1,0 +1,30 @@
+
+841
+01:02:06,030 --> 01:02:11,701
+This is actually the main theme of all functions
+and the backbone of any good program. Oftentimes
+
+842
+01:02:11,701 --> 01:02:15,840
+in your program there are going to be sections
+of code which are repeated and serve the same
+
+843
+01:02:15,840 --> 01:02:21,100
+purpose, or equations which you want to allow
+differing inputs of. And so you can use functions
+
+844
+01:02:21,100 --> 01:02:26,080
+in order to condense these down into singular
+lines of code to save both time and reduce
+
+845
+01:02:26,080 --> 01:02:31,520
+clutter on your code. As you will see soon,
+functions are EXTREMELY powerful and will
+
+846
+01:02:31,520 --> 01:02:36,960
+definitely be something you utilize all the
+time in your computer science journey.

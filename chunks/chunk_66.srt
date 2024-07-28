@@ -1,0 +1,24 @@
+
+284
+00:21:10,940 --> 00:21:14,059
+Variables are like cardboard boxes that store
+information for the programmer to reference,
+
+285
+00:21:14,059 --> 00:21:18,659
+manipulate, and refer to. Each variable simply
+has a type, a name, and a piece of information
+
+286
+00:21:18,659 --> 00:21:22,610
+stored inside of it. The type and piece of
+information will be covered next and the name
+
+287
+00:21:22,610 --> 00:21:26,350
+is simply a name for the variable, think of
+it as writing out a label on the cardboard
+
+288
+00:21:26,350 --> 00:21:27,769
+box in sharpie.

@@ -1,0 +1,14 @@
+
+218
+00:15:54,690 --> 00:15:59,150
+Now in addition to the 4 basic math equations,
+most programming languages include an additional
+
+219
+00:15:59,150 --> 00:16:04,029
+operator known as modulus. If this is your
+first time hearing this word, don’t worry,
+
+220
+00:16:04,029 --> 00:16:08,710
+since it's not usually taught in math classes.

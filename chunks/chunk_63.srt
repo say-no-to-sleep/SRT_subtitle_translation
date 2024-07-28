@@ -1,0 +1,14 @@
+
+278
+00:20:45,090 --> 00:20:48,190
+Now next up we’re going to be covering one
+of the most important components of computer
+
+279
+00:20:48,190 --> 00:20:52,970
+science, so make SURE you pay attention because
+next up we are going to be covering variables,
+
+280
+00:20:52,970 --> 00:20:55,159
+what they are, and how we use them.

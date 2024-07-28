@@ -1,0 +1,39 @@
+
+1275
+01:36:29,610 --> 01:36:36,750
+Let’s start with the most important question:
+what exactly does recursion mean? In programming,
+
+1276
+01:36:36,750 --> 01:36:41,130
+recursion refers to functions that repeatedly
+call themselves. Meaning, that in the instructions
+
+1277
+01:36:41,130 --> 01:36:45,469
+that occur within a function, one of the instructions
+will be a call to that same function you’re
+
+1278
+01:36:45,469 --> 01:36:50,620
+already in.In the extremely primitive example
+on your screen now, you can see we have some
+
+1279
+01:36:50,620 --> 01:36:55,560
+function which, in the confines of itself,
+calls itself. A recursive function will usually
+
+1280
+01:36:55,560 --> 01:37:00,770
+take into account some integer as an argument,
+and will use this to carry out some instructions,
+
+1281
+01:37:00,770 --> 01:37:04,469
+modifying the integer that was entered, before
+calling itself again with that new integer
+
+1282
+01:37:04,469 --> 01:37:05,840
+as its argument.

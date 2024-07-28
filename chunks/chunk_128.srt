@@ -1,0 +1,25 @@
+So a number in the position (0,2) would be
+
+587
+00:44:04,250 --> 00:44:10,690
+in the first row three columns down, in this
+case the name Clint. A number in the position
+
+588
+00:44:10,690 --> 00:44:16,950
+(1,1) would be two rows down and 2 columns
+across, in this case the name Chris. You get
+
+589
+00:44:16,950 --> 00:44:22,000
+the idea. Now you can also make 3-dimensional
+arrays by putting an array inside an array
+
+590
+00:44:22,000 --> 00:44:25,190
+inside an array, but that's a little above
+what we’re going to be covering so I’m
+
+591
+00:44:25,190 --> 00:44:26,690
+gonna cut it off there.

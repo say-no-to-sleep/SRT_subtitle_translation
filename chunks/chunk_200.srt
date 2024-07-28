@@ -1,0 +1,15 @@
+
+912
+01:07:55,260 --> 01:07:59,480
+The last type of function is one that does
+not return anything, and these are known as
+
+913
+01:07:59,480 --> 01:08:05,240
+“void” functions. Oftentimes these are
+like the printStats function we created earlier,
+
+914
+01:08:05,240 --> 01:08:10,270
+simply used to condense large amounts of print
+statements that appear often in your code.

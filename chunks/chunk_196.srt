@@ -1,0 +1,55 @@
+
+896
+01:06:31,850 --> 01:06:35,790
+Now the thing you have to understand is that
+when you’re making your own functions, which
+
+897
+01:06:35,790 --> 01:06:40,660
+is something we will be covering soon, you
+have to choose what your function will return,
+
+898
+01:06:40,660 --> 01:06:46,010
+if anything at all. Functions are able to
+return values back to the user whether they
+
+899
+01:06:46,010 --> 01:06:53,150
+be String variables, integer variables, or
+even arrays. Now the thing to note about returning
+
+900
+01:06:53,150 --> 01:06:57,760
+values is that calling the function alone
+won’t do anything. You have to return the
+
+901
+01:06:57,760 --> 01:07:04,230
+value into something. As an example, the Max
+function we talked about previously would
+
+902
+01:07:04,230 --> 01:07:10,280
+return an integer, but in order to do something
+with it we would have to either set a new
+
+903
+01:07:10,280 --> 01:07:15,610
+integer variable equal to the result of that
+Max function, or we can print out the result
+
+904
+01:07:15,610 --> 01:07:19,640
+of a function, which in this case would just
+print out the maximum value between the two
+
+905
+01:07:19,640 --> 01:07:24,720
+integers. Using functions which return values
+don’t do much on their own, you have to
+
+906
+01:07:24,720 --> 01:07:28,080
+pair it with something in order to gain use
+out of it.

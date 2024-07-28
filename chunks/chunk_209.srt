@@ -1,0 +1,40 @@
+
+940
+01:10:04,300 --> 01:10:09,390
+Sure, you could grow your own trees, chop
+down your own wood, make your own tools and
+
+941
+01:10:09,390 --> 01:10:13,730
+nails, and build it up from scratch. But why
+do that, when you can simply go to your local
+
+942
+01:10:13,730 --> 01:10:17,760
+Home Depot and buy these materials that others
+have already made ready for you. That’s
+
+943
+01:10:17,760 --> 01:10:22,171
+the main idea behind importing functions into
+your code. Importing functions allows you
+
+944
+01:10:22,171 --> 01:10:26,750
+to gain access to libraries of functions that
+other people have already made for you. This
+
+945
+01:10:26,750 --> 01:10:31,380
+is just as useful as it sounds. There are
+so many functions that are super useful for
+
+946
+01:10:31,380 --> 01:10:36,350
+any given program that it would take you forever
+to write them all yourself. Luckily, other
+
+947
+01:10:36,350 --> 01:10:38,920
+people have already done most of this for
+you.

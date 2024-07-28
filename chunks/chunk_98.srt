@@ -1,0 +1,35 @@
+
+452
+00:34:22,940 --> 00:34:27,330
+This is a hard concept to wrap heads around
+so let’s do an example. If we had a program
+
+453
+00:34:27,330 --> 00:34:32,169
+that evaluated the if statement if (age = 10),
+we could then have a statement under that
+
+454
+00:34:32,169 --> 00:34:38,120
+which stated else if (age = 12). Now, if the
+age variable was 10, which we can see from
+
+455
+00:34:38,120 --> 00:34:42,120
+the example it is, then the code immediately
+following that conditional statement in the
+
+456
+00:34:42,120 --> 00:34:46,040
+brackets would run. The else if statement
+we made would not even be tested since we
+
+457
+00:34:46,040 --> 00:34:49,970
+know it is going to be false, and thus the
+print statement inside of THAT conditional
+
+458
+00:34:49,970 --> 00:34:54,230
+statement’s brackets will be ignored, and
+the code will move on to the rest of the program.

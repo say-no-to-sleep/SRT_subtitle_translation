@@ -1,0 +1,9 @@
+
+281
+00:20:55,159 --> 00:20:59,789
+First of all, what exactly is a variable?
+A variable is simply something that can store
+
+282
+00:20:59,789 --> 00:21:05,419
+information and can be referenced and manipulated.

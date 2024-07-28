@@ -1,0 +1,35 @@
+
+1399
+01:46:45,290 --> 01:46:51,570
+A user enters a number, and if this number
+is 8, I want the program to return True; however,
+
+1400
+01:46:51,570 --> 01:46:56,710
+if the number is not 8 then I want to return
+false. It’s a great way to visualize what
+
+1401
+01:46:56,710 --> 01:47:00,710
+the function’s overall purpose is and also
+look for any errors that you may have missed
+
+1402
+01:47:00,710 --> 01:47:06,080
+when thinking about the function, such as
+a missing path. It also abstracts the programming
+
+1403
+01:47:06,080 --> 01:47:11,290
+statements up to simple blocks, making it
+easier to modify or change completely. The
+
+1404
+01:47:11,290 --> 01:47:16,010
+best part is, that when you have finished
+testing cases you can simply convert the blocks
+
+1405
+01:47:16,010 --> 01:47:21,540
+into statements and you have a well-written
+function without any debugging.

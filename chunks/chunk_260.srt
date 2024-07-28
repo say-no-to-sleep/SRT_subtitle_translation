@@ -1,0 +1,9 @@
+
+1269
+01:36:04,699 --> 01:36:10,540
+It’s average scenario is actually also O(log
+n) as well, which again is infinitely times
+
+1270
+01:36:10,540 --> 01:36:12,840
+more efficient than linear.

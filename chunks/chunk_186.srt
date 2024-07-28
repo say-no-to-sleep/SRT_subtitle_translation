@@ -1,0 +1,10 @@
+
+856
+01:03:13,930 --> 01:03:18,350
+Arguments are essentially variables that we
+pass into the function in order to be manipulated
+
+857
+01:03:18,350 --> 01:03:23,910
+and then either returned back to us, printed
+to the console, or used in another operation.

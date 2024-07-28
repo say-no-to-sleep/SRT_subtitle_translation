@@ -1,0 +1,14 @@
+
+16
+00:00:58,159 --> 00:01:02,549
+We’ll only be covering the major key points
+that apply to all programming languages, so
+
+17
+00:01:02,549 --> 00:01:07,030
+we’ll be shying away from topics such as
+object-oriented coding and command line navigation,
+
+18
+00:01:07,030 --> 00:01:11,660
+as those are things which are language-specific.

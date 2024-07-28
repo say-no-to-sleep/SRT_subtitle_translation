@@ -1,0 +1,9 @@
+
+1342
+01:42:25,620 --> 01:42:31,880
+In this case, the memory allocated to the
+stack is exceeded, and a stack overflow error
+
+1343
+01:42:31,880 --> 01:42:38,000
+occurs, resulting in your program crashing.

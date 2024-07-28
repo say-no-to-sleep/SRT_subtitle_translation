@@ -1,0 +1,10 @@
+
+248
+00:18:21,919 --> 00:18:27,740
+Print (“Game over, “ + 4 + “ was your
+final score)
+
+249
+00:18:27,740 --> 00:18:34,980
+We of course begin with a print statement,
+which again will be different across all languages.

@@ -1,0 +1,34 @@
+
+760
+00:56:14,700 --> 00:56:18,410
+For this problem specifically you could place
+said print statement before the branch of
+
+761
+00:56:18,410 --> 00:56:23,010
+the conditional that would print the value
+of x. Now when you run the program you know
+
+762
+00:56:23,010 --> 00:56:27,650
+exactly what the computer is thinking. Printing
+out the value of x just before the if/else
+
+763
+00:56:27,650 --> 00:56:30,921
+statement will let you know if the variable
+has the value you want it to have, and if
+
+764
+00:56:30,921 --> 00:56:34,540
+it doesn’t you know that somewhere above
+that conditional something went wrong and
+
+765
+00:56:34,540 --> 00:56:39,840
+x was set to a value you didn’t want it
+to. In this case, x is equal to 2, which is
+
+766
+00:56:39,840 --> 00:56:42,240
+why x is small is being printed out.

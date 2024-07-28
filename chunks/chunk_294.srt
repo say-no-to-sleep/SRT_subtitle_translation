@@ -1,0 +1,30 @@
+
+1428
+01:49:06,840 --> 01:49:10,320
+From there, if they log into their account
+you then want them to have the functionality
+
+1429
+01:49:10,320 --> 01:49:16,090
+to withdraw money, deposit money, take out
+a loan, or pay back a loan. If they decide
+
+1430
+01:49:16,090 --> 01:49:19,980
+to set up a new account, you want them to
+be able to create an account, store their
+
+1431
+01:49:19,980 --> 01:49:24,070
+information in a database, and then access
+all of the features that a returning member
+
+1432
+01:49:24,070 --> 01:49:29,910
+would have. This may look very similar to
+the flowchart, the only difference being this
+
+1433
+01:49:29,910 --> 01:49:35,699
+is abstracted one level higher, over an entire
+program rather than just a single function.

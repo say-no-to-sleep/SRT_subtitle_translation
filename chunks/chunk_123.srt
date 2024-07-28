@@ -1,0 +1,29 @@
+
+572
+00:42:59,070 --> 00:43:03,120
+Another small thing I want to touch upon really
+quickly is that when you initialize an array,
+
+573
+00:43:03,120 --> 00:43:07,550
+you must determine which type of array it
+is right then and there. For example you have
+
+574
+00:43:07,550 --> 00:43:12,310
+to specifically say it will be an array of
+strings or integers when defining it, and
+
+575
+00:43:12,310 --> 00:43:16,060
+also you’re not allowed to mix and match,
+meaning you can’t have an array full of
+
+576
+00:43:16,060 --> 00:43:20,430
+integers with a few strings and some doubles
+thrown into the mix. They have to be all the
+
+577
+00:43:20,430 --> 00:43:21,430
+same type.

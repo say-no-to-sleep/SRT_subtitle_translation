@@ -1,0 +1,20 @@
+
+544
+00:40:43,450 --> 00:40:47,570
+This means that if we were talking about our
+array of numbers we just made, the number
+
+545
+00:40:47,570 --> 00:40:52,560
+4 would actually be in the 3rd index, 5 would
+be in the 4th and so on, so instead of starting
+
+546
+00:40:52,560 --> 00:40:57,420
+our count from 1, we start from 0. It’s
+extremely weird and confusing but it's one
+
+547
+00:40:57,420 --> 00:41:01,080
+of those programming quirks you are going
+to have to memorize and commit to memory.

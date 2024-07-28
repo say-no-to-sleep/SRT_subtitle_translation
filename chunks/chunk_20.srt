@@ -1,0 +1,15 @@
+
+84
+00:06:20,750 --> 00:06:26,639
+So now that we know what programming is, how
+do we actually write code? It’s not like
+
+85
+00:06:26,639 --> 00:06:30,419
+we can simply type words into a text document
+and automatically assume that the computer
+
+86
+00:06:30,419 --> 00:06:35,229
+can translate it into machine code, read it,
+and carry out a task like opening up a browser.

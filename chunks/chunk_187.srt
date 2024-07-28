@@ -1,0 +1,14 @@
+
+858
+01:03:23,910 --> 01:03:27,300
+Think of functions with arguments like ordering
+food at a restaurant. If you walked up to
+
+859
+01:03:27,300 --> 01:03:32,240
+your local five guys and told them you wanted
+to get food without supplying a type of food,
+
+860
+01:03:32,240 --> 01:03:38,010
+they would probably look at you confused.

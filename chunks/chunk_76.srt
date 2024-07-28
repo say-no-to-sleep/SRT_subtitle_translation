@@ -1,0 +1,34 @@
+
+324
+00:24:05,759 --> 00:24:10,929
+Now, why are variables so useful? Well, being
+able to store information in a format that
+
+325
+00:24:10,929 --> 00:24:15,510
+can be easily referenced later is essential
+for any good program. Oftentimes in code you’re
+
+326
+00:24:15,510 --> 00:24:19,450
+going to want to keep track of things such
+as a user’s name or score, and so by creating
+
+327
+00:24:19,450 --> 00:24:23,019
+a variable called “name” or “score”
+you can store this information in that variable
+
+328
+00:24:23,019 --> 00:24:27,250
+and then reference it, add to it, or modify
+it. Also, many times, the program will have
+
+329
+00:24:27,250 --> 00:24:31,190
+to take input from the user, which cannot
+be pre programmed into the code, and thus
+
+330
+00:24:31,190 --> 00:24:35,200
+a variable is required to store the information.

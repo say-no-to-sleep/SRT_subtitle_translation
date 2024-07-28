@@ -1,0 +1,8 @@
+1
+00:00:01,579 --> 00:00:04,420
+Welcome to Introduction To Programming. My
+name is Steven
+
+2
+00:00:04,420 --> 00:00:06,120
+And my name is Sean.

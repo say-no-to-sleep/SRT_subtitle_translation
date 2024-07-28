@@ -1,0 +1,44 @@
+
+1358
+01:43:42,910 --> 01:43:47,000
+Now as we wind down our introduction to programming
+series, we want to take some time and go over
+
+1359
+01:43:47,000 --> 01:43:51,440
+some of the soft skills needed to be a successful
+computer scientist since it’s not all about
+
+1360
+01:43:51,440 --> 01:43:56,220
+writing code. In fact, many professional computer
+scientists will tell you that the majority
+
+1361
+01:43:56,220 --> 01:44:01,220
+of their job is spent thinking about code
+rather than actually writing it. This is because
+
+1362
+01:44:01,220 --> 01:44:06,480
+much of programming boils down to problem
+solving. How do we optimize this system, how
+
+1363
+01:44:06,480 --> 01:44:10,370
+can we make this feature for our app? What
+type of movement do we want for our game and
+
+1364
+01:44:10,370 --> 01:44:12,130
+how can we program it?
+
+1365
+01:44:12,130 --> 01:44:15,980
+The harsh truth is that no good program has
+ever been written simply from the programmer
+
+1366
+01:44:15,980 --> 01:44:21,199
+getting the prompt or idea, sitting down,
+hopping on an IDE, and starting to write code.

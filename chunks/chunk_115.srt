@@ -1,0 +1,16 @@
+Doing this requires you to search through
+
+534
+00:39:53,060 --> 00:39:57,650
+the information of all 100,000 of your users
+to see if that username has an account with
+
+535
+00:39:57,650 --> 00:40:02,320
+your service. An array would be able to contain
+all of this information and make it easy to
+
+536
+00:40:02,320 --> 00:40:08,280
+search through and find out if the account
+name has been taken with little to no delay.

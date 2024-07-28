@@ -1,0 +1,24 @@
+
+426
+00:32:12,860 --> 00:32:17,460
+The main type of conditional statement that
+programmers use is the if statement, and this
+
+427
+00:32:17,460 --> 00:32:21,749
+will show up countless amounts of times in
+any program you write. It is as simple as
+
+428
+00:32:21,749 --> 00:32:27,380
+it sounds: if some condition is true, and
+usually the condition will be enclosed by
+
+429
+00:32:27,380 --> 00:32:33,090
+braces, then carry out the instructions located
+within the if statement’s brackets. Else,
+
+430
+00:32:33,090 --> 00:32:36,919
+do another thing.

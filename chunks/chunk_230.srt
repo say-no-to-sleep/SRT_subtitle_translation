@@ -1,0 +1,64 @@
+
+1066
+01:19:59,881 --> 01:20:05,250
+What does this mean? Well let’s say you
+had some String function in a game and inside
+
+1067
+01:20:05,250 --> 01:20:09,440
+of it there was an if statement where if the
+player score was above a 10, you returned
+
+1068
+01:20:09,440 --> 01:20:14,250
+a congratulatory message. This works fine
+if you print the result of this function and
+
+1069
+01:20:14,250 --> 01:20:18,920
+the player’s score is above 10. But, if
+the playerScore was less than 10 then you
+
+1070
+01:20:18,920 --> 01:20:22,220
+don’t enter the if statement and then you
+don’t have something prepared to be returned
+
+1071
+01:20:22,220 --> 01:20:26,969
+to the user and so the function is going to
+throw you an error. You HAVE to have all your
+
+1072
+01:20:26,969 --> 01:20:31,340
+paths covered which may seem simple, but if
+you’re making a function with a switch statement
+
+1073
+01:20:31,340 --> 01:20:36,840
+in it containing high amounts of cases, this
+can get out of hand quickly. Something I like
+
+1074
+01:20:36,840 --> 01:20:40,540
+to do just to make sure this doesn’t happen
+is put a return statement at the bottom of
+
+1075
+01:20:40,540 --> 01:20:44,760
+the function with a string or an integer so
+unique that I’m able to tell that the code
+
+1076
+01:20:44,760 --> 01:20:57,650
+is not running properly and can fix it. The
+main point I’m trying to get across however,
+
+1077
+01:20:57,650 --> 01:21:02,170
+is always cover your exits and always have
+a return statement prepared for any case the
+
+1078
+01:21:02,170 --> 01:21:03,960
+user may throw at you.

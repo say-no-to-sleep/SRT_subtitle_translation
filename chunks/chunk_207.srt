@@ -1,0 +1,9 @@
+
+937
+01:09:53,420 --> 01:09:57,350
+Now, up next we’re going to cover how we
+can import other people’s functions that
+
+938
+01:09:57,350 --> 01:10:00,020
+they’ve written and use them in our code.

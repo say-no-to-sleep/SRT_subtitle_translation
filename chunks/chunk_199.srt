@@ -1,0 +1,5 @@
+
+911
+01:07:49,260 --> 01:07:55,260
+The variable would simply be set to whatever
+is returned from the combineString.

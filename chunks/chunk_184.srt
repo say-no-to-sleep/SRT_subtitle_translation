@@ -1,0 +1,24 @@
+
+847
+01:02:36,960 --> 01:02:41,110
+The print statement is just one example of
+functions in everyday code. There are thousands
+
+848
+01:02:41,110 --> 01:02:45,821
+of functions that are available to you through
+IDE’s. However; because you won’t always
+
+849
+01:02:45,821 --> 01:02:49,920
+use all of the thousands of functions that
+are open to you in a single program you have
+
+850
+01:02:49,920 --> 01:02:54,790
+to import these functions from packages found
+in the IDE, which is something we will cover
+
+851
+01:02:54,790 --> 01:02:55,790
+later on.

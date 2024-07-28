@@ -1,0 +1,65 @@
+
+1212
+01:31:14,180 --> 01:31:18,300
+If not, you move on to the next name on the
+list until either you find your name, or you
+
+1213
+01:31:18,300 --> 01:31:23,430
+don’t in which case you leave. A linear
+search works the same way, you start with
+
+1214
+01:31:23,430 --> 01:31:27,360
+the first element in the list, compare it
+to the value that you’re trying to find,
+
+1215
+01:31:27,360 --> 01:31:31,570
+and if they’re the same you’ve found your
+match and return the index of that element,
+
+1216
+01:31:31,570 --> 01:31:35,610
+and if not you move on to the next element
+in the list until you either find the thing
+
+1217
+01:31:35,610 --> 01:31:40,360
+you’re searching for or you run out of list
+to check. Seems pretty simple right? This
+
+1218
+01:31:40,360 --> 01:31:44,360
+is because linear searches are pretty bad
+when it comes to efficiency, especially in
+
+1219
+01:31:44,360 --> 01:31:49,050
+the worst case scenario. If the item you’re
+searching for in the list is the last element,
+
+1220
+01:31:49,050 --> 01:31:53,320
+you’re going to have to check the entire
+list of items before you find the one you’re
+
+1221
+01:31:53,320 --> 01:31:57,260
+searching for. On average; however, you’re
+going to get it about halfway through the
+
+1222
+01:31:57,260 --> 01:32:03,260
+list. This makes the linear search O(n) worst-case
+scenario, since in the worst possible case
+
+1223
+01:32:03,260 --> 01:32:08,260
+it will take the entire length of the array,
+or n, to find the correct value. The linear
+
+1224
+01:32:08,260 --> 01:32:15,280
+search on average will return the correct
+index in O(n/2) or halfway through the list.

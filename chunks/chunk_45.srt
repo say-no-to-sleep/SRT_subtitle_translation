@@ -1,0 +1,11 @@
+Overall, remember to use the console to its
+
+201
+00:14:38,900 --> 00:14:43,590
+fullest extent when writing and fixing problems
+in your programs, as it is a great tool to
+
+202
+00:14:43,590 --> 00:14:48,320
+use to tell how your program is performing
+behind the scenes.

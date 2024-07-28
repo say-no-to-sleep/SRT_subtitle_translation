@@ -1,0 +1,34 @@
+
+1317
+01:40:12,219 --> 01:40:18,660
+Now we take that n, which is 1, and that is
+what gets added to 2 in the previous function
+
+1318
+01:40:18,660 --> 01:40:25,390
+call and then returned, so this would return
+3. Now this 3 is what gets added to the first
+
+1319
+01:40:25,390 --> 01:40:33,160
+function call, which is three, and so it becomes
+three plus three which is 6. And FINALLY after
+
+1320
+01:40:33,160 --> 01:40:38,240
+all that time, we get 6 returned from the
+function. Which, if you’ve been following
+
+1321
+01:40:38,240 --> 01:40:45,699
+along at home, 3 + 2 + 1 is indeed 6. Now
+this may seem like a waste of time since 1
+
+1322
+01:40:45,699 --> 01:40:51,469
++ 2 +3 is not a hard operation. But to those
+of you saying that I ask you to please give
+
+1323
+01:40:51,469 --> 01:40:58,300
+me the sum of all numbers from 1 to 3,567.

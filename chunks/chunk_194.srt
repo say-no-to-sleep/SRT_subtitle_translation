@@ -1,0 +1,30 @@
+You don’t need to pass any arguments into
+
+888
+01:05:54,150 --> 01:05:58,260
+the functions since the function will do the
+same thing no matter what the statistics on
+
+889
+01:05:58,260 --> 01:06:04,310
+the player are. Now, everytime the user wants
+to view their stats, you simply call the printStats()
+
+890
+01:06:04,310 --> 01:06:09,531
+function and voila, the user’s stats are
+printed for them to view. This allows you
+
+891
+01:06:09,531 --> 01:06:14,290
+to save a lot of time writing out code, but
+also a lot of space which is extremely important
+
+892
+01:06:14,290 --> 01:06:19,360
+when your programs begin getting into hundreds
+and thousands of lines and you want to easily
+
+893
+01:06:19,360 --> 01:06:21,390
+search through it.

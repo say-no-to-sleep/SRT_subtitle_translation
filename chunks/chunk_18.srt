@@ -1,0 +1,20 @@
+
+78
+00:05:53,509 --> 00:05:58,199
+The basic idea is that the lower the level
+of your programming language, the more your
+
+79
+00:05:58,199 --> 00:06:03,289
+code will resemble what the machine can interpret
+as instructions. Aside from the different
+
+80
+00:06:03,289 --> 00:06:07,310
+purposes that each language fulfills, choosing
+a programming language typically comes down
+
+81
+00:06:07,310 --> 00:06:13,020
+to a matter of preference, as there are usually
+many languages that accomplish similar tasks.

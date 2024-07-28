@@ -1,0 +1,15 @@
+
+1095
+01:22:21,260 --> 01:22:26,680
+Right now; though, I’d like to talk about
+2 cool, wacky and zany ways to store data
+
+1096
+01:22:26,680 --> 01:22:32,320
+that we haven’t previously covered: ArrayLists
+and dictionaries. But before we get into those,
+
+1097
+01:22:32,320 --> 01:22:35,910
+let’s get a little review/reinforcement
+of array’s.

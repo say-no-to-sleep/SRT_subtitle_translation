@@ -1,0 +1,26 @@
+Now while we could just make a string that
+
+240
+00:17:44,269 --> 00:17:48,549
+says that exact phrase and print it out to
+the console, in some cases it would be more
+
+241
+00:17:48,549 --> 00:17:52,590
+useful to print out the actual integer value,
+especially in the case of a game where the
+
+242
+00:17:52,590 --> 00:17:57,149
+score can change each time you play, because
+score definitely isn’t always going to be
+
+243
+00:17:57,149 --> 00:18:03,039
+4. Well, we’re also able to print multiple
+strings of text, and even integers by “adding”
+
+244
+00:18:03,039 --> 00:18:08,499
+them together in the print statement. This
+is called concatenation.

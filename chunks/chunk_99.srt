@@ -1,0 +1,34 @@
+
+459
+00:34:54,230 --> 00:34:59,640
+Now, for example, let’s say we changed the
+age variable to be 12 instead of 10. Now,
+
+460
+00:34:59,640 --> 00:35:02,710
+instead of the first conditional statement
+being, true, it actually evaluates as false,
+
+461
+00:35:02,710 --> 00:35:07,400
+since age no longer equals 10. So what we
+do now, is first skip over the print statement
+
+462
+00:35:07,400 --> 00:35:11,690
+which prints out that the age is 10, since
+it’s not. And now we evaluate the else if
+
+463
+00:35:11,690 --> 00:35:15,740
+statement. We check if age is equal to 12,
+which again it does, and so now we run all
+
+464
+00:35:15,740 --> 00:35:19,750
+the code inside of that conditional statement
+before finally moving on to the rest of the
+
+465
+00:35:19,750 --> 00:35:20,850
+program.

@@ -1,0 +1,10 @@
+Additionally, there will be no software required
+
+19
+00:01:11,660 --> 00:01:15,670
+for you to download in order to follow along
+with this tutorial as we won’t be writing
+
+20
+00:01:15,670 --> 00:01:21,940
+any code to keep things simple and concentrated.

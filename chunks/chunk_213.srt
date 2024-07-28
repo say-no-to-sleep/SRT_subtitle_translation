@@ -1,0 +1,30 @@
+
+965
+01:11:59,380 --> 01:12:04,110
+Now if you don’t know what specific classes
+you’re going to want to pull methods from,
+
+966
+01:12:04,110 --> 01:12:08,710
+you can use a star * to import all classes
+within the package you’d like. However,
+
+967
+01:12:08,710 --> 01:12:12,700
+it can be beneficial to be more specific,
+and only import the classes you would like,
+
+968
+01:12:12,700 --> 01:12:18,380
+as it helps with efficiency of the program
+in the long run. For instance, in python,
+
+969
+01:12:18,380 --> 01:12:24,140
+the syntax to import a library is import followed
+by the library name. However, importing an
+
+970
+01:12:24,140 --> 01:12:31,060
+entire library is more computationally taxing
+than importing specific functions from a library.

@@ -1,0 +1,25 @@
+
+1283
+01:37:05,840 --> 01:37:10,090
+To better understand these functions, let’s
+discuss the basics of how we go about programming
+
+1284
+01:37:10,090 --> 01:37:12,890
+one of these recursive functions and create
+one ourselves. A really good easy example
+
+1285
+01:37:12,890 --> 01:37:17,781
+of a recursive function is one which sums
+all numbers from 1 to n, so let’s make a
+
+1286
+01:37:17,781 --> 01:37:21,930
+recursive function that does just that. The
+first thing we need is the actual function,
+
+1287
+01:37:21,930 --> 01:37:26,750
+and we’re going to make it an integer function
+which takes in an integer n as an argument.

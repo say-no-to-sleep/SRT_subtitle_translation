@@ -1,0 +1,81 @@
+Examples of general purpose languages are
+
+1491
+01:54:16,210 --> 01:54:22,421
+Java, C++, and Python. They each have their
+own different benefits over one another. Java
+
+1492
+01:54:22,421 --> 01:54:28,300
+is best at developing games and interactive
+web pages, Python can act as a scripting language
+
+1493
+01:54:28,300 --> 01:54:34,170
+for web programming as well as writing applications
+and data analysis. And C++ is best for writing
+
+1494
+01:54:34,170 --> 01:54:39,260
+applications and system programs. They all
+have a variety of packages that you can import
+
+1495
+01:54:39,260 --> 01:54:43,410
+and use to achieve the functionality you need
+from them. While selecting the right general
+
+1496
+01:54:43,410 --> 01:54:47,440
+purpose language for your big projects is
+very important, for most of your programs
+
+1497
+01:54:47,440 --> 01:54:52,160
+any one of them will work. It really comes
+down to preference. Get to know each language,
+
+1498
+01:54:52,160 --> 01:54:57,130
+and decide which one’s syntax rules you
+like best and find most comfortable. If you
+
+1499
+01:54:57,130 --> 01:55:01,410
+get to know one general purpose language really
+well and enjoy programming with it, you can
+
+1500
+01:55:01,410 --> 01:55:05,460
+apply it to just about any of the programs
+you plan on writing. Personally, I tend to
+
+1501
+01:55:05,460 --> 01:55:09,739
+use Python for most of my projects. This is
+mostly not due to any functional difference
+
+1502
+01:55:09,739 --> 01:55:14,460
+between Python and any other general purpose
+language, though there are a decent amount,
+
+1503
+01:55:14,460 --> 01:55:18,510
+but it is mainly because I find its syntax
+rules most convenient and easiest to write
+
+1504
+01:55:18,510 --> 01:55:23,950
+programs with. Overall, either you can consider
+the project you plan on doing, and research
+
+1505
+01:55:23,950 --> 01:55:29,469
+and see which language boasts the most advantages
+for your purposes, or you can simply become
+
+1506
+01:55:29,469 --> 01:55:34,580
+comfortable with a language and use it for
+most of the projects you decide to write.

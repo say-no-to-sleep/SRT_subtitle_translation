@@ -1,0 +1,20 @@
+
+767
+00:56:42,240 --> 00:56:46,500
+Now we know what the problem is we can track
+down where and when in the code we modify
+
+768
+00:56:46,500 --> 00:56:51,540
+x to figure out the problem. Use print statements
+to determine where your program goes wrong,
+
+769
+00:56:51,540 --> 00:56:56,720
+and then try to track down the cause of these
+issues and solve them. If you use this strategy,
+
+770
+00:56:56,720 --> 00:57:00,470
+make sure you end up deleting the print statements
+afterwards to avoid clutter in the console.

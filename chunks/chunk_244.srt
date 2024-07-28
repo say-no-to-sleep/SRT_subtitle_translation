@@ -1,0 +1,19 @@
+
+1144
+01:26:08,400 --> 01:26:13,040
+Now like I said, dictionaries are more fluid,
+making them easier to organize than arrays,
+
+1145
+01:26:13,040 --> 01:26:17,980
+as everything is set up in a more logical
+manner. That is to say, it is easier to find
+
+1146
+01:26:17,980 --> 01:26:22,330
+the value you are looking for when you are
+using keys rather than simply referencing
+
+1147
+01:26:22,330 --> 01:26:27,230
+their positions. Let me explain what I mean.

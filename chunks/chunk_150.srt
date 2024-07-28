@@ -1,0 +1,54 @@
+
+686
+00:50:48,850 --> 00:50:53,210
+This can be anything, from forgetting a semicolon
+at the end of a statement in java, accidentally
+
+687
+00:50:53,210 --> 00:50:57,340
+defining a variable with two words instead
+of one, or even just misspelling the word
+
+688
+00:50:57,340 --> 00:51:01,940
+String when you’re trying to define a string
+variable. Lucky for you guys, these errors
+
+689
+00:51:01,940 --> 00:51:06,200
+are extremely easy to fix since you just need
+to figure out where the error occurred and
+
+690
+00:51:06,200 --> 00:51:11,420
+what the syntax rule you broke was. Now thinking
+back to IDE’s, we mentioned that IDE’s
+
+691
+00:51:11,420 --> 00:51:16,580
+are so useful because they do precisely that,
+they underline syntax errors and usually provide
+
+692
+00:51:16,580 --> 00:51:21,490
+helpful hints as to how to fix them. Think
+of syntax errors as small misspellings or
+
+693
+00:51:21,490 --> 00:51:26,690
+grammatical errors in an essay you’re writing,
+annoying; yes, but not the most infuriating
+
+694
+00:51:26,690 --> 00:51:31,560
+things. Another useful thing about IDE’s
+when it comes to syntax errors is that the
+
+695
+00:51:31,560 --> 00:51:36,320
+program will actually restrict you from running
+the code unless all syntax errors are cleared,
+
+696
+00:51:36,320 --> 00:51:40,430
+making them even easier to identify and fix.

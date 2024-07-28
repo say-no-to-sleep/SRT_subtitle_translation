@@ -1,0 +1,104 @@
+
+1008
+01:15:16,340 --> 01:15:23,730
+Alright, so in general for making functions,
+each language differentiates how you tell
+
+1009
+01:15:23,730 --> 01:15:29,340
+the computer that it's a function. In java
+you have to define the functions scope, which
+
+1010
+01:15:29,340 --> 01:15:32,780
+is something you don’t really need to know
+unless you’re going to become more invested
+
+1011
+01:15:32,780 --> 01:15:38,130
+in java, but basically it tells the computer
+which parts of code can use the function and
+
+1012
+01:15:38,130 --> 01:15:43,790
+which type can’t. For this series all of
+our functions are going to be public. From
+
+1013
+01:15:43,790 --> 01:15:48,230
+there you then determine which type of function
+it is, so in this case since it won’t be
+
+1014
+01:15:48,230 --> 01:15:52,481
+returning any variables we’ll just put void
+to signify this type of function will not
+
+1015
+01:15:52,481 --> 01:15:57,820
+be returning anything. Finally, you put the
+function name after those two identifiers
+
+1016
+01:15:57,820 --> 01:16:02,380
+along with a set of parentheses after it like
+so. The parenthesis are where your arguments
+
+1017
+01:16:02,380 --> 01:16:06,630
+would go if you were making a function that
+took in arguments, but since for our first
+
+1018
+01:16:06,630 --> 01:16:11,050
+type of function we’re not incorporating
+arguments into this function, let's just leave
+
+1019
+01:16:11,050 --> 01:16:17,710
+that blank. All of that is just for Java;
+Python on the other hand all you do is put
+
+1020
+01:16:17,710 --> 01:16:23,420
+def, short for define, and then the function
+name with a set of parenthesis. So as you
+
+1021
+01:16:23,420 --> 01:16:29,000
+can see, each language is going to be different,
+but the main thing we want to remember is
+
+1022
+01:16:29,000 --> 01:16:34,420
+to always add parentheses. From there, we
+just type what we want our void function to
+
+1023
+01:16:34,420 --> 01:16:38,700
+do within the confines of the function and
+then close off the loop and we’re done,
+
+1024
+01:16:38,700 --> 01:16:42,400
+easy peasy. In Java, the confines of the loop
+would be whatever is contained within the
+
+1025
+01:16:42,400 --> 01:16:47,980
+curly brackets, and in python it would be
+until you are no longer indented. At its core,
+
+1026
+01:16:47,980 --> 01:16:51,520
+this is the most primitive type of function
+we’ve just made. Something which takes in
+
+1027
+01:16:51,520 --> 01:16:56,420
+no arguments and returns no values, quite
+similar to the printStats function from earlier
+
+1028
+01:16:56,420 --> 01:16:58,370
+on.

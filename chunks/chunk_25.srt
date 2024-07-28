@@ -1,0 +1,25 @@
+
+109
+00:08:08,990 --> 00:08:12,789
+So through these IDE’s we are finally able
+to write and compile code smoothly without
+
+110
+00:08:12,789 --> 00:08:16,719
+worrying about the computer not being able
+to understand it. The next problem we run
+
+111
+00:08:16,719 --> 00:08:21,099
+into then becomes how do we write this code
+in the IDE, because it’s not like we can
+
+112
+00:08:21,099 --> 00:08:25,129
+just type random words from a certain programming
+language and expect the compiler to understand
+
+113
+00:08:25,129 --> 00:08:29,740
+it. This is where a programming language’s
+syntax comes into play.

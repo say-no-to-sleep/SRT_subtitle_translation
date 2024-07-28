@@ -1,0 +1,15 @@
+
+194
+00:14:11,630 --> 00:14:15,360
+The console is not really meant to be viewed
+by the end user of your program. It tends
+
+195
+00:14:15,360 --> 00:14:18,820
+to be hidden away behind the scenes, and other
+methods of displaying information such as
+
+196
+00:14:18,820 --> 00:14:23,570
+displaying text, graphics, or images are used
+to convey information to the user instead.

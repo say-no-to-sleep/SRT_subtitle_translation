@@ -1,0 +1,9 @@
+
+732
+00:54:23,300 --> 00:54:26,700
+Speaking of debugging your code, that brings
+us straight into our next topic, which is
+
+733
+00:54:26,700 --> 00:54:28,290
+how to debug your program.

@@ -1,0 +1,15 @@
+
+510
+00:38:06,390 --> 00:38:09,830
+Now we’ve already talked about variables,
+and how great they are for storing singular
+
+511
+00:38:09,830 --> 00:38:14,210
+bits information for making our code more
+simplistic, but one of the biggest drawbacks
+
+512
+00:38:14,210 --> 00:38:19,490
+that come with variables is their inability
+to hold more than one piece of differing information.

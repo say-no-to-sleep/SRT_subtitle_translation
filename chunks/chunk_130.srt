@@ -1,0 +1,10 @@
+Sure, you could just copy and paste the print
+
+601
+00:45:02,670 --> 00:45:06,640
+statement 15 times. But this is really annoying
+to have to do, and becomes even more unrealistic
+
+602
+00:45:06,640 --> 00:45:10,860
+when that number goes up to, say, 100 or so.

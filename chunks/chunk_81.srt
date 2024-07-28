@@ -1,0 +1,21 @@
+This is what the computer does, except the
+
+348
+00:25:52,789 --> 00:25:59,119
+storage facility is memory, the box is a variable,
+and the contents of the box are whatever the
+
+349
+00:25:59,119 --> 00:26:04,730
+variable is set to be equal to. Any time you
+want to know the contents of the name variable,
+
+350
+00:26:04,730 --> 00:26:09,169
+you can simply call it and the computer will
+pull the information that is stored in that
+
+351
+00:26:09,169 --> 00:26:13,630
+variable out and use it how the user sees
+fit.

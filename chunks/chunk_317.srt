@@ -1,0 +1,10 @@
+
+1550
+01:58:33,370 --> 01:58:37,270
+As you can see, the world of code has now
+been opened up to you. These are just a few
+
+1551
+01:58:37,270 --> 01:58:41,410
+examples of where you can go from here but
+there are many more we didn’t talk about.

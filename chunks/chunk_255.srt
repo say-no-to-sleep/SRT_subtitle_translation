@@ -1,0 +1,35 @@
+
+1225
+01:32:15,280 --> 01:32:19,640
+The linear search is great; however, since
+it can work with both sorted and unsorted
+
+1226
+01:32:19,640 --> 01:32:25,100
+lists, because of the fact that it will eventually
+cover every element in the list. The other
+
+1227
+01:32:25,100 --> 01:32:29,130
+search we’ll cover requires the list to
+be sorted which may seem like a drawback,
+
+1228
+01:32:29,130 --> 01:32:33,210
+but having a sorted list allows you to use
+algorithms that are far more efficient than
+
+1229
+01:32:33,210 --> 01:32:37,631
+the linear search. So overall, the linear
+search is a good basic searching algorithm
+
+1230
+01:32:37,631 --> 01:32:42,040
+for if you have an unsorted list, but if your
+list is sorted, there are way more efficient
+
+1231
+01:32:42,040 --> 01:32:47,330
+options out there for you, such as the binary
+search which we’ll be talking about now.

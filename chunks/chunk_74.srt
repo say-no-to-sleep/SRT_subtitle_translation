@@ -1,0 +1,46 @@
+String variables can store strings of letters,
+
+308
+00:23:01,440 --> 00:23:05,039
+which are just words and sentences. Strings
+are useful for displaying text and storing
+
+309
+00:23:05,039 --> 00:23:09,929
+input information. Strings can also be concatenated
+together to form combinations of string variables
+
+310
+00:23:09,929 --> 00:23:14,159
+and prewritten strings. This is very useful
+for outputting information in a readable format
+
+311
+00:23:14,159 --> 00:23:18,049
+for the user. For example, imagine that we
+have a string called “name”. The code
+
+312
+00:23:18,049 --> 00:23:22,279
+asks for input, and stores that string of
+text in name. To output this information to
+
+313
+00:23:22,279 --> 00:23:25,809
+the user, rather than simply displaying their
+name, you can add the phrase “Your name
+
+314
+00:23:25,809 --> 00:23:31,389
+is:” and make it into a sentence by concatenating
+“Your name is:” + name + “.” This
+
+315
+00:23:31,389 --> 00:23:36,049
+makes it easier to read your code, while also
+adding variability to your code, which always
+
+316
+00:23:36,049 --> 00:23:38,820
+makes things more interesting for the end
+user.

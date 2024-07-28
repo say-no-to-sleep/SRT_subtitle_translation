@@ -1,0 +1,15 @@
+If you make an array of arrays it's referred
+
+580
+00:43:29,990 --> 00:43:35,290
+to as a 2D, or 2 dimensional array. Think
+of these as matrices if any of you have taken
+
+581
+00:43:35,290 --> 00:43:40,200
+algebra classes. Now If you haven’t, think
+back to our google sheets example but instead
+
+582
+00:43:40,200 --> 00:43:45,830
+of just columns, we would add rows as well.

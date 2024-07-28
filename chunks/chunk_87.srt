@@ -1,0 +1,86 @@
+Then you celebrated a birthday and wanted
+
+375
+00:28:02,009 --> 00:28:06,700
+to update your age. All you have to do is
+reference the variable, and set it equal to
+
+376
+00:28:06,700 --> 00:28:12,049
+whatever new integer you want the variable
+to hold, in this case 18. This would be the
+
+377
+00:28:12,049 --> 00:28:16,320
+same as having a box labeled age, with a sheet
+of paper reading 17 inside of it, and then
+
+378
+00:28:16,320 --> 00:28:22,139
+taking that piece of paper out, erasing 17,
+replacing it with 18, and then placing it
+
+379
+00:28:22,139 --> 00:28:27,129
+back into the box. Doing this, we are able
+to easily update the contents of our variables
+
+380
+00:28:27,129 --> 00:28:31,850
+throughout the code as things dynamically
+shift. As another example, if you were making
+
+381
+00:28:31,850 --> 00:28:38,640
+an RPG, your character will likely have stats
+such as attack, defense, mana, etc. As the
+
+382
+00:28:38,640 --> 00:28:42,590
+game progressed you could continuously update
+the variables so that the player could get
+
+383
+00:28:42,590 --> 00:28:46,350
+more powerful the further along that they
+went through the game, and you wouldn’t
+
+384
+00:28:46,350 --> 00:28:50,590
+have to create new variables. You would just
+simply need to keep grabbing that box from
+
+385
+00:28:50,590 --> 00:28:55,080
+your storage facility, erasing and replacing
+the numbers on the piece of paper, and then
+
+386
+00:28:55,080 --> 00:28:59,359
+continue along with your code. Just keep in
+mind that these variables are nothing more
+
+387
+00:28:59,359 --> 00:29:04,210
+than places in memory in which a certain value
+is stored, so we can easily update the numbers,
+
+388
+00:29:04,210 --> 00:29:09,369
+and their place will remain constant. After
+a code has run its course, the place in memory
+
+389
+00:29:09,369 --> 00:29:13,509
+is deleted until you run the code again and
+the program dedicates space for the variable
+
+390
+00:29:13,509 --> 00:29:18,729
+again. Each time you run the code, you're
+making new boxes in your storage facility,
+
+391
+00:29:18,729 --> 00:29:23,840
+and at the end of your code, you destroy them
+all to make room for new boxes next time.

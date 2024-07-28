@@ -1,0 +1,5 @@
+It’s very similar to an else case at the
+
+495
+00:37:10,570 --> 00:37:11,820
+end of an if-else chain.

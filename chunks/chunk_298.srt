@@ -1,0 +1,16 @@
+The main goal here is to drastically minimize
+
+1445
+01:50:28,590 --> 01:50:32,469
+the amount of errors that occur during your
+programming and relieve a lot of stress on
+
+1446
+01:50:32,469 --> 01:50:37,120
+your head. The importance of pseudocode cannot
+be stressed enough, and if you don’t believe
+
+1447
+01:50:37,120 --> 01:50:42,310
+me, I urge you to try and complete a large
+project without it.

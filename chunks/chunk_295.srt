@@ -1,0 +1,15 @@
+
+1434
+01:49:35,699 --> 01:49:40,050
+If you really wanted to, you could also create
+a flowchart that would go through the functionality
+
+1435
+01:49:40,050 --> 01:49:45,010
+of all 4 methods described above. Setting
+up the hierarchy like seen on your screen
+
+1436
+01:49:45,010 --> 01:49:50,050
+now makes it clear to see every function and
+interface you’re going to have to make.

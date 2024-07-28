@@ -1,0 +1,30 @@
+This can be because you want to store information
+
+356
+00:26:33,759 --> 00:26:37,509
+in it later down the road, or if you’re
+going to use it to store information given
+
+357
+00:26:37,509 --> 00:26:41,610
+to you by the user, in which case you CAN’T
+give it information since you don’t know
+
+358
+00:26:41,610 --> 00:26:47,570
+what the user will input. Just note that if
+you try to reference, or point, to a variable
+
+359
+00:26:47,570 --> 00:26:52,280
+which does not have any information in it,
+you’ll get what’s known as a NullPointerException,
+
+360
+00:26:52,280 --> 00:26:55,640
+which despite being an awesome name for a
+YouTube channel, is something you generally
+
+361
+00:26:55,640 --> 00:26:57,760
+want to avoid when programming.

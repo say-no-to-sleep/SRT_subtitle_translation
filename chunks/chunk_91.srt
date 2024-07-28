@@ -1,0 +1,20 @@
+
+422
+00:31:54,789 --> 00:32:00,190
+Next, we’ll be moving on to conditional
+statements, which at their core, are statements
+
+423
+00:32:00,190 --> 00:32:04,049
+that change the path of our code depending
+on certain conditions. For the sake of keeping
+
+424
+00:32:04,049 --> 00:32:07,659
+things simple, for this section, red lines
+will connote that our code will NOT be following
+
+425
+00:32:07,659 --> 00:32:12,860
+that specific path, and green lines will mean
+that our code IS following that path.

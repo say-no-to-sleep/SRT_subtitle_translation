@@ -1,0 +1,25 @@
+
+203
+00:14:48,320 --> 00:14:52,061
+So now that we know a whole bunch of information
+about programming languages and how and where
+
+204
+00:14:52,061 --> 00:14:56,420
+to write them, along with the print statement
+under our belts, let’s go over some intuitive
+
+205
+00:14:56,420 --> 00:15:00,810
+things the computer can do all by itself,
+without you having to tell it how to. More
+
+206
+00:15:00,810 --> 00:15:05,910
+specifically, we’ll be covering basic number
+mathematics as well as string math
+
+207
+00:15:05,910 --> 00:15:10,310
+Starting off with basic mathematics, the computer
+already knows how to do simple arithmetic.

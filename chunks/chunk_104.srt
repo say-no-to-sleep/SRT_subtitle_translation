@@ -1,0 +1,29 @@
+
+488
+00:36:43,990 --> 00:36:47,280
+Now switch statements are different since
+instead of using brackets, they use a colon
+
+489
+00:36:47,280 --> 00:36:51,740
+to signify the start of a set of instructions,
+and a break statement to end it. This is very
+
+490
+00:36:51,740 --> 00:36:55,460
+useful because you are able to essentially
+use many if and else if statements without
+
+491
+00:36:55,460 --> 00:36:59,280
+having to write nearly as much. In switch
+statements, you just always have to remember
+
+492
+00:36:59,280 --> 00:37:03,340
+to include a default case at the bottom of
+the expression to denote any and all cases
+
+493
+00:37:03,340 --> 00:37:06,990
+that don’t meet the above requirements.

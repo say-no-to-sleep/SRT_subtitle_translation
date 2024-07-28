@@ -1,0 +1,24 @@
+
+727
+00:54:02,630 --> 00:54:06,530
+This is why it's a good idea to test your
+code incrementally, don’t wait until you’ve
+
+728
+00:54:06,530 --> 00:54:10,480
+been programming for an hour before testing
+your application, or else you’ll run into
+
+729
+00:54:10,480 --> 00:54:15,520
+a lot of logic errors. Logic errors can be
+extremely frustrating and could cost you a
+
+730
+00:54:15,520 --> 00:54:19,990
+lot of time, making them a huge pain, but
+if you know how to effectively debug your
+
+731
+00:54:19,990 --> 00:54:23,300
+code, you’ll be just fine.

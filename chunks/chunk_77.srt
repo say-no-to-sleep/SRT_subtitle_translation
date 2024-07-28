@@ -1,0 +1,31 @@
+A program may also rely on factors that will
+
+331
+00:24:35,200 --> 00:24:40,190
+change as the program progresses, in which
+case a variable is once again required. Also,
+
+332
+00:24:40,190 --> 00:24:43,400
+taking these variables and manipulating them
+is quite necessary for carrying out many of
+
+333
+00:24:43,400 --> 00:24:47,129
+the tasks you want a program to carry out,
+for instance multiplying int variables or
+
+334
+00:24:47,129 --> 00:24:52,111
+concatenating string variables. Overall variables
+are the backbone of any good program and you’ll
+
+335
+00:24:52,111 --> 00:24:56,279
+find yourself using them often if you want
+clean and efficient code, so it's best that
+
+336
+00:24:56,279 --> 00:24:59,179
+you learn what types of variables you need
+to use and when.

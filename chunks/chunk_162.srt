@@ -1,0 +1,9 @@
+
+749
+00:55:32,980 --> 00:55:36,440
+Maybe you did something as simple as multiply
+two variables instead of adding them. These
+
+750
+00:55:36,440 --> 00:55:40,730
+are the logic errors we talked about previously.

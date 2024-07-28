@@ -1,0 +1,30 @@
+
+115
+00:08:35,410 --> 00:08:40,150
+Some have different styles that may seem odd,
+some may make you use abstract or weird concepts
+
+116
+00:08:40,150 --> 00:08:44,700
+which may be confusing, and like all languages,
+programming languages have a set of rules
+
+117
+00:08:44,700 --> 00:08:48,400
+that you must follow when writing code in
+that language, and at the forefront of those
+
+118
+00:08:48,400 --> 00:08:54,970
+rules is grammar. Programming grammar is referred
+to as syntax and is very similar to real-world
+
+119
+00:08:54,970 --> 00:08:59,150
+grammar. Each programming language has its
+own syntax, or rules, that you have to follow
+
+120
+00:08:59,150 --> 00:09:04,720
+to a tee if you want your program to run correctly,
+just as if you were speaking in real life.

@@ -1,0 +1,40 @@
+
+1451
+01:50:56,010 --> 01:51:01,530
+But what kind of program? I can hear you asking
+me. And the answer is truly whatever you want,
+
+1452
+01:51:01,530 --> 01:51:05,370
+really. As I’m sure you know by now, you
+can program just about anything that you have
+
+1453
+01:51:05,370 --> 01:51:10,530
+on your mind, anything from simple games to
+complex software. We’ve equipped you with
+
+1454
+01:51:10,530 --> 01:51:15,370
+the basics that are going to be used in pretty
+much any program you do decide to write. But
+
+1455
+01:51:15,370 --> 01:51:20,360
+that doesn’t mean every programming language
+is perfect for every application. Each language
+
+1456
+01:51:20,360 --> 01:51:25,050
+has its own strengths and weaknesses, and
+choosing the right one is very important for
+
+1457
+01:51:25,050 --> 01:51:30,321
+making it easier, or sometimes even just possible,
+for you to program what you want. So that’s
+
+1458
+01:51:30,321 --> 01:51:34,739
+what we are going to talk about now: choosing
+the best language for what you want to accomplish.

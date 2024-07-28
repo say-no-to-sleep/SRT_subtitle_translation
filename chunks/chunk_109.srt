@@ -1,0 +1,25 @@
+Another example could be a program which changes
+
+502
+00:37:36,760 --> 00:37:40,520
+the color scheme depending on the time of
+day. Or even more simply, if a user presses
+
+503
+00:37:40,520 --> 00:37:44,130
+a button that is meant to move on to another
+screen in an app, the programmer would only
+
+504
+00:37:44,130 --> 00:37:48,450
+want the app to change screens if the user
+clicks that button. A program without conditional
+
+505
+00:37:48,450 --> 00:37:51,870
+statements would do the same thing every time,
+and would be very primitive compared to one
+
+506
+00:37:51,870 --> 00:37:54,770
+that can change depending on its conditions.

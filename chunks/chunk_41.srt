@@ -1,0 +1,39 @@
+
+184
+00:13:34,879 --> 00:13:37,930
+It is important to note that the print statement
+varies depending on the programming language
+
+185
+00:13:37,930 --> 00:13:42,320
+being used. For example, in Java there are
+multiple versions of the print statement depending
+
+186
+00:13:42,320 --> 00:13:46,770
+upon whether you would like a line break after
+the printed text, and specialized print statements
+
+187
+00:13:46,770 --> 00:13:51,430
+which make your code more efficient. Also,
+the general syntax of using a print statement
+
+188
+00:13:51,430 --> 00:13:55,880
+and certain nuances of its function can change
+between languages. However, you can generally
+
+189
+00:13:55,880 --> 00:14:00,490
+rely on it carrying out the same overall function,
+as it is a foundational statement for programming
+
+190
+00:14:00,490 --> 00:14:02,040
+in general. So print statements, they print
+information out to the console for the developer
+
+191
+00:14:02,040 --> 00:14:03,040
+to use, nice.

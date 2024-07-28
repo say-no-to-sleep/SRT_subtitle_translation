@@ -1,0 +1,5 @@
+
+971
+01:12:31,060 --> 01:12:35,110
+Imagine you would only be using the factorial
+function from the python math library.

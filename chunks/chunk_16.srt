@@ -1,0 +1,34 @@
+
+67
+00:05:03,210 --> 00:05:07,050
+There are many different programming languages
+out there that each have their own unique
+
+68
+00:05:07,050 --> 00:05:12,490
+uses. Languages such as Python and Java act
+as general purpose languages that can perform
+
+69
+00:05:12,490 --> 00:05:18,960
+a variety of computational tasks, while RobotC
+or HTML/CSS are languages designed for more
+
+70
+00:05:18,960 --> 00:05:24,169
+specific purposes such as moving a robot or
+constructing a website. Languages can also
+
+71
+00:05:24,169 --> 00:05:29,250
+vary in how powerful they are. For instance,
+JavaScript is a scripting language that is
+
+72
+00:05:29,250 --> 00:05:34,560
+designed for smaller tasks while java or python
+can carry out much more computationally taxing
+
+73
+00:05:34,560 --> 00:05:35,560
+processes.

@@ -1,0 +1,14 @@
+
+171
+00:12:41,920 --> 00:12:46,600
+The most basic thing you can ask the print
+statement to do is just simply make it say
+
+172
+00:12:46,600 --> 00:12:50,420
+something. This is done by instructing the
+console to print, and then include whatever
+
+173
+00:12:50,420 --> 00:12:55,170
+you want to be printed inside the parentheses.

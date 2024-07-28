@@ -1,0 +1,10 @@
+
+894
+01:06:21,390 --> 01:06:26,410
+Okay, now that we’ve separated functions
+into those that take arguments and those that
+
+895
+01:06:26,410 --> 01:06:31,850
+do not, let’s again split these up into
+those that return values and those that don’t.

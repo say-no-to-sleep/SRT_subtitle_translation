@@ -1,0 +1,9 @@
+
+50
+00:03:43,740 --> 00:03:48,410
+In order to speak with him, you have to convert
+the instructions that you understand in english
+
+51
+00:03:48,410 --> 00:03:53,410
+into the language that your friend understands.

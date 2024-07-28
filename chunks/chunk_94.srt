@@ -1,0 +1,34 @@
+
+437
+00:33:07,249 --> 00:33:12,179
+Now, the condition within the parenthesis
+can take on thousands of different forms such
+
+438
+00:33:12,179 --> 00:33:17,840
+as if the value the string variable Name is
+equal to “Steven” or if the player's score,
+
+439
+00:33:17,840 --> 00:33:22,460
+stored in an int variable, is greater than
+5, the list goes on and on. Each of these
+
+440
+00:33:22,460 --> 00:33:26,779
+statements is evaluated as a boolean, which
+you will remember from when we talked about
+
+441
+00:33:26,779 --> 00:33:32,610
+variables is either true or false. If the
+boolean is true, we run the code inside the
+
+442
+00:33:32,610 --> 00:33:38,279
+curly braces, if it’s not, we pretend everything
+inside the curly braces never existed and
+
+443
+00:33:38,279 --> 00:33:40,970
+move on with our code.

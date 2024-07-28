@@ -1,0 +1,6 @@
+We usually do this to save space in our code
+
+372
+00:27:48,729 --> 00:27:52,110
+for things that we know are going to have
+the same value.

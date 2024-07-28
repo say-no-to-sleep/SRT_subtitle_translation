@@ -1,0 +1,15 @@
+If you decide you want to use another function
+
+978
+01:13:03,960 --> 01:13:09,120
+that you hadn’t planned for, you can always
+go back and import that too. Many times, if
+
+979
+01:13:09,120 --> 01:13:13,020
+you try to use a function from a common package
+and you have not yet imported it yet, the
+
+980
+01:13:13,020 --> 01:13:15,310
+IDE will prompt you to do so.

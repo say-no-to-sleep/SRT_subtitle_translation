@@ -1,0 +1,4 @@
+
+917
+01:08:17,500 --> 01:08:23,070
+So there you have it, the 4 types of functions.

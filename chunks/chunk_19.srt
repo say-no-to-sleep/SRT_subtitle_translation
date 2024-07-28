@@ -1,0 +1,9 @@
+
+82
+00:06:13,020 --> 00:06:17,940
+Try different languages, and decide which
+one’s rules, interface, and level of simplification
+
+83
+00:06:17,940 --> 00:06:20,750
+you like best.

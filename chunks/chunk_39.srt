@@ -1,0 +1,15 @@
+
+176
+00:13:01,880 --> 00:13:05,770
+The print statement is also vital for viewing
+and interpreting the computer’s output from
+
+177
+00:13:05,770 --> 00:13:11,070
+a program. For instance, if you tell a computer
+to run a simple calculation, for instance
+
+178
+00:13:11,070 --> 00:13:16,270
+to determine what 4+3 is, it will run the
+program internally and compute an answer.

@@ -1,0 +1,84 @@
+
+1127
+01:24:48,840 --> 01:24:52,739
+Now when we talk about dictionaries, we’re
+not referencing that thick book you probably
+
+1128
+01:24:52,739 --> 01:24:57,739
+have lying around your house which has thousands
+of definitions. In computer science, dictionaries
+
+1129
+01:24:57,739 --> 01:25:02,340
+are like arrays, in that they store multiple
+values, however their values are stored very
+
+1130
+01:25:02,340 --> 01:25:06,360
+differently. Rather than being referenced
+by their position within the dictionary linearly,
+
+1131
+01:25:06,360 --> 01:25:10,981
+each value is tied to another value that is
+used to reference it, or its “key”. Because
+
+1132
+01:25:10,981 --> 01:25:15,250
+of this, we need to throw away all conceptions
+of dictionaries as a linear way of looking
+
+1133
+01:25:15,250 --> 01:25:21,469
+at data, since in actuality it is much more
+fluid and interchanging. Basically, we say
+
+1134
+01:25:21,469 --> 01:25:26,590
+that each position in a dictionary holds a
+key/value pair. When referencing a value in
+
+1135
+01:25:26,590 --> 01:25:31,190
+a dictionary, you will use it’s unique key,
+and the dictionary will tell you the value
+
+1136
+01:25:31,190 --> 01:25:36,060
+that is tied to it. Think of it like this,
+each time you add an item to your dictionary,
+
+1137
+01:25:36,060 --> 01:25:40,870
+your computer creates a handcrafted box to
+store the data, and also custom-makes a jeweled
+
+1138
+01:25:40,870 --> 01:25:46,390
+key, one of a kind, no other like it in the
+world. This way, there is only one key that
+
+1139
+01:25:46,390 --> 01:25:51,550
+goes to the box that stores a certain bit
+of information. Because each key must be unique,
+
+1140
+01:25:51,550 --> 01:25:55,430
+reusing a key in a dictionary will result
+in an error being thrown because having two
+
+1141
+01:25:55,430 --> 01:26:00,739
+keys that are exactly the same would confuse
+the computer as to what box, or bit of information,
+
+1142
+01:26:00,739 --> 01:26:05,860
+that key leads to. However, you can store
+the same value in multiple key/value pairs,
+
+1143
+01:26:05,860 --> 01:26:08,400
+since the keys would all be different.

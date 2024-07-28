@@ -1,0 +1,40 @@
+
+1083
+01:21:19,520 --> 01:21:24,239
+The final type of function is one that returns
+variables and also takes in arguments, and
+
+1084
+01:21:24,239 --> 01:21:28,390
+for these all you need to do is combine what
+we’ve learned from the previous cases. First,
+
+1085
+01:21:28,390 --> 01:21:33,770
+you assign your arguments in between the parenthesis,
+making sure you have also defined what variable
+
+1086
+01:21:33,770 --> 01:21:38,960
+you want to return, and then ensure that no
+matter what path the code takes that you are
+
+1087
+01:21:38,960 --> 01:21:44,271
+always returning that variable type. That
+concludes our discussion on functions. As
+
+1088
+01:21:44,271 --> 01:21:48,770
+you can probably tell, functions are an extremely
+vast subject area and require a little bit
+
+1089
+01:21:48,770 --> 01:21:53,630
+of practice to fully understand, which is
+why later on we’ll recommend some websites
+
+1090
+01:21:53,630 --> 01:21:58,790
+you can use to practice these more difficult
+topics.

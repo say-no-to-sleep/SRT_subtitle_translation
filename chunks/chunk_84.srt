@@ -1,0 +1,49 @@
+
+362
+00:26:57,760 --> 00:27:01,789
+Now, programming languages allow us to do
+some pretty cool things with these “boxes”
+
+363
+00:27:01,789 --> 00:27:07,820
+that we’ve created. For example, let’s
+say we created a second variable “channelName”
+
+364
+00:27:07,820 --> 00:27:12,950
+and instead of setting it equal to “NullPointerException”,
+we instead set it equal to our already created
+
+365
+00:27:12,950 --> 00:27:18,230
+“Name” variable. This doesn’t create
+a space in memory for this new variable; however,
+
+366
+00:27:18,230 --> 00:27:23,320
+it simply points to the same location of memory
+we have already created for the “Name”
+
+367
+00:27:23,320 --> 00:27:27,929
+variable. Going back to our storage facility
+example, this would like if instead of creating
+
+368
+00:27:27,929 --> 00:27:31,799
+a whole new box labeled “channelName”
+and storing a sheet of paper with the word
+
+369
+00:27:31,799 --> 00:27:37,759
+“NullPointerException” on it, we instead
+simply added another label below the “Name”
+
+370
+00:27:37,759 --> 00:27:43,109
+box, entitled “channelName”. Now, we have
+two variables but both point towards the same
+
+371
+00:27:43,109 --> 00:27:48,729
+contents, that being the string “NullPointerException”.

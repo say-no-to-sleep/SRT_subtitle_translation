@@ -1,0 +1,24 @@
+
+656
+00:48:47,430 --> 00:48:50,770
+When programming a game, for instance, a while
+loop would be used to iterate through your
+
+657
+00:48:50,770 --> 00:48:54,710
+code, continually refreshing the screen as
+the game runs. From there you could perform
+
+658
+00:48:54,710 --> 00:48:58,100
+operations on the screen to make the game
+playable. Creating an infinite while loop
+
+659
+00:48:58,100 --> 00:49:02,770
+would simply be done using the syntax while(true),
+as the condition true will always be evaluated
+
+660
+00:49:02,770 --> 00:49:03,920
+as true.

@@ -1,0 +1,15 @@
+
+1367
+01:44:21,199 --> 01:44:25,940
+There are many tasks we should go through
+beforehand in order to plan out our code so
+
+1368
+01:44:25,940 --> 01:44:30,390
+we ensure that when the time comes to program,
+it’s a clean and easy process, and not riddled
+
+1369
+01:44:30,390 --> 01:44:35,199
+with mistakes and bugs. This is where pseudocode
+comes into play.

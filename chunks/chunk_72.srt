@@ -1,0 +1,9 @@
+
+304
+00:22:45,730 --> 00:22:50,299
+Essentially, a double can store more decimal
+places than a float, so it all comes down
+
+305
+00:22:50,299 --> 00:22:52,460
+to how precise you want the variable to be.

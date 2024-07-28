@@ -1,0 +1,34 @@
+
+1370
+01:44:35,199 --> 01:44:39,290
+Think of pseudocode like this, if you wanted
+to take a family trip to the grand canyon,
+
+1371
+01:44:39,290 --> 01:44:42,910
+would you simply hop in your car and drive
+off and figure things out later? No, because
+
+1372
+01:44:42,910 --> 01:44:48,280
+that would be ridiculous. Instead, you would
+spend some time planning out the trip, what
+
+1373
+01:44:48,280 --> 01:44:52,200
+sites or places do you want to visit? What
+hotel reservations are you going to have to
+
+1374
+01:44:52,200 --> 01:44:56,350
+make? What kind of things are you going to
+do when you get there? What routes or highways
+
+1375
+01:44:56,350 --> 01:45:00,030
+are you going to take and why? All of these
+things must be determined out before you can
+
+1376
+01:45:00,030 --> 01:45:04,330
+even think about hopping in your ford explorer.

@@ -1,0 +1,64 @@
+
+1099
+01:22:40,580 --> 01:22:45,310
+When you initialize an array, you give it
+a size, and this size is fixed. You won’t
+
+1100
+01:22:45,310 --> 01:22:48,630
+be able to increase the size of the array,
+so when you make an array, it’s length is
+
+1101
+01:22:48,630 --> 01:22:54,350
+final. To access the values in an array, you
+reference them using an index which starts
+
+1102
+01:22:54,350 --> 01:23:00,489
+at 0. What this means is that the first item
+of an array is not at position 1, it is at
+
+1103
+01:23:00,489 --> 01:23:06,010
+position 0, and it’s position is commonly
+referred to as it’s index location. So,
+
+1104
+01:23:06,010 --> 01:23:12,720
+to find the nth item in an array, you would
+refer to it as index location [n-1]. However,
+
+1105
+01:23:12,720 --> 01:23:16,310
+as the size of an array is fixed, you have
+to be careful to not reference a position
+
+1106
+01:23:16,310 --> 01:23:21,560
+that is beyond the total size of the array,
+or append too many items to it, as this will
+
+1107
+01:23:21,560 --> 01:23:26,110
+return an error. We also have what are known
+as two-dimensional arrays,
+
+1108
+01:23:26,110 --> 01:23:30,700
+which is an array containing an array at each
+of its indexes. Or, you could have an array
+
+1109
+01:23:30,700 --> 01:23:34,880
+containing arrays containing arrays containing
+arrays containing arrays, depending one what
+
+1110
+01:23:34,880 --> 01:23:39,070
+you’re trying to do. Multidimensional arrays
+can be useful in more advanced programs for
+
+1111
+01:23:39,070 --> 01:23:44,120
+organizing a wide volume of related values.

@@ -1,0 +1,46 @@
+So how does this translate to pseudocode?
+
+1377
+01:45:04,330 --> 01:45:10,250
+Well, think of our family trip to the Grand
+Canyon as a program. Programmers use pseudocode,
+
+1378
+01:45:10,250 --> 01:45:15,280
+pseudo meaning not real, and code meaning,
+well, code, as a means to plan out their programs
+
+1379
+01:45:15,280 --> 01:45:20,900
+before they write them, just like how we planned
+our trip before going. They throw away syntax
+
+1380
+01:45:20,900 --> 01:45:25,630
+and naming conventions for variables and just
+focus on what they want the program to accomplish,
+
+1381
+01:45:25,630 --> 01:45:30,230
+and how they plan on doing that. Pseudocode
+is very similar to constructing an outline
+
+1382
+01:45:30,230 --> 01:45:34,600
+for a paper you’re writing. You write down
+the main topics of the essay and plan out
+
+1383
+01:45:34,600 --> 01:45:38,490
+your major talking points, but you don’t
+worry about the nitty gritty details of it
+
+1384
+01:45:38,490 --> 01:45:43,760
+all such as word choice, grammar conventions,
+and proper formatting. By doing this, we allow
+
+1385
+01:45:43,760 --> 01:45:48,110
+ourselves to think freely and not worry about
+stressing the small stuff. At least not yet.

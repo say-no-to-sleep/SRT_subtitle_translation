@@ -1,0 +1,9 @@
+
+306
+00:22:52,460 --> 00:22:55,580
+Up next we have string variables, which are
+like the strings we’ve actually talked about
+
+307
+00:22:55,580 --> 00:23:01,440
+beforehand except stored somewhere in a value.

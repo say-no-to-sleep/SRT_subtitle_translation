@@ -1,0 +1,39 @@
+
+697
+00:51:40,430 --> 00:51:45,020
+The second type of error we will be covering
+is the runtime error. These errors don’t
+
+698
+00:51:45,020 --> 00:51:49,641
+show until you actually “run” the code,
+hence the name “runtime” error. Runtime
+
+699
+00:51:49,641 --> 00:51:54,310
+errors are caused by a statement in your code
+that SEEMS seems logically sound, but the
+
+700
+00:51:54,310 --> 00:51:59,690
+computer physically has no way of computing
+it in a reasonable amount of time. The most
+
+701
+00:51:59,690 --> 00:52:03,780
+common of these errors is one which we’ve
+already talked about; the infinite loop. As
+
+702
+00:52:03,780 --> 00:52:08,820
+a refresher/example, think of an infinite
+loop like this. Say you sat your friend down
+
+703
+00:52:08,820 --> 00:52:13,200
+in front of the TV, put on the Office on repeat,
+and told him he could leave as soon as Michael
+
+704
+00:52:13,200 --> 00:52:17,870
+made a “That’s what she said” joke.

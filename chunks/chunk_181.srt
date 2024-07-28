@@ -1,0 +1,35 @@
+You see, we just “call” the print function
+
+833
+01:01:25,440 --> 01:01:31,070
+and enter in what we want to be printed to
+the console, and the computer does it for
+
+834
+01:01:31,070 --> 01:01:35,700
+us. Behind the scenes, there is actually even
+more complex code that is in charge of taking
+
+835
+01:01:35,700 --> 01:01:40,890
+your text and translating it to the console
+to be printed. The developers of almost all
+
+836
+01:01:40,890 --> 01:01:45,390
+programming languages realize that you don’t
+want to program something that manually has
+
+837
+01:01:45,390 --> 01:01:49,810
+to print something to the console through
+the use of complex programming, and so they
+
+838
+01:01:49,810 --> 01:01:54,360
+implemented the print statement to reduce
+the stress and complexity of code on the user,
+
+839
+01:01:54,360 --> 01:02:00,820
+abstracting it down to a simple line of code.

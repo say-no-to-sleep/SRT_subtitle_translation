@@ -1,0 +1,9 @@
+
+578
+00:43:21,430 --> 00:43:25,250
+Now the last thing we’re going to cover
+on arrays is a little funky, and that is the
+
+579
+00:43:25,250 --> 00:43:29,990
+practice of putting arrays inside of arrays.

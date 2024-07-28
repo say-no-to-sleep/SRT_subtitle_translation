@@ -1,0 +1,15 @@
+
+296
+00:22:09,869 --> 00:22:13,549
+Secondly is a boolean. A boolean is a very
+primitive variable which can store a value
+
+297
+00:22:13,549 --> 00:22:19,169
+of either true or false. Boolean variables
+can ONLY hold these two values, and are extremely
+
+298
+00:22:19,169 --> 00:22:22,740
+useful for conditional statements, which we
+will cover soon.

@@ -1,0 +1,15 @@
+
+736
+00:54:35,960 --> 00:54:40,610
+You run the program, and wait for it to run
+smoothly and efficiently. Only, it doesn’t
+
+737
+00:54:40,610 --> 00:54:43,730
+work. You have encountered one of the three
+errors we just mentioned. You really want
+
+738
+00:54:43,730 --> 00:54:47,980
+this code to work, but how? This is where
+debugging comes into play.

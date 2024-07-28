@@ -1,0 +1,10 @@
+In this case getting food is the function
+
+862
+01:03:43,500 --> 01:03:49,740
+and what you order is being passed in as the
+argument. Based on what you tell them, or
+
+863
+01:03:49,740 --> 01:03:56,210
+the argument, they will do something different.

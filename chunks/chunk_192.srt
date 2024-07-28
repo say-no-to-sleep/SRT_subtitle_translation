@@ -1,0 +1,14 @@
+
+879
+01:05:12,530 --> 01:05:16,170
+Now that we’ve talked about functions that
+take in arguments, let’s move on to functions
+
+880
+01:05:16,170 --> 01:05:20,710
+which do not take in arguments, because functions
+can also be created and used without taking
+
+881
+01:05:20,710 --> 01:05:25,870
+in arguments and still be incredibly useful.

@@ -1,0 +1,10 @@
+
+948
+01:10:38,920 --> 01:10:43,250
+In each programming language, you are able
+to use an import statement to import libraries
+
+949
+01:10:43,250 --> 01:10:46,610
+of functions into your program that you can
+use as you write it.

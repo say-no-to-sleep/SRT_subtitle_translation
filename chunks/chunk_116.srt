@@ -1,0 +1,35 @@
+
+537
+00:40:08,280 --> 00:40:12,280
+Now the single most important thing to note
+about arrays is how you reference each element
+
+538
+00:40:12,280 --> 00:40:16,470
+of the array within them. Let’s create a
+basic array called numbers, and inside of
+
+539
+00:40:16,470 --> 00:40:22,420
+it put the digits 1-10. Now when we want to
+refer to each cell in this array, we call
+
+540
+00:40:22,420 --> 00:40:27,140
+upon its “index”. An index is just a fancy
+way of saying that numbers are placed within
+
+541
+00:40:27,140 --> 00:40:32,730
+the array. Now you would think that the first
+integer in this array would be the first index,
+
+542
+00:40:32,730 --> 00:40:37,920
+the second would be the second index and so
+on, but that’s not the case. In computer
+
+543
+00:40:37,920 --> 00:40:43,450
+science, programming languages refer to the
+first cell as the 0th element in the array.

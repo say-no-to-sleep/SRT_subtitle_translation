@@ -1,0 +1,15 @@
+
+638
+00:47:32,900 --> 00:47:38,110
+After the for loop is the very similar for
+each loop. A for each loop (or a for-in-list
+
+639
+00:47:38,110 --> 00:47:44,660
+loop, in python) is used for iterating through
+arrays or lists. Essentially the loop will
+
+640
+00:47:44,660 --> 00:47:50,180
+go through each element in the array and carry
+out some set of instructions for each value.

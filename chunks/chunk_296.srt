@@ -1,0 +1,10 @@
+
+1437
+01:49:50,050 --> 01:49:54,260
+This prevents you from having to try and shoehorn
+a function or feature into an almost finished
+
+1438
+01:49:54,260 --> 01:49:59,090
+program at the last second is not a very fun
+experience in the slightest.

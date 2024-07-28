@@ -1,0 +1,39 @@
+
+823
+01:00:36,050 --> 01:00:39,930
+Now, you may not know it, but we’ve actually
+been talking about a few functions this entire
+
+824
+01:00:39,930 --> 01:00:46,780
+series. Print statements, for loops, and even
+basic math operations are all examples of
+
+825
+01:00:46,780 --> 01:00:51,610
+functions, which of course begs the question
+of what actually defines a function. Well,
+
+826
+01:00:51,610 --> 01:00:56,610
+a function is a segment of code that can be
+easily run “calling” the function name
+
+827
+01:00:56,610 --> 01:01:01,060
+and depending on the type of function, will
+do something in return. Functions can be called
+
+828
+01:01:01,060 --> 01:01:07,140
+numerous times, and in numerous places. Essentially
+they are like wrapping up a segment of code
+
+829
+01:01:07,140 --> 01:01:12,380
+into a nice present and giving it a name which;
+when called, will unwrap the present and go
+
+830
+01:01:12,380 --> 01:01:15,460
+through the code you wrapped up.

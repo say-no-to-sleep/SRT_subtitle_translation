@@ -1,0 +1,24 @@
+
+1392
+01:46:13,320 --> 01:46:17,239
+The first of these are known as flowcharts,
+and mainly they can be used to think through
+
+1393
+01:46:17,239 --> 01:46:22,719
+the process of a particular function. A flowchart
+is fundamentally a graphical representation
+
+1394
+01:46:22,719 --> 01:46:28,020
+of a function and how it might flow. Many
+programmers do this, and lay out the conditional
+
+1395
+01:46:28,020 --> 01:46:32,010
+statements and loops they want as different
+blocks in the flow chart, connected by arrows
+
+1396
+01:46:32,010 --> 01:46:36,750
+and charting out every path of their function.

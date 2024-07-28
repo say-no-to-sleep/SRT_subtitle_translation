@@ -1,0 +1,20 @@
+This method allows you the programmer to not
+
+1418
+01:48:20,160 --> 01:48:24,450
+get bogged down with the syntax and conventions
+you have to follow, you’re simply making
+
+1419
+01:48:24,450 --> 01:48:28,590
+a note of what the program's ultimate goal
+should be, as if you were explaining it to
+
+1420
+01:48:28,590 --> 01:48:32,699
+a friend of yours. This method really lets
+you plan out everything that needs to happen
+
+1421
+01:48:32,699 --> 01:48:37,550
+in your program in order for it to run smoothly.

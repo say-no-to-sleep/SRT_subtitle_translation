@@ -1,0 +1,1 @@
+Programs we write will follow the LIFO structure.

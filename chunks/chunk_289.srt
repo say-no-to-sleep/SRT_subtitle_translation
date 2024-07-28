@@ -1,0 +1,9 @@
+
+1406
+01:47:21,540 --> 01:47:25,160
+Another popular pseudocode technique that
+is used often is to simply write out what
+
+1407
+01:47:25,160 --> 01:47:29,720
+you want your code to do chronologically.

@@ -1,0 +1,19 @@
+
+197
+00:14:23,570 --> 00:14:27,070
+Think of it like this, when you’re using
+your phone, you see the console in none of
+
+198
+00:14:27,070 --> 00:14:30,810
+the programs you use. So while you can use
+the console to give yourself information about
+
+199
+00:14:30,810 --> 00:14:34,370
+how your program is performing, don’t try
+to implement it in the final product because
+
+200
+00:14:34,370 --> 00:14:38,900
+it fundamentally just isn’t meant for that.

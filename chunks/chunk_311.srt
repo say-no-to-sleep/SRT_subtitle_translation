@@ -1,0 +1,70 @@
+
+1514
+01:56:05,520 --> 01:56:09,420
+Starting with the biggest question which is
+what’s the next step. Well, now that you
+
+1515
+01:56:09,420 --> 01:56:13,760
+might know which type of language you might
+be interested in, research that language and
+
+1516
+01:56:13,760 --> 01:56:18,410
+find out whether or not you truly want to
+pursue that programming language. Most languages
+
+1517
+01:56:18,410 --> 01:56:24,590
+like python or C++ will have either an official
+website where you can read up on, or a wikipedia
+
+1518
+01:56:24,590 --> 01:56:28,850
+page which will provide you with useful information
+in deciding whether or not you want to pursue
+
+1519
+01:56:28,850 --> 01:56:33,750
+that path. From there, the next step is to
+actually learn the language, which can be
+
+1520
+01:56:33,750 --> 01:56:38,770
+done right here on YouTube. While we have
+taught you the basics of any programming language,
+
+1521
+01:56:38,770 --> 01:56:43,010
+each specific language is going to expand
+upon the basic concepts and so watching tutorial
+
+1522
+01:56:43,010 --> 01:56:46,000
+videos on a certain language is going to be
+very beneficial. Many websites will try to
+
+1523
+01:56:46,000 --> 01:56:47,000
+get you to purchase paid courses or take classes
+which cost money, but you can find extremely
+
+1524
+01:56:47,000 --> 01:56:48,000
+good courses here on YouTube for absolutely
+0 cost to yourself. I would start with an
+
+1525
+01:56:48,000 --> 01:56:51,320
+introduction series like the one you’re
+currently watching, but for the language you
+
+1526
+01:56:51,320 --> 01:56:55,580
+have chosen and work your way through that
+series, picking up on the syntax and rules
+
+1527
+01:56:55,580 --> 01:56:59,920
+of that language until you become comfortable
+with it.

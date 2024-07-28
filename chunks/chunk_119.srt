@@ -1,0 +1,25 @@
+
+552
+00:41:16,850 --> 00:41:20,891
+Another extremely important thing to note
+about arrays has to do with their size. When
+
+553
+00:41:20,891 --> 00:41:25,370
+you initialize an array, you can do it either
+one of two ways. You can either populate it
+
+554
+00:41:25,370 --> 00:41:29,610
+with the elements that you want contained
+in the array right then and there, creating
+
+555
+00:41:29,610 --> 00:41:34,110
+and filling the array at the same time, or
+you can define how many elements you want
+
+556
+00:41:34,110 --> 00:41:40,140
+in the array-essentially the arrays size-
+and then populate it with elements later.

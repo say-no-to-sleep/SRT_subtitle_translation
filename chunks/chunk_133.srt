@@ -1,0 +1,30 @@
+The syntax for a for loop varies depending
+
+609
+00:45:36,160 --> 00:45:40,780
+on the language, however it usually consists
+of three parts. An integer value, a condition
+
+610
+00:45:40,780 --> 00:45:44,460
+which the integer value must meet in order
+to exit the loop, and an operation to modify
+
+611
+00:45:44,460 --> 00:45:48,570
+the integer value after the instructions inside
+of the loop are completed. Each time the for
+
+612
+00:45:48,570 --> 00:45:52,890
+loop runs, the operation you set will be performed
+on the integer, and as long as that integer
+
+613
+00:45:52,890 --> 00:45:56,710
+still meets the condition you set, usually
+being greater than or less than a constant
+
+614
+00:45:56,710 --> 00:45:59,450
+value, the for loop will continue to run.

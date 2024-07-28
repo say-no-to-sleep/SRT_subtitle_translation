@@ -1,0 +1,14 @@
+
+406
+00:30:34,500 --> 00:30:38,259
+The last topic we’ll be covering on the
+topic of variables is the naming conventions
+
+407
+00:30:38,259 --> 00:30:43,179
+of a variable, which albeit may seem odd,
+but it's extremely important when trying to
+
+408
+00:30:43,179 --> 00:30:49,249
+read your code so we will be covering it now.

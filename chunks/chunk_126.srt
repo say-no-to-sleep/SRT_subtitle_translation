@@ -1,0 +1,10 @@
+So now, each element in our array wouldn’t
+
+583
+00:43:45,830 --> 00:43:50,940
+simply be just a String variable or an Integer
+variable, but an entirely new array with its
+
+584
+00:43:50,940 --> 00:43:53,590
+own set of values and elements.

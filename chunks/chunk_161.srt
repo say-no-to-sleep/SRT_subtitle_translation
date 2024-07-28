@@ -1,0 +1,45 @@
+
+740
+00:54:51,770 --> 00:54:55,450
+Oftentimes, for syntax and runtime errors
+the IDE will print an error message out to
+
+741
+00:54:55,450 --> 00:54:59,799
+the console. See what line or lines it points
+to- since those will be the lines in which
+
+742
+00:54:59,799 --> 00:55:05,150
+the error occurred- and see if you can understand
+and fix what it says the problem is. If the
+
+743
+00:55:05,150 --> 00:55:09,100
+error isn’t clear, or you’ve never heard
+of it, then try googling it, there are many
+
+744
+00:55:09,100 --> 00:55:13,010
+websites out there such as stackoverflow which
+serve as forums to ask and answer problems
+
+745
+00:55:13,010 --> 00:55:18,020
+with code. Chances are, if you’ve had a
+problem, someone else has had the same issue
+
+746
+00:55:18,020 --> 00:55:23,261
+and there is likely a tested solution. Usually,
+when a syntax or runtime error pops up, you
+
+747
+00:55:23,261 --> 00:55:28,560
+should be able to find a fix for it fairly
+easily; however, as I said before, the issue
+
+748
+00:55:28,560 --> 00:55:32,980
+may arise from some loophole or oversight
+in the code you hadn’t planned for beforehand.

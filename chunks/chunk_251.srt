@@ -1,0 +1,30 @@
+
+1184
+01:29:03,900 --> 01:29:07,420
+You may think that there is little difference
+between searching algorithms, since computers
+
+1185
+01:29:07,420 --> 01:29:12,420
+nowadays can perform millions of calculations
+per second, but when you’re a huge multi-billion
+
+1186
+01:29:12,420 --> 01:29:16,739
+dollar corporation trying to find a certain
+data point in a list containing thousands
+
+1187
+01:29:16,739 --> 01:29:21,860
+or even millions of data points, small differences
+in efficiency are going to make or break the
+
+1188
+01:29:21,860 --> 01:29:27,070
+user experience. Even a 1% improvement in
+efficiency can mean big differences in the
+
+1189
+01:29:27,070 --> 01:29:30,969
+amount of time a user is waiting for a simple
+task.

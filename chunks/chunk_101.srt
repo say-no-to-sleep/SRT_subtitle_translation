@@ -1,0 +1,25 @@
+
+473
+00:35:46,500 --> 00:35:50,320
+The else statement once again comes after
+an if or an else if statement, and will carry
+
+474
+00:35:50,320 --> 00:35:54,790
+out its instructions no matter what, as long
+as the preceding statement/statements are
+
+475
+00:35:54,790 --> 00:35:59,660
+evaluated as false. If we went back to our
+previous program, we could add an else statement
+
+476
+00:35:59,660 --> 00:36:03,080
+which would only have the code in its brackets
+run if the age variable wasn’t “10”
+
+477
+00:36:03,080 --> 00:36:07,180
+or “12”. This would catch all cases of
+the program that didn’t fit our parameters.

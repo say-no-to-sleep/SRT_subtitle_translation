@@ -1,0 +1,19 @@
+
+130
+00:09:43,160 --> 00:09:47,140
+As an example. If we wanted to do something
+simple such as initialize a variable, which
+
+131
+00:09:47,140 --> 00:09:51,620
+is something we haven’t covered yet but
+the example is still relevant. In java, you’ll
+
+132
+00:09:51,620 --> 00:09:56,410
+notice we have to specify what type of variable
+we are defining in this case an integer, and
+
+133
+00:09:56,410 --> 00:10:00,650
+also add a semi-colon after the statement.

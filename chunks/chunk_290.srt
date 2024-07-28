@@ -1,0 +1,50 @@
+Don’t necessarily think about what programming
+
+1408
+01:47:29,720 --> 01:47:34,250
+statements and functions you want to use,
+just jot down, from start to finish, what
+
+1409
+01:47:34,250 --> 01:47:39,440
+it is the program you are writing is going
+to do step by step. For example, let’s say
+
+1410
+01:47:39,440 --> 01:47:43,930
+you’re making an app that takes in two numbers
+and divides them. The pseudocode for that
+
+1411
+01:47:43,930 --> 01:47:48,550
+would look a little something like this. First
+I want to prompt the user to enter a number,
+
+1412
+01:47:48,550 --> 01:47:54,070
+then I want to wait for the user to input
+the first number. After I get the first number,
+
+1413
+01:47:54,070 --> 01:47:59,030
+I want to again prompt the user to input a
+second number. Once they do, I complete the
+
+1414
+01:47:59,030 --> 01:48:04,691
+operation by dividing the two numbers entered
+and return the result back to the user. This
+
+1415
+01:48:04,691 --> 01:48:08,041
+all seems like it would be common sense, but
+remember that oftentimes we’re not going
+
+1416
+01:48:08,041 --> 01:48:14,560
+to be working with simple multiplication functions,
+we may be working with full-scale games, algorithms,
+
+1417
+01:48:14,560 --> 01:48:20,160
+or user interfaces with many different options.

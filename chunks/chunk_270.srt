@@ -1,0 +1,11 @@
+Godspeed. Now recursion is a VERY difficult
+
+1324
+01:40:58,300 --> 01:41:03,130
+concept to wrap your head around, so if you’re
+not 100% comfortable with it at the moment,
+
+1325
+01:41:03,130 --> 01:41:09,640
+please rewatch this section of the lecture
+to better familiarize yourself with it.

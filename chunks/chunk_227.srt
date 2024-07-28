@@ -1,0 +1,10 @@
+
+1055
+01:19:11,310 --> 01:19:14,710
+So now that we’ve gone over how to make
+functions that don’t return variables, we
+
+1056
+01:19:14,710 --> 01:19:18,630
+have to cover those that do, and we’ll start
+with ones that don’t take in arguments.

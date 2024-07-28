@@ -1,0 +1,16 @@
+An integer, or int for short, is as simple
+
+293
+00:21:46,549 --> 00:21:51,539
+as it sounds: a variable that can store an
+integer value. This includes all whole numbers
+
+294
+00:21:51,539 --> 00:22:04,090
+from -2,147,483,648 to 2,147,483,648. Now
+notice how I said whole numbers, integer variables
+
+295
+00:22:04,090 --> 00:22:09,869
+CAN not and WILL not hold any decimal values,
+so keep that in mind when using variables.

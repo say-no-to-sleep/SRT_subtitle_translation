@@ -1,0 +1,19 @@
+
+1532
+01:57:15,719 --> 01:57:20,219
+First is codingbat, a completely free website
+which has hundreds of coding challenges in
+
+1533
+01:57:20,219 --> 01:57:26,170
+Java and Python to help you refine your programming
+skills and even learn some programming short-cuts
+
+1534
+01:57:26,170 --> 01:57:31,420
+and tips. This is great if you want to get
+better at improving your efficiency and need
+
+1535
+01:57:31,420 --> 01:57:37,340
+something to hone your skills as a developer.

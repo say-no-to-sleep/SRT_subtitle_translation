@@ -1,0 +1,15 @@
+
+985
+01:13:34,330 --> 01:13:38,830
+But if after all of that you still can’t
+find a library that contains the function
+
+986
+01:13:38,830 --> 01:13:42,760
+you are looking for? Well that’s a perfect
+segway into what we’re going to talk about
+
+987
+01:13:42,760 --> 01:13:47,750
+next, which is the basic structure for writing
+your own functions.

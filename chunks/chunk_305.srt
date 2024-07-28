@@ -1,0 +1,35 @@
+
+1481
+01:53:26,510 --> 01:53:30,910
+Maybe it would be best for you to use a scripting
+language. A scripting language is a language
+
+1482
+01:53:30,910 --> 01:53:34,610
+that has many commands for you to use and
+that can also be run without needing to be
+
+1483
+01:53:34,610 --> 01:53:39,870
+compiled. Scripts can be faster to write than
+actual programs, and tend to be easier to
+
+1484
+01:53:39,870 --> 01:53:45,640
+port between operating systems allowing for
+cross-platform support. Scripts can also be
+
+1485
+01:53:45,640 --> 01:53:51,340
+used with websites, oftentimes adding to the
+overall user experience of the site. If you
+
+1486
+01:53:51,340 --> 01:53:55,650
+want to go into web design, this might also
+be a path for you to go down. Examples of
+
+1487
+01:53:55,650 --> 01:53:58,370
+scripting languages are Perl, PHP, Ajax, and
+Javascript.

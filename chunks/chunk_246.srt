@@ -1,0 +1,24 @@
+
+1155
+01:26:55,840 --> 01:27:00,280
+You can also manipulate dictionaries in many
+the same ways you can manipulate arrays and
+
+1156
+01:27:00,280 --> 01:27:04,610
+array lists. You can iterate through a dictionary
+and perform many operations and comparisons
+
+1157
+01:27:04,610 --> 01:27:09,170
+on the values. If you want to find the product
+with the highest price, for example, you can
+
+1158
+01:27:09,170 --> 01:27:12,820
+iterate through the dictionary to find the
+value that is the highest amongst the grocery
+
+1159
+01:27:12,820 --> 01:27:13,910
+store items.

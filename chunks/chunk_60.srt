@@ -1,0 +1,34 @@
+
+268
+00:19:58,240 --> 00:20:03,650
+Another important thing to note is the difference
+between “4” in quotation marks and 4 without
+
+269
+00:20:03,650 --> 00:20:09,389
+quotation marks. Now “4” in quotation
+marks is treated as a string rather than a
+
+270
+00:20:09,389 --> 00:20:14,530
+4 without quotation marks which is treated
+as a number. This may not seem like a big
+
+271
+00:20:14,530 --> 00:20:19,230
+deal, but again computers are dumb, and if
+you try to do math with a number in quotation
+
+272
+00:20:19,230 --> 00:20:23,149
+marks it will return an error, because the
+computer doesn’t understand that you’re
+
+273
+00:20:23,149 --> 00:20:27,190
+trying to preform the operation on a number,
+and it thinks you’re trying to add an integer
+
+274
+00:20:27,190 --> 00:20:33,350
+to a string, which is a big no-no in programming.

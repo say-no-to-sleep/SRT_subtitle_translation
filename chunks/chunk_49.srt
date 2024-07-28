@@ -1,0 +1,30 @@
+Modulus allows us to get the remainder of
+
+221
+00:16:08,710 --> 00:16:14,250
+a divisional operation. For example, when
+we take 10 modulus 3, we are essentially telling
+
+222
+00:16:14,250 --> 00:16:19,730
+the computer to take 10, divide it by 3, ignore
+the actual answer and just give us the remainder
+
+223
+00:16:19,730 --> 00:16:25,430
+of that operation in this case 1, since when
+we divide 10 by 3, the answer is 3 remainder
+
+224
+00:16:25,430 --> 00:16:32,250
+1. The 1 in this case is what gets printed
+out to the console. If there is no remainder,
+
+225
+00:16:32,250 --> 00:16:37,410
+say in the case that we take 50 modulus 2,
+since the remainder is 0, the function would
+
+226
+00:16:37,410 --> 00:16:41,100
+return 0 if we were to print it out.

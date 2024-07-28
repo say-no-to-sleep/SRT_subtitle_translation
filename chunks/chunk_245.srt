@@ -1,0 +1,36 @@
+Imagine you have a dictionary of prices at
+
+1148
+01:26:27,230 --> 01:26:31,670
+a store where the key is the name of the product
+and the value is the price of the item. Maybe
+
+1149
+01:26:31,670 --> 01:26:36,790
+apples cost 1 dollars, milk costs 2 dollars,
+and bread costs 3 dollars. You can see that
+
+1150
+01:26:36,790 --> 01:26:41,520
+in the dictionary, each key is the name of
+a product, and each key corresponds to the
+
+1151
+01:26:41,520 --> 01:26:45,590
+price of each product. So to find the price
+of bread, all you need to do is simply call
+
+1152
+01:26:45,590 --> 01:26:48,390
+the dictionary using the key “bread”,
+and the dictionary would return the value
+
+1153
+01:26:48,390 --> 01:26:51,960
+1. This makes it extremely easy to track values
+through your code since you’re working with
+
+1154
+01:26:51,960 --> 01:26:55,840
+tangible values rather than numbers which
+don’t mean anything to you.

@@ -1,0 +1,41 @@
+In python, we don’t even need to define
+
+134
+00:10:00,650 --> 00:10:05,360
+that we are trying to create a variable and
+just have to type what we want to create,
+
+135
+00:10:05,360 --> 00:10:09,271
+and in javascript, we just specify we are
+making a variable, but do not include what
+
+136
+00:10:09,271 --> 00:10:15,270
+type of variable we want to make. Even in
+this simple example you can see how much syntax
+
+137
+00:10:15,270 --> 00:10:19,070
+matters when learning a new language since
+while the goal of our program remained the
+
+138
+00:10:19,070 --> 00:10:25,480
+same, define an integer with value three,
+all the programming language shown took different
+
+139
+00:10:25,480 --> 00:10:30,240
+approaches. All these languages require that
+you follow this syntax because remember, computers
+
+140
+00:10:30,240 --> 00:10:35,520
+are extremely dumb, if you forget one semicolon
+or misplace a character, the entire program
+
+141
+00:10:35,520 --> 00:10:40,240
+will not run and send you back a syntax error,
+which is something we will talk about later.

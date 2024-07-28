@@ -1,0 +1,25 @@
+
+1289
+01:37:31,440 --> 01:37:35,861
+A base case is simply a definite value which
+all recursive statements, the ones that are
+
+1290
+01:37:35,861 --> 01:37:40,410
+being repeatedly called as we go through the
+function, try to get towards. At the beginning
+
+1291
+01:37:40,410 --> 01:37:44,030
+of the function, we test the value that was
+passed in by the argument against the base
+
+1292
+01:37:44,030 --> 01:37:48,570
+case to see if it is satisfied. Usually, these
+base cases are some requirements, like if
+
+1293
+01:37:48,570 --> 01:37:53,440
+n, as I described before, reaches a certain
+value or is equal to a certain value.

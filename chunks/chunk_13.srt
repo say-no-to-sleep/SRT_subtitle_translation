@@ -1,0 +1,9 @@
+
+53
+00:03:57,940 --> 00:04:02,320
+The big difference between the two examples,
+however, is that it is very difficult for
+
+54
+00:04:02,320 --> 00:04:06,940
+people to understand machine code and binary.

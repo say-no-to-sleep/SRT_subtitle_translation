@@ -1,0 +1,19 @@
+
+641
+00:47:50,180 --> 00:47:54,250
+If you would like to read all of the elements
+in an array and compare them to some value,
+
+642
+00:47:54,250 --> 00:48:00,270
+or perform some operation on them, a for each
+loop is extremely useful. So for example,
+
+643
+00:48:00,270 --> 00:48:04,280
+we could have a for each loop which iterated
+across an array and simply printed out the
+
+644
+00:48:04,280 --> 00:48:07,780
+value of each array location.

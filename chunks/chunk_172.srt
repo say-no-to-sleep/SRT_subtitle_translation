@@ -1,0 +1,34 @@
+
+776
+00:57:21,630 --> 00:57:25,410
+Upon the breakpoint being reached, the program
+will pause, and wait for you to continue it
+
+777
+00:57:25,410 --> 00:57:28,880
+through a button press. This signals that
+the spot in the code where the breakpoint
+
+778
+00:57:28,880 --> 00:57:34,220
+was placed, in this case the correct conditional
+path, has been reached by the program. You
+
+779
+00:57:34,220 --> 00:57:38,230
+can then continue the program knowing that
+was or wasn’t where an error in your code
+
+780
+00:57:38,230 --> 00:57:42,510
+occurred. Breakpoints can be used in conjunction
+with print statements in order to both pause
+
+781
+00:57:42,510 --> 00:57:46,890
+the program, and perhaps view the values of
+your variables at the moment in time to give
+
+782
+00:57:46,890 --> 00:57:50,610
+yourself all the information you could want.

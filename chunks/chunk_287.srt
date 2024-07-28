@@ -1,0 +1,11 @@
+From there, it’s extremely easy to create
+
+1397
+01:46:36,750 --> 01:46:40,440
+test cases and follow them throughout the
+flow of the function through the different
+
+1398
+01:46:40,440 --> 01:46:45,290
+blocks and arrows. For example, we could have
+a flowchart that goes something like this.

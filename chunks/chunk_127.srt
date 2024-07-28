@@ -1,0 +1,9 @@
+
+585
+00:43:53,590 --> 00:43:57,930
+The way we index these is mostly the same,
+except we would have 2 numbers to index instead
+
+586
+00:43:57,930 --> 00:44:04,250
+of 1. We start with the row and then the column.

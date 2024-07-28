@@ -1,0 +1,24 @@
+
+1353
+01:43:19,080 --> 01:43:24,840
+In conclusion, recursion in general is extremely
+useful because by calling the same functions
+
+1354
+01:43:24,840 --> 01:43:29,541
+repeatedly it breaks down the problem into
+smaller sections, and results in the program
+
+1355
+01:43:29,541 --> 01:43:35,340
+being more efficient. Small parts of problems
+are easier to solve and less taxing to compute
+
+1356
+01:43:35,340 --> 01:43:40,199
+than the entire problem at once, and the computer
+can combine these small solutions into the
+
+1357
+01:43:40,199 --> 01:43:42,910
+main solution in the end.

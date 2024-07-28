@@ -1,0 +1,65 @@
+Now, variables have to be one continuous string,
+
+409
+00:30:49,249 --> 00:30:53,120
+and so if you wanted to make a variable that
+stored the player score, you’d have to find
+
+410
+00:30:53,120 --> 00:30:58,000
+some way to combine the words player and score,
+since you can’t have the phrase “player
+
+411
+00:30:58,000 --> 00:31:02,549
+score” be the name of a variable. All programmers
+have their own personal preference when it
+
+412
+00:31:02,549 --> 00:31:07,570
+comes to naming variables, but the one we
+will be using on this lecture is called CamelCase,
+
+413
+00:31:07,570 --> 00:31:11,960
+which is the process of not capitalizing the
+first word, but capitalizing every word that
+
+414
+00:31:11,960 --> 00:31:17,919
+follows it. Going back to the player score
+example, using the camelCase method, the variable
+
+415
+00:31:17,919 --> 00:31:23,760
+would be called playerScore. This allows us
+to easily identify each word and becomes really
+
+416
+00:31:23,760 --> 00:31:31,259
+useful for long variable names like thePlayersScoreBeforeFinalBoss”,
+whereas if we just type it out without capitalization,
+
+417
+00:31:31,259 --> 00:31:38,380
+it would be really confusing. This will help
+a ton when you start to find bugs in your
+
+418
+00:31:38,380 --> 00:31:42,789
+code and need to quickly scan your program
+to figure out whats wrong, and adds to the
+
+419
+00:31:42,789 --> 00:31:48,239
+overall readability of the program. Other
+programmers might use different naming conventions
+
+420
+00:31:48,239 --> 00:31:53,559
+like using underscores to separate the words
+in a phrase, but for now we’ll be sticking
+
+421
+00:31:53,559 --> 00:31:54,789
+with camelCase.

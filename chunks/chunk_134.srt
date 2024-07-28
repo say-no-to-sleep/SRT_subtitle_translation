@@ -1,0 +1,29 @@
+
+615
+00:45:59,450 --> 00:46:03,440
+Eventually, when the integer has been modified
+by either increasing or decreasing it to the
+
+616
+00:46:03,440 --> 00:46:06,860
+point where it no longer meets the condition,
+the for loop will terminate and the code will
+
+617
+00:46:06,860 --> 00:46:10,760
+continue to run. For example, let’s say
+our integer value was i and we set it equal
+
+618
+00:46:10,760 --> 00:46:15,330
+to 0, then we set the conditional statement
+as i being less than 3, so basically we’re
+
+619
+00:46:15,330 --> 00:46:19,670
+saying that as long as i - the variable we
+just created - is less than 3, continue running
+
+620
+00:46:19,670 --> 00:46:24,390
+the instructions contained within the loop.

@@ -1,0 +1,14 @@
+
+752
+00:55:45,400 --> 00:55:49,920
+Now there are a few different strategies you
+can use in order to track down and fix a logic
+
+753
+00:55:49,920 --> 00:55:54,550
+error. First, you can use print statements
+and the console in order to determine where
+
+754
+00:55:54,550 --> 00:55:56,730
+the code is going wrong.

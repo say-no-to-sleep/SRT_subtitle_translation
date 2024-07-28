@@ -1,0 +1,65 @@
+
+866
+01:04:04,730 --> 01:04:14,780
+This is essentially what happens with the
+computer, for example, the max function which
+
+867
+01:04:14,780 --> 01:04:20,490
+takes two integers as arguments and returns
+the maximum number between the two. Now, for
+
+868
+01:04:20,490 --> 01:04:25,369
+this function if you don’t input two numbers
+or variables for it to compare, it's going
+
+869
+01:04:25,369 --> 01:04:29,670
+to throw you an error just like the five guys
+employee, he doesn’t know what you want
+
+870
+01:04:29,670 --> 01:04:33,610
+to eat since you didn’t provide him any
+arguments, and the computer doesn’t know
+
+871
+01:04:33,610 --> 01:04:37,260
+what two numbers you want it to compare and
+return since you didn’t provide it with
+
+872
+01:04:37,260 --> 01:04:42,720
+two integers. Arguments are a way for programmers
+to have one function that can do many different
+
+873
+01:04:42,720 --> 01:04:47,730
+things depending on whichever variables can
+be passed through. Arguments add variability
+
+874
+01:04:47,730 --> 01:04:52,330
+to programming and can help diversify your
+code. Thinking back to our five guys example,
+
+875
+01:04:52,330 --> 01:04:56,510
+a restaurant that only allows one type of
+food to be made regardless of what you order
+
+876
+01:04:56,510 --> 01:05:01,780
+isn’t going to be very useful or diversified,
+but if we’re able to pass in arguments and
+
+877
+01:05:01,780 --> 01:05:06,310
+tell them what food we want, our experience
+can be heightened and more options become
+
+878
+01:05:06,310 --> 01:05:12,530
+available, which is exactly what happens when
+you accept arguments in your functions.

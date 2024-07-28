@@ -1,0 +1,34 @@
+
+1057
+01:19:18,630 --> 01:19:23,420
+Now the main difference between defining functions
+that return variables and defining ones that
+
+1058
+01:19:23,420 --> 01:19:29,060
+do not is that in some cases you have to specify
+that you want this function to return an integer
+
+1059
+01:19:29,060 --> 01:19:34,100
+variable, this is most commonly used in Java,
+where you would replace “void” with “int”
+
+1060
+01:19:34,100 --> 01:19:38,210
+to tell the computer that you want this function
+to give something back to you in the form
+
+1061
+01:19:38,210 --> 01:19:44,070
+of an integer. This works the same as if you
+wanted to return a string, char, or even an
+
+1062
+01:19:44,070 --> 01:19:49,460
+array. You simply replace the word after public
+with whatever variable you want to be returned
+
+1063
+01:19:49,460 --> 01:19:51,330
+by the function.

@@ -1,0 +1,14 @@
+
+507
+00:37:54,770 --> 00:37:59,220
+So now that we know how to make and use variables,
+how to compare them, and what we can do with
+
+508
+00:37:59,220 --> 00:38:04,670
+those comparisons, let’s move on to another
+foundational concept of computer science:
+
+509
+00:38:04,670 --> 00:38:06,390
+arrays.

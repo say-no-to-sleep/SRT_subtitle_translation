@@ -1,0 +1,40 @@
+
+480
+00:36:13,920 --> 00:36:17,531
+Now remember back to the fact that we can
+have thousands of else if statements, after
+
+481
+00:36:17,531 --> 00:36:21,170
+a while that can get pretty cluttered, and
+so another very useful conditional statement
+
+482
+00:36:21,170 --> 00:36:24,700
+which helps circumnavigate this problem is
+the switch statement. A switch statement is
+
+483
+00:36:24,700 --> 00:36:28,730
+functionally similar to many if and else if
+statements together. You write a switch statement
+
+484
+00:36:28,730 --> 00:36:32,250
+in the form of switch (variable), and then
+below that you write how many cases that the
+
+485
+00:36:32,250 --> 00:36:36,080
+variable could be. For instance, if we wrote
+switch(var), then under it we could write
+
+486
+00:36:36,080 --> 00:36:39,890
+out 5 cases that the variable var could be,
+and then the instructions listed under that
+
+487
+00:36:39,890 --> 00:36:43,990
+case to be carried out if the var variable
+is equal to that case.

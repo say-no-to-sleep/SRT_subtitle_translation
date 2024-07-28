@@ -1,0 +1,29 @@
+
+972
+01:12:35,110 --> 01:12:39,060
+It would be a waste of computing power to
+import the entire library, and would increase
+
+973
+01:12:39,060 --> 01:12:43,850
+the load time for your program. For smaller
+programs, this isn’t a big deal, but it
+
+974
+01:12:43,850 --> 01:12:48,041
+really starts to add up when dealing with
+larger projects. Therefore, you would instead
+
+975
+01:12:48,041 --> 01:12:55,210
+use “from math import factorial” or the
+java equivalent “import java.math.factorial”,
+
+976
+01:12:55,210 --> 01:12:59,489
+and now have access to that one math command
+only. This limits the functions that you can
+
+977
+01:12:59,489 --> 01:13:03,960
+use, however it saves programming runtime.

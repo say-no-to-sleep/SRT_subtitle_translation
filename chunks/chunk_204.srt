@@ -1,0 +1,15 @@
+
+920
+01:08:32,640 --> 01:08:37,180
+Each of these 4 types of functions are useful
+and unique in their own way and you will probably
+
+921
+01:08:37,180 --> 01:08:41,589
+find yourself using them all throughout your
+programming journey, so get used to the different
+
+922
+01:08:41,589 --> 01:08:46,180
+types of functions and know how to make the
+most of them, as they are all extremely powerful.

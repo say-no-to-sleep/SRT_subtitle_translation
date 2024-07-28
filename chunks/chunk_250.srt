@@ -1,0 +1,34 @@
+
+1177
+01:28:32,450 --> 01:28:36,910
+Typically searching algorithms are used to
+return the index of a particular data point
+
+1178
+01:28:36,910 --> 01:28:42,280
+so that it can be used, modified, updated
+or checked on. For example, if you are about
+
+1179
+01:28:42,280 --> 01:28:46,910
+to check into a hospital run on an array system
+for patients, the staff must search for your
+
+1180
+01:28:46,910 --> 01:28:51,070
+name in the database and by returning the
+index of where your name is, they now have
+
+1181
+01:28:51,070 --> 01:28:56,050
+a quantifiable number that they can use to
+easily check you in, rent out prescriptions,
+
+1182
+01:28:56,050 --> 01:29:00,510
+schedule you for checkups, update your personal
+information, etc. without having to search
+
+1183
+01:29:00,510 --> 01:29:03,900
+through the list for your name every time.

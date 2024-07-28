@@ -1,0 +1,14 @@
+
+631
+00:47:06,830 --> 00:47:10,280
+Now when using a for loop you have to make
+sure to set up a condition that, given the
+
+632
+00:47:10,280 --> 00:47:14,630
+initial integer value and the operation, will
+at some point not be met, to avoid creating
+
+633
+00:47:14,630 --> 00:47:18,250
+an infinite loop and crashing your program.

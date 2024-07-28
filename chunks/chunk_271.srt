@@ -1,0 +1,24 @@
+
+1326
+01:41:09,640 --> 01:41:13,980
+Alright cool, now that we have a little background
+on recursion, let’s talk about why it works
+
+1327
+01:41:13,980 --> 01:41:19,780
+so well. Now to understand why and how recursion
+works, we must first understand what a stack
+
+1328
+01:41:19,780 --> 01:41:24,980
+is. A stack is a data structure that contains
+all of the tasks you instruct your program
+
+1329
+01:41:24,980 --> 01:41:29,710
+to complete. Based on a certain method, your
+program will then carry out the tasks you
+
+1330
+01:41:29,710 --> 01:41:30,710
+give it.

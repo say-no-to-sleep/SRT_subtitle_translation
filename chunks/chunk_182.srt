@@ -1,0 +1,6 @@
+All of that code that is used to print something
+
+840
+01:02:00,820 --> 01:02:06,030
+to the console is wrapped up like a present
+and given to us in the form of one line, “print()”.

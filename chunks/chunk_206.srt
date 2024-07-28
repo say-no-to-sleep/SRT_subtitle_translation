@@ -1,0 +1,29 @@
+
+931
+01:09:26,150 --> 01:09:31,730
+However, if you had created a printStats()
+function like we did a little while ago, all
+
+932
+01:09:31,730 --> 01:09:36,339
+you would need to do is find where you defined
+that function and add in a print statement
+
+933
+01:09:36,339 --> 01:09:42,020
+which displays the new statistic and you’re
+done, bam. Now, every place which had called
+
+934
+01:09:42,020 --> 01:09:47,060
+the printStats function previously will now
+also print the new statistic as well. You
+
+935
+01:09:47,060 --> 01:09:51,850
+can see how powerful functions can be if used
+properly, and we haven’t even scratched
+
+936
+01:09:51,850 --> 01:09:53,420
+the surface yet.

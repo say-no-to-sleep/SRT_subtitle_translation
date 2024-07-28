@@ -1,0 +1,14 @@
+
+13
+00:00:47,780 --> 00:00:51,589
+Hopefully, by the end of the series, you’ll
+have a basic understanding of what computer
+
+14
+00:00:51,589 --> 00:00:55,479
+science is, along with an armory of useful
+skills that will help you unravel whichever
+
+15
+00:00:55,479 --> 00:00:58,159
+programming language you decide to learn first.

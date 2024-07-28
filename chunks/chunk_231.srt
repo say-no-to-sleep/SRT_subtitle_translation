@@ -1,0 +1,9 @@
+
+1079
+01:21:03,960 --> 01:21:07,870
+Another small thing to note is that you can’t
+return one type of variable if you have already
+
+1080
+01:21:07,870 --> 01:21:12,660
+defined the function to return another type.

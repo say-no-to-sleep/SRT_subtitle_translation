@@ -1,0 +1,34 @@
+
+673
+00:49:52,300 --> 00:49:55,170
+Now when you’re writing code, you have to
+understand that things aren’t always going
+
+674
+00:49:55,170 --> 00:49:59,470
+to go the way you expected them, and sometimes
+the program doesn’t always work as you had
+
+675
+00:49:59,470 --> 00:50:04,340
+intended it to. We programmers call these
+errors and while annoying, they are always
+
+676
+00:50:04,340 --> 00:50:08,290
+going to come up in computer science and so
+it's best to learn what they are and how to
+
+677
+00:50:08,290 --> 00:50:13,580
+deal with them. Often referred to as “bugs”,
+errors in scripting languages can be narrowed
+
+678
+00:50:13,580 --> 00:50:19,931
+down to one of three “types”: syntax,
+runtime, and logic, all three of which we
+
+679
+00:50:19,931 --> 00:50:22,820
+will be covering in today’s video.

@@ -1,0 +1,36 @@
+The next is CoderByte, which offers over 200+
+
+1536
+01:57:37,340 --> 01:57:41,400
+challenges that you can complete in over 10
+different languages, something that is sure
+
+1537
+01:57:41,400 --> 01:57:46,110
+to help you improve. The final website I’d
+like to talk about is hackerRank, which not
+
+1538
+01:57:46,110 --> 01:57:50,630
+only provides programming challenges to keep
+you on your toes, but also provides support
+
+1539
+01:57:50,630 --> 01:57:53,550
+for using you programming skills to find jobs
+or internships, something you’ve probably
+
+1540
+01:57:53,550 --> 01:57:55,080
+definitely thought about if you are taking
+programming up as a skill. These and many
+
+1541
+01:57:55,080 --> 01:57:59,660
+more websites exist solely to keep you interested
+in code and work on refining your skills to
+
+1542
+01:57:59,660 --> 01:58:00,850
+become better, you just have to find them
+because they’re certainly out there.

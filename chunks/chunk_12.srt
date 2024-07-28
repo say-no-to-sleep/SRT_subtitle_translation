@@ -1,0 +1,6 @@
+This process is essentially what you must
+
+52
+00:03:53,410 --> 00:03:57,940
+do for your computer in order to make it understand
+the instructions you give it.

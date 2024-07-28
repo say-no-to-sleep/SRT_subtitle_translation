@@ -1,0 +1,30 @@
+
+227
+00:16:41,100 --> 00:16:45,830
+This can be extremely useful in many cases,
+the most obvious being if we want to determine
+
+228
+00:16:45,830 --> 00:16:52,050
+whether or not a certain integer is even or
+odd. If we take a certain number modulus 2
+
+229
+00:16:52,050 --> 00:16:57,790
+and it returns 0, then we know it's even since
+any even number divided by 2 will always result
+
+230
+00:16:57,790 --> 00:17:02,830
+in a full answer without a remainder, but
+if the system returns 1, then we know that
+
+231
+00:17:02,830 --> 00:17:07,400
+the integer is odd. You will find yourself
+using the basic math operators a lot more
+
+232
+00:17:07,400 --> 00:17:11,569
+than you think, so it's good to keep them
+in mind when writing your programs.

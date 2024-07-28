@@ -1,0 +1,19 @@
+
+669
+00:49:39,300 --> 00:49:42,730
+Next up, we’re going to take a break from
+learning about common programming statements,
+
+670
+00:49:42,730 --> 00:49:46,940
+and dive into what happens when the code we
+write doesn’t work. More specifically, we’ll
+
+671
+00:49:46,940 --> 00:49:50,130
+be covering the different types of errors
+that can occur when you’re programming,
+
+672
+00:49:50,130 --> 00:49:52,300
+and what causes them.

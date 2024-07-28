@@ -1,0 +1,9 @@
+
+500
+00:37:29,220 --> 00:37:32,920
+Or in say a video game, if a user’s experience
+level is above a certain threshold we might
+
+501
+00:37:32,920 --> 00:37:36,760
+want to give them harder opponents to battle.

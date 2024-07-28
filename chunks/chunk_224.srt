@@ -1,0 +1,29 @@
+
+1031
+01:17:08,370 --> 01:17:12,420
+Remember the parenthesis that I mentioned
+like 30 seconds ago, well we put any variables
+
+1032
+01:17:12,420 --> 01:17:17,610
+we want the user to pass into the function
+into these parenthesis, and then when we “call”
+
+1033
+01:17:17,610 --> 01:17:22,791
+that specific function, it will be required
+to have those variables passed into it. For
+
+1034
+01:17:22,791 --> 01:17:26,980
+example, in Java, let’s make a function
+that takes in 2 numbers and prints out the
+
+1035
+01:17:26,980 --> 01:17:32,360
+product of those numbers. We start with the
+public void plus name of function setup since
+
+1036
+01:17:32,360 --> 01:17:37,770
+again, we won’t be returning any values.

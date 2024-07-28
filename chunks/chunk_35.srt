@@ -1,0 +1,40 @@
+
+157
+00:11:45,330 --> 00:11:49,530
+That covers the basic gist of syntax and programming
+rules, so now that we know HOW to write code,
+
+158
+00:11:49,530 --> 00:11:53,590
+and WHERE to write code, we next need to cover
+what happens after we have typed out our program
+
+159
+00:11:53,590 --> 00:11:57,370
+and run our code. Because writing a piece
+of code for a game or for a database is cool
+
+160
+00:11:57,370 --> 00:12:01,500
+and all, but after the computer interprets
+the program, how will we know what’s happening,
+
+161
+00:12:01,500 --> 00:12:06,290
+and whether it is working or not? Well, programmers
+do this by looking at the console. The console
+
+162
+00:12:06,290 --> 00:12:10,320
+is a text interface within the computer that
+us programmers can use for a variety of different
+
+163
+00:12:10,320 --> 00:12:15,881
+purposes. If you remember, a short while ago
+we showed a picture of a basic IDE, and one
+
+164
+00:12:15,881 --> 00:12:18,800
+of the main parts of that picture was the
+console.

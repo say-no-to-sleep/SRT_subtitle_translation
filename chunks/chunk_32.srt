@@ -1,0 +1,20 @@
+For example, in the sentence “let’s eat,
+
+144
+00:10:49,060 --> 00:10:53,070
+grandma”. If you were to forget that comma,
+while it may seem like a small mistake, it
+
+145
+00:10:53,070 --> 00:10:56,460
+changes the entire context of the sentence,
+making it sound like you’re about to eat
+
+146
+00:10:56,460 --> 00:11:02,320
+your grandma. The same rules follow for programming,
+if you forget a semicolon, the entire context
+
+147
+00:11:02,320 --> 00:11:06,950
+of your program could be corrupted and misinterpreted.

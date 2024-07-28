@@ -1,0 +1,34 @@
+
+466
+00:35:20,850 --> 00:35:25,380
+So as a review, we check the initial if statement,
+if it’s good we run all code within that
+
+467
+00:35:25,380 --> 00:35:29,380
+if statement’s curly brackets and move on
+with our program, if the initial if statement
+
+468
+00:35:29,380 --> 00:35:33,740
+is NOT true, we then move on to any else if
+statement’s and evaluate if THOSE conditional
+
+469
+00:35:33,740 --> 00:35:37,640
+statements are true. We can have as many else
+if statements as we want, although this could
+
+470
+00:35:37,640 --> 00:35:40,970
+lead to clutter amongst your code so we’ll
+talk about some alternatives later on to help
+
+471
+00:35:40,970 --> 00:35:44,840
+this out. Now that takes care of the if-else
+statement, so now we’ll move on to the else
+
+472
+00:35:44,840 --> 00:35:46,500
+statement.

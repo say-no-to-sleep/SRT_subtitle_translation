@@ -1,0 +1,44 @@
+
+121
+00:09:04,720 --> 00:09:08,200
+These can be things such as how you type out
+certain functions, what you put at the end
+
+122
+00:09:08,200 --> 00:09:13,590
+of a line of code, and how you set up certain
+functions. Each language is unique in its
+
+123
+00:09:13,590 --> 00:09:18,120
+syntax, and while some may share similar rules,
+all will have some quirk which makes it stand
+
+124
+00:09:18,120 --> 00:09:22,880
+out from the rest. Syntax is something that
+catches a lot of people off guard, since many
+
+125
+00:09:22,880 --> 00:09:27,050
+expect every programming language to follow
+the same set of rules, but as we spoke about
+
+126
+00:09:27,050 --> 00:09:31,700
+in the last segment, because each language
+is specialized for a specific task, each needs
+
+127
+00:09:31,700 --> 00:09:36,930
+its own set of rules to function. Breaking
+or disregarding these rules will result in
+
+128
+00:09:36,930 --> 00:09:41,840
+an error, just how breaking or disregarding
+rules in real life will result in an unintended
+
+129
+00:09:41,840 --> 00:09:43,160
+message.

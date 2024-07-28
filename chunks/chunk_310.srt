@@ -1,0 +1,29 @@
+
+1508
+01:55:40,250 --> 01:55:44,449
+You now have the knowledge of basic programming
+which will take you far in any language you
+
+1509
+01:55:44,449 --> 01:55:49,260
+decide to learn, you know some good pre-programming
+pseudocode strategies to help you design your
+
+1510
+01:55:49,260 --> 01:55:53,820
+code from the ground up, and you might already
+have a good idea as to the type of programming
+
+1511
+01:55:53,820 --> 01:55:57,880
+language you might want to start with, so
+what’s the next step? How can I learn that
+
+1512
+01:55:57,880 --> 01:56:02,320
+language and what applications can it be used
+for? Well that’s what we’re going to be
+
+1513
+01:56:02,320 --> 01:56:05,520
+covering now, so let’s jump right into it.

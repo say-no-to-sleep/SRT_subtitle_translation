@@ -1,0 +1,19 @@
+
+530
+00:39:36,600 --> 00:39:40,620
+As an example to show just how useful arrays
+are, let's say you’re a startup company
+
+531
+00:39:40,620 --> 00:39:45,660
+that owns an app that has 100,000 users. Every
+time a user wants to create a new account,
+
+532
+00:39:45,660 --> 00:39:48,920
+they input the username they want and then
+your program will have to check to make sure
+
+533
+00:39:48,920 --> 00:39:53,060
+the account name hasn’t already been taken.

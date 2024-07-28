@@ -1,0 +1,39 @@
+
+957
+01:11:23,440 --> 01:11:28,350
+In most languages, an import statement consists
+of 3 parts. The library you would like to
+
+958
+01:11:28,350 --> 01:11:33,130
+import from, the package you would like to
+import from that library, and then which class
+
+959
+01:11:33,130 --> 01:11:38,520
+from that package you would like to use. For
+example, we could load up the Java library,
+
+960
+01:11:38,520 --> 01:11:43,560
+and from there import the util package, short
+for utilities, and then from that utilities
+
+961
+01:11:43,560 --> 01:11:48,230
+package import the scanner class, a class
+which allows us to read information from the
+
+962
+01:11:48,230 --> 01:11:52,770
+user. A package is simply a smaller sect of
+functions and methods to help differentiate
+
+963
+01:11:52,770 --> 01:11:57,730
+between the thousands of methods contained
+in a library, and class is even more specialized
+
+964
+01:11:57,730 --> 01:11:59,380
+than that.

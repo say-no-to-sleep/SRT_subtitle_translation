@@ -1,0 +1,49 @@
+
+1045
+01:18:19,720 --> 01:18:29,400
+Now, whenever we want to call the multiplyNumbers
+function, we just have to make sure that we
+
+1046
+01:18:29,400 --> 01:18:34,570
+are putting 2 numbers in as arguments. In
+this case the number 5 becomes num1, and the
+
+1047
+01:18:34,570 --> 01:18:39,880
+number 8 becomes num2. From there we simply
+run the code and the number 40 is printed
+
+1048
+01:18:39,880 --> 01:18:44,590
+to the console. It’s important to note that
+you can also mix and match variables when
+
+1049
+01:18:44,590 --> 01:18:50,500
+making arguments. So you can have someFunction
+which takes in a char, an integer, and two
+
+1050
+01:18:50,500 --> 01:18:54,140
+strings all within one function. Pretty neat
+in my opinion. The last thing I want to mention
+
+1051
+01:18:54,140 --> 01:18:58,780
+about arguments is that when you call a function
+you have to follow the variables you defined
+
+1052
+01:18:58,780 --> 01:19:03,680
+when making the function. So for our multiplyNumbers
+function you couldn’t put in a string and
+
+1053
+01:19:03,680 --> 01:19:08,400
+then an int. It HAS to be two integers because
+that’s what the computer is expecting to
+
+1054
+01:19:08,400 --> 01:19:11,310
+be passed into the function.

@@ -1,0 +1,35 @@
+
+261
+00:19:28,720 --> 00:19:32,200
+Now it's important to note that the computer
+will take whatever you put in parenthesis
+
+262
+00:19:32,200 --> 00:19:36,590
+and print it out character for character,
+so oftentimes programmers will forget to add
+
+263
+00:19:36,590 --> 00:19:41,049
+a space onto the end of their strings. This
+can result in an small mistake in which the
+
+264
+00:19:41,049 --> 00:19:44,179
+string from the previous example will be printed
+out as if to say
+
+265
+00:19:44,179 --> 00:19:48,690
+“Game over,4was your final score” which
+isn’t that appeasing when displayed on screen
+
+266
+00:19:48,690 --> 00:19:53,999
+to the user, so it's good practice to always
+put a space after and before your strings
+
+267
+00:19:53,999 --> 00:19:58,240
+to make sure this doesn’t happen, and your
+string doesn’t end up like this.

@@ -1,0 +1,15 @@
+However, the else if statement will only be
+
+447
+00:33:55,620 --> 00:34:01,789
+evaluated if the preceding if (or else if)
+statement is bypassed due to its condition
+
+448
+00:34:01,789 --> 00:34:07,500
+being false. So we would run through it like
+so, if something is true, we would run the
+
+449
+00:34:07,500 --> 00:34:12,810
+code inside of that statement’s curly braces.

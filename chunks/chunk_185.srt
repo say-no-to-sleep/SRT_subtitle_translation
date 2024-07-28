@@ -1,0 +1,20 @@
+
+852
+01:02:55,790 --> 01:03:00,340
+Now, there are four main types of functions
+in most programming languages, and they are
+
+853
+01:03:00,340 --> 01:03:04,570
+separated by two defining features: whether
+or not they take in arguments, and whether
+
+854
+01:03:04,570 --> 01:03:08,970
+or not they return values. Let’s start by
+separating them by whether or not they take
+
+855
+01:03:08,970 --> 01:03:13,930
+arguments, but first we have to cover what
+arguments are.

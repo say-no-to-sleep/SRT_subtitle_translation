@@ -1,0 +1,35 @@
+
+950
+01:10:46,610 --> 01:10:51,670
+A library is simply a collection of functions
+that all have the same theme. It may be a
+
+951
+01:10:51,670 --> 01:10:56,920
+math library, a data analysis library, a library
+which translates text, or anything that you
+
+952
+01:10:56,920 --> 01:11:01,480
+can think of really. There is such a variety
+of libraries for any given language that most
+
+953
+01:11:01,480 --> 01:11:06,090
+functions you require that are not hyper-specific
+to your program can likely be found in some
+
+954
+01:11:06,090 --> 01:11:11,650
+library. In fact, a good portion of any programmer's
+job is looking online for packages which can
+
+955
+01:11:11,650 --> 01:11:17,770
+make his or her job easier instead of handwriting
+functions. Now, I can hear you saying, “Wow,
+
+956
+01:11:17,770 --> 01:11:23,440
+that’s sick, how do I do it?” Well, it’s
+quite simple: an import statement.

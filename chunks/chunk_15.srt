@@ -1,0 +1,11 @@
+This makes programming languages extremely
+
+65
+00:04:53,860 --> 00:04:58,479
+useful and the backbone of almost any good
+program. Think of programming languages as
+
+66
+00:04:58,479 --> 00:05:03,210
+not english, and not machine code, but somewhere
+in the middle.

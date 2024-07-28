@@ -1,0 +1,21 @@
+Now what if instead of rewriting the same
+
+603
+00:45:10,860 --> 00:45:14,280
+instructions over and over again, you could
+simply place the print statement inside of
+
+604
+00:45:14,280 --> 00:45:18,010
+a loop, and it will occur as many times as
+you would like, that’s the power of loops
+
+605
+00:45:18,010 --> 00:45:22,490
+baby. With loops we’re able to repeat parts
+of code multiple times. Now there are three
+
+606
+00:45:22,490 --> 00:45:27,510
+different types of loops that we will be discussing
+today. And up first is the for loop.

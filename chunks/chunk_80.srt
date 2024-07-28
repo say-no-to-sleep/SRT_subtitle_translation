@@ -1,0 +1,9 @@
+
+346
+00:25:42,230 --> 00:25:46,960
+Now, anytime you want to know the contents
+of your name box, you could simply look inside
+
+347
+00:25:46,960 --> 00:25:52,789
+and see that it has the contents “NullPointerException”.

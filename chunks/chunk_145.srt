@@ -1,0 +1,25 @@
+
+661
+00:49:03,920 --> 00:49:09,271
+Finally, I’d quickly like to cover an extension
+of the while loop, the do-while loop. Do-while
+
+662
+00:49:09,271 --> 00:49:12,400
+loops are very similar to while loops, except
+they will carry out their instructions at
+
+663
+00:49:12,400 --> 00:49:16,210
+least once, even if the condition is false,
+and then will carry on like a basic while
+
+664
+00:49:16,210 --> 00:49:20,740
+loop. Essentially, the conditions inside the
+loop will run AT LEAST once, and then if the
+
+665
+00:49:20,740 --> 00:49:25,520
+condition is still met they will run again
+and function as a normal while loop.

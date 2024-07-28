@@ -1,0 +1,25 @@
+
+1423
+01:48:42,120 --> 01:48:47,010
+And the final pseudocode strategy that I’d
+like to talk about today is writing out the
+
+1424
+01:48:47,010 --> 01:48:51,370
+main features you want the user to have when
+using your program, and what functions or
+
+1425
+01:48:51,370 --> 01:48:55,830
+smaller programs you’re going to need to
+complete those features. Let’s do another
+
+1426
+01:48:55,830 --> 01:49:00,880
+example, say you’re making a banking interface
+and on start-up, you want the user to initially
+
+1427
+01:49:00,880 --> 01:49:06,840
+have 2 different options. They can set up
+a new account or log into an existing account.

@@ -1,0 +1,19 @@
+
+1554
+01:58:51,239 --> 01:58:55,660
+This concludes our introduction to programming
+mine-series, we hope you enjoyed watching
+
+1555
+01:58:55,660 --> 01:59:00,679
+it as much as we enjoyed making it. If you
+enjoyed the series as a whole, consider subscribing
+
+1556
+01:59:00,679 --> 01:59:05,080
+to our channel NullPointerException, which
+will be linked in the description, for more
+
+1557
+01:59:05,080 --> 01:59:08,630
+content coming soon. Thanks for watching.

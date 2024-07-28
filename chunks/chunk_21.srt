@@ -1,0 +1,23 @@
+
+87
+00:06:35,229 --> 00:06:39,380
+And additionally, we can’t just write down
+rubbish in certain programming languages mentioned
+
+88
+00:06:39,380 --> 00:06:43,629
+in the previous episode and expect the computer
+to understand. So how are we supposed to write
+
+89
+00:06:43,629 --> 00:06:44,629
+code then?
+
+90
+00:06:44,629 --> 00:06:49,569
+Well, the answer is with an IDE. An IDE, which
+stands for Integrated Development Environment,
+
+91
+00:06:49,569 --> 00:06:54,159
+allows the facilitation of code by a computer.

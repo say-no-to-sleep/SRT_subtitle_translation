@@ -1,0 +1,10 @@
+
+771
+00:57:00,470 --> 00:57:05,880
+The situation described above could also be
+solved using a breakpoint. A breakpoint pauses
+
+772
+00:57:05,880 --> 00:57:09,610
+your program when the line you placed the
+breakpoint at is reached in your program.

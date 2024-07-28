@@ -1,0 +1,19 @@
+
+74
+00:05:35,560 --> 00:05:41,110
+We measure a programming language’s power,
+or level, by how similar it is to machine
+
+75
+00:05:41,110 --> 00:05:46,229
+code, the series of 0’s and 1’s we talked
+about earlier. Low-level programming languages
+
+76
+00:05:46,229 --> 00:05:51,400
+such as assembly or C are closer to binary
+than a high-level programming language such
+
+77
+00:05:51,400 --> 00:05:53,509
+as Java or python.

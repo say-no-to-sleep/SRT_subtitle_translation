@@ -1,0 +1,10 @@
+
+1113
+01:23:48,950 --> 01:23:53,920
+Now that we’ve reviewed array’s, let's
+go over array lists. Array lists (or just
+
+1114
+01:23:53,920 --> 01:23:57,230
+lists, in Python) can be thought of as a growing
+array.

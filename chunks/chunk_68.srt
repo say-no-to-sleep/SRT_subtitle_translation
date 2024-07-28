@@ -1,0 +1,4 @@
+
+292
+00:21:40,090 --> 00:21:46,549
+We’ll start off talking about an Integer.

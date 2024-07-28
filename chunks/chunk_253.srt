@@ -1,0 +1,20 @@
+
+1208
+01:30:57,900 --> 01:31:01,480
+The first type of search we’ll be talking
+about is called a linear search and you’ve
+
+1209
+01:31:01,480 --> 01:31:05,180
+honestly probably used this multiple times
+throughout your life. Every time you have
+
+1210
+01:31:05,180 --> 01:31:09,160
+to search for your name on a list of people
+you probably follow the same pattern. You
+
+1211
+01:31:09,160 --> 01:31:14,180
+start at the top, check to see if the first
+name on the list is yours, if it is. Great.

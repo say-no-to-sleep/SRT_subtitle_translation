@@ -1,0 +1,14 @@
+
+444
+00:33:40,970 --> 00:33:45,359
+The if statement comes with two more additional
+statements that can go with it: else if and
+
+445
+00:33:45,359 --> 00:33:50,549
+else. Else if is a conditional statement used
+directly after an if statement, and carries
+
+446
+00:33:50,549 --> 00:33:55,620
+out mainly the same function as an if statement.

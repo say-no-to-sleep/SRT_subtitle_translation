@@ -1,0 +1,10 @@
+Finally, we make the operation i + +, meaning
+
+621
+00:46:24,390 --> 00:46:27,780
+each time the loop runs we will increase it
+by one, and inside the loop let’s just put
+
+622
+00:46:27,780 --> 00:46:29,890
+a simple print statement.

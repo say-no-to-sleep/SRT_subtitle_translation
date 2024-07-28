@@ -1,0 +1,25 @@
+
+256
+00:19:03,270 --> 00:19:08,070
+We could also combine the two lessons we’ve
+learned thus far and do something like “Game
+
+257
+00:19:08,070 --> 00:19:14,369
+over, “ + (4+4) + “ was your final score”,
+in the case lets say where we have a game
+
+258
+00:19:14,369 --> 00:19:19,860
+which gives you a base score, then 4 points
+for a certain task you completed. This demonstration
+
+259
+00:19:19,860 --> 00:19:24,640
+also displays another important part of programming,
+which is that oftentimes to get your program
+
+260
+00:19:24,640 --> 00:19:28,720
+to be the most efficient, you have to combine
+aspects of code.

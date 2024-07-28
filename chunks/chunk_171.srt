@@ -1,0 +1,15 @@
+
+773
+00:57:09,610 --> 00:57:13,300
+If, say, you would like the program to run
+through a certain conditional and set a variable
+
+774
+00:57:13,300 --> 00:57:16,590
+based on that conditional, but you are unsure
+if this actually happens correctly in your
+
+775
+00:57:16,590 --> 00:57:21,630
+code, you can place a breakpoint inside the
+conditional path you want to run.

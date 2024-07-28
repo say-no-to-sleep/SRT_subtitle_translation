@@ -1,0 +1,24 @@
+
+1348
+01:42:56,440 --> 01:43:00,810
+This is the same logic that makes infinite
+loops crash your program. Recursion works
+
+1349
+01:43:00,810 --> 01:43:05,570
+on these same principles. The initial call
+makes a second call which is added to the
+
+1350
+01:43:05,570 --> 01:43:10,670
+stack, and now that one must be taken care
+of first, but in that one another function
+
+1351
+01:43:10,670 --> 01:43:15,910
+is called which gets added to the stack, and
+so on, until you reach the base case in which
+
+1352
+01:43:15,910 --> 01:43:19,080
+you slowly start going back down the stack.

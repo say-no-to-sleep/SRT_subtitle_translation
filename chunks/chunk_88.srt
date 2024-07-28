@@ -1,0 +1,69 @@
+
+392
+00:29:23,840 --> 00:29:29,269
+Another cool thing you can do with variables
+is add them, subtract them, multiply them,
+
+393
+00:29:29,269 --> 00:29:32,880
+divide them, and even modulus them. Now this
+mostly only works for integer variables as
+
+394
+00:29:32,880 --> 00:29:33,929
+multiplying and dividing strings doesn’t
+make too much sense. But if you were making
+
+395
+00:29:33,929 --> 00:29:39,102
+a calculator app and you stored the first
+number the user entered as num1, and the second
+
+396
+00:29:39,102 --> 00:29:45,140
+as num2. You could then multiply num1 and
+num2 together, and either print them, or store
+
+397
+00:29:45,140 --> 00:29:50,759
+them in a new variable entitled result. Then,
+each time you run the program, the user could
+
+398
+00:29:50,759 --> 00:29:55,990
+input new numbers into the num1 and num2 variables,
+and they would simply be set to those new
+
+399
+00:29:55,990 --> 00:30:02,860
+integers and return the result that corresponds
+to those specific numbers. This allows for
+
+400
+00:30:02,860 --> 00:30:07,029
+you to keep easy track of which numbers are
+which and what’s going on in your program
+
+401
+00:30:07,029 --> 00:30:12,509
+which is extremely useful. Also, while you
+cannot subtract, multiply, divide, or take
+
+402
+00:30:12,509 --> 00:30:19,590
+the modulus of strings, you are able to add
+them. Let’s say you had a string Str1 with
+
+403
+00:30:19,590 --> 00:30:26,029
+the contents “Hello “ and a Str2 with
+the contents “there”. You could add Str1
+
+404
+00:30:26,029 --> 00:30:31,269
+and Str2 to create a string that had the contents
+“Hello there”, either storing it in a
+
+405
+00:30:31,269 --> 00:30:34,500
+third variable or printing it out to the console.

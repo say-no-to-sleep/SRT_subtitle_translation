@@ -1,0 +1,30 @@
+For example, let’s say you were making a
+
+882
+01:05:25,870 --> 01:05:30,380
+text based RPG game and one of the options
+you give your player is the ability to view
+
+883
+01:05:30,380 --> 01:05:35,260
+their stats at various points throughout the
+game. Now every time you come upon an option
+
+884
+01:05:35,260 --> 01:05:39,660
+and they choose the “View Stats” button,
+you don’t want to have to type out 6 different
+
+885
+01:05:39,660 --> 01:05:43,520
+print statements for every statistic they
+may have, your code would get cluttered and
+
+886
+01:05:43,520 --> 01:05:49,210
+messy very quickly. Instead, what you could
+do is package the 6 different print statements
+
+887
+01:05:49,210 --> 01:05:54,150
+in a simple function called printStats().

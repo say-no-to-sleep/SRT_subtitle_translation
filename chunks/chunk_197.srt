@@ -1,0 +1,14 @@
+
+907
+01:07:28,080 --> 01:07:32,570
+Let’s do another example, let’s say you
+had created a function which took in two string
+
+908
+01:07:32,570 --> 01:07:38,530
+variables as arguments, combined them using
+that fancy String math we talked about earlier,
+
+909
+01:07:38,530 --> 01:07:43,460
+and then returned them as a single string.

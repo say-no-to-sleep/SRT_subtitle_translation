@@ -1,0 +1,34 @@
+
+565
+00:42:25,540 --> 00:42:29,681
+Once again because this is extremely important
+to remember, this means that once an array
+
+566
+00:42:29,681 --> 00:42:34,540
+has been defined, there is NO WAY to change
+the size of it. If you have an array titled
+
+567
+00:42:34,540 --> 00:42:39,010
+“Names” with a size of 8, and you try
+to add another name to the array you will
+
+568
+00:42:39,010 --> 00:42:43,810
+receive an error, so be careful when messing
+around with array sizes. Of course, you can
+
+569
+00:42:43,810 --> 00:42:48,110
+always go back at the start of the code when
+you initially MAKE the array and allocate
+
+570
+00:42:48,110 --> 00:42:54,340
+more space to it if you find out you need
+more space to hold items, but once it’s
+
+571
+00:42:54,340 --> 00:42:59,070
+defined, you CANNOT change its size.

@@ -1,0 +1,25 @@
+
+179
+00:13:16,270 --> 00:13:19,080
+However, what is the purpose of having the
+computer run this program if you will not
+
+180
+00:13:19,080 --> 00:13:22,560
+be able to tell what the result is? Instead
+of simply telling the computer to perform
+
+181
+00:13:22,560 --> 00:13:26,040
+this calculation, instruct the computer to
+print the output of the program to the console,
+
+182
+00:13:26,040 --> 00:13:30,690
+and upon the program’s completion, 7 will
+appear on the console. As you can see, the
+
+183
+00:13:30,690 --> 00:13:34,879
+console allows us to easily print information
+out to the developer for a variety of uses.

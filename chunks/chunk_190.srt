@@ -1,0 +1,10 @@
+You also should note that the argument can
+
+864
+01:03:56,210 --> 01:04:01,740
+be many different things, it could be fries,
+burgers, soda, anything really on the menu,
+
+865
+01:04:01,740 --> 01:04:04,730
+and such is the case with arguments in programming.

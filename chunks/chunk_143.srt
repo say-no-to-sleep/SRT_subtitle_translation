@@ -1,0 +1,25 @@
+
+651
+00:48:28,290 --> 00:48:31,650
+Like a for loop, you can make the condition
+such that it will eventually return false
+
+652
+00:48:31,650 --> 00:48:35,230
+and exit the loop, however while loops will
+not crash your computer should you create
+
+653
+00:48:35,230 --> 00:48:40,290
+an infinite loop. In fact, it is very common
+for while loops to run infinitely, as, for
+
+654
+00:48:40,290 --> 00:48:43,770
+certain programs, you would like the program
+to continually be iterated through instead
+
+655
+00:48:43,770 --> 00:48:47,430
+of running once, all the way through until
+you exit out of the program.

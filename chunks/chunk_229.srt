@@ -1,0 +1,10 @@
+
+1064
+01:19:51,330 --> 01:19:55,330
+The most important thing to remember about
+making functions that return variables is
+
+1065
+01:19:55,330 --> 01:19:59,881
+that no matter what path your code takes,
+it MUST return a variable NO MATTER WHAT.

@@ -1,0 +1,30 @@
+
+1160
+01:27:13,910 --> 01:27:18,800
+Arrays, arraylists, and dictionaries are useful
+in their own right, as are the mass amounts
+
+1161
+01:27:18,800 --> 01:27:23,940
+of other ways to store data, and each boast
+certain advantages over one another. We already
+
+1162
+01:27:23,940 --> 01:27:28,420
+covered the basics of 3, but since there are
+so many, we don’t have time to go in-depth
+
+1163
+01:27:28,420 --> 01:27:32,330
+into each and every one of them, and so in
+order to help you grasp the basics of storing
+
+1164
+01:27:32,330 --> 01:27:35,550
+information, we’re now going to talk about
+one of the most important functions needed
+
+1165
+01:27:35,550 --> 01:27:38,770
+to understand arrays, which are searching
+algorithms.

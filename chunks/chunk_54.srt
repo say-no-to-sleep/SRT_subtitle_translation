@@ -1,0 +1,15 @@
+
+245
+00:18:08,499 --> 00:18:12,769
+Continuing with our score example. If we wanted
+to print out the statement “Game over, 4
+
+246
+00:18:12,769 --> 00:18:17,429
+was your final score”, using 4 as an integer
+rather than a string, we could do this by
+
+247
+00:18:17,429 --> 00:18:21,919
+breaking down the statement into two strings
+and an integer like so.

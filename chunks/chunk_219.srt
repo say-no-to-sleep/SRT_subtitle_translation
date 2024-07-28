@@ -1,0 +1,49 @@
+
+988
+01:13:47,750 --> 01:13:51,290
+So at this point we’ve talked about both
+what functions are and how we can get some
+
+989
+01:13:51,290 --> 01:13:55,040
+very useful functions by importing functions
+through packages. But there are definitely
+
+990
+01:13:55,040 --> 01:13:58,340
+going to be moments in your programming journey
+where you’re going to want to make your
+
+991
+01:13:58,340 --> 01:14:04,440
+own functions because you want to make one
+specific to your program and code. Luckily,
+
+992
+01:14:04,440 --> 01:14:08,570
+making your own functions is extremely simple,
+there are just some basic rules I want to
+
+993
+01:14:08,570 --> 01:14:14,440
+cover. Now while we’ve previously used making
+functions as an example for other topics such
+
+994
+01:14:14,440 --> 01:14:18,830
+as the playerStats function from a little
+bit ago, they were extremely abstract and
+
+995
+01:14:18,830 --> 01:14:23,070
+didn’t go in depth into what is needed for
+an actual function to operate. So right now
+
+996
+01:14:23,070 --> 01:14:26,860
+we’re going to be covering a skeletal system
+of everything that needs to be included in
+
+997
+01:14:26,860 --> 01:14:30,190
+a function to get it to work.

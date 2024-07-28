@@ -1,0 +1,29 @@
+
+1439
+01:49:59,090 --> 01:50:04,240
+So there you have it, 3 pseudocode strategies
+you can use to plan out your code before you
+
+1440
+01:50:04,240 --> 01:50:08,699
+even start writing any. The flowchart method,
+which is good for thinking through the flow
+
+1441
+01:50:08,699 --> 01:50:12,949
+of a certain function. The write-up method,
+which is good for getting the general idea
+
+1442
+01:50:12,949 --> 01:50:17,840
+down for a program, or the functionality planning
+method, good for listing out the functions
+
+1443
+01:50:17,840 --> 01:50:22,929
+of a certain program. You can use none of
+them, all of them, a mix of them, or even
+
+1444
+01:50:22,929 --> 01:50:28,590
+disregard these and find or create your own.

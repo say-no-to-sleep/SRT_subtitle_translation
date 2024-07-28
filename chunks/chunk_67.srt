@@ -1,0 +1,14 @@
+
+289
+00:21:27,769 --> 00:21:32,570
+Now, there are many different types of variables
+that a programmer can use, but right now we
+
+290
+00:21:32,570 --> 00:21:36,640
+will just be covering what are called “primitive
+variables”, which include integers, booleans,
+
+291
+00:21:36,640 --> 00:21:40,090
+floats and doubles, strings, and chars.

@@ -1,0 +1,35 @@
+
+718
+00:53:18,000 --> 00:53:22,240
+The final type of error that we will be covering
+is a logic error. This error is also pretty
+
+719
+00:53:22,240 --> 00:53:27,200
+self-explanatory. A logic error occurs when
+the code runs smoothly without any runtime
+
+720
+00:53:27,200 --> 00:53:32,220
+or syntax errors, but the result that you
+get isn’t what you wanted. For example,
+
+721
+00:53:32,220 --> 00:53:35,850
+let’s say you had a calculator app, and
+you wanted to instruct the program to add
+
+722
+00:53:35,850 --> 00:53:40,170
+two numbers, except it multiplied them instead
+because you used the multiplication symbol
+
+723
+00:53:40,170 --> 00:53:47,840
+on accident. This leads the sum to be 36 instead
+of 13. Nothing went wrong with the code syntax
+
+724
+00:53:47,840 --> 00:53:53,870
+or runtime wise, the code runs just fine,
+it just doesn't work as you intended it to.

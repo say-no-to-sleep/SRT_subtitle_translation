@@ -1,0 +1,30 @@
+
+680
+00:50:22,820 --> 00:50:27,040
+To kick things off, let’s talk about syntax
+errors. These are usually the easiest of the
+
+681
+00:50:27,040 --> 00:50:31,960
+3 to solve since they are oftentimes something
+that can be fixed within seconds. If you remember
+
+682
+00:50:31,960 --> 00:50:35,980
+back to earlier in the video when we talked
+about syntax and programming rules, we said
+
+683
+00:50:35,980 --> 00:50:39,550
+that if you were to break the programming
+rules, or syntax, that it would result in
+
+684
+00:50:39,550 --> 00:50:44,160
+an error. Well that’s what syntax errors
+are, parts in your program where you fail
+
+685
+00:50:44,160 --> 00:50:48,850
+to meet the programming rules and so the computer
+doesn’t know how to interpret your code.

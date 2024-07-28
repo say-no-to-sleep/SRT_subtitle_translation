@@ -1,0 +1,15 @@
+
+786
+00:58:01,230 --> 00:58:06,280
+Next, let’s go over what to do if you think
+you have tracked down the section of code
+
+787
+00:58:06,280 --> 00:58:10,330
+that causes the problem. You may think you
+should delete it, but it’s likely you put
+
+788
+00:58:10,330 --> 00:58:14,400
+it there for a reason, and you don’t want
+to lose that work if you don’t have to.

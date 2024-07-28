@@ -1,0 +1,10 @@
+
+478
+00:36:07,180 --> 00:36:10,440
+It’s good practice to ALWAYS have an else
+statement at the end of your conditional statements
+
+479
+00:36:10,440 --> 00:36:13,920
+to catch any weird cases that may come up
+in your program.

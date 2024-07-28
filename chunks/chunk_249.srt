@@ -1,0 +1,46 @@
+Searching algorithms at their core are ways
+
+1168
+01:27:47,680 --> 01:27:52,040
+in which we can look through a list of values
+stored in an array, say a patient name list
+
+1169
+01:27:52,040 --> 01:27:57,590
+or a high score list, and find a particular
+piece of data. The goal of a searching algorithm
+
+1170
+01:27:57,590 --> 01:28:02,300
+is to simply give the algorithm a string or
+object you want it to find and return the
+
+1171
+01:28:02,300 --> 01:28:07,880
+index of the array that contains that string
+or object as fast as possible. Now this may
+
+1172
+01:28:07,880 --> 01:28:11,750
+seem simple, but lots of software runs on
+the backbone of being able to search through
+
+1173
+01:28:11,750 --> 01:28:17,300
+lists extremely quickly, making searching
+algorithms, and in particular efficient searching
+
+1174
+01:28:17,300 --> 01:28:22,520
+algorithms, an important topic to cover. Additionally,
+this is the main functionality that arrays
+
+1175
+01:28:22,520 --> 01:28:27,390
+are used for and is the backbone of many of
+the methods used with arrayLists as well as
+
+1176
+01:28:27,390 --> 01:28:32,450
+many other storage methods, so knowing them
+will take you a very long way.

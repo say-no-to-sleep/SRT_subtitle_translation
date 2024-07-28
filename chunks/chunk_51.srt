@@ -1,0 +1,15 @@
+
+233
+00:17:11,569 --> 00:17:17,749
+Now our computer can work with numbers, as
+well as Strings. Strings by the way are another
+
+234
+00:17:17,749 --> 00:17:22,299
+way to just say text. For example, “hello
+world” is a string, The letter “a” is
+
+235
+00:17:22,299 --> 00:17:27,970
+a string, anything enclosed by quotation marks
+is denoted as a String in programming language.

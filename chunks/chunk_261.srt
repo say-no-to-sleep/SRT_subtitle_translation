@@ -1,0 +1,19 @@
+
+1271
+01:36:12,840 --> 01:36:17,670
+Now, while there are other types of searching
+algorithms you can use, these two are the
+
+1272
+01:36:17,670 --> 01:36:23,300
+most common for both unsorted and sorted lists,
+so we will stop there for now. Up next, we’re
+
+1273
+01:36:23,300 --> 01:36:28,070
+going to be covering one of the most confusing
+and important topics in computer science,
+
+1274
+01:36:28,070 --> 01:36:29,610
+recursion.

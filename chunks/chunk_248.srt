@@ -1,0 +1,9 @@
+
+1166
+01:27:38,770 --> 01:27:43,130
+Now, just as there are many ways to store
+information in computer science, there are
+
+1167
+01:27:43,130 --> 01:27:47,680
+even more ways of searching through lists.

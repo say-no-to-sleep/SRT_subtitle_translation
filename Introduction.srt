@@ -1,0 +1,7697 @@
+1
+00:00:01,579 --> 00:00:04,420
+Welcome to Introduction To Programming. My
+name is Steven
+
+2
+00:00:04,420 --> 00:00:06,120
+And my name is Sean.
+
+3
+00:00:06,120 --> 00:00:09,790
+Over the next 90 minutes, we’ll be taking
+you through this series consisting of 21 different
+
+4
+00:00:09,790 --> 00:00:13,599
+segments that hope to cover the basics of
+computer programming, which can apply to any
+
+5
+00:00:13,599 --> 00:00:17,600
+and all programming languages you might want
+to learn. We’ll be starting with the simplest
+
+6
+00:00:17,600 --> 00:00:21,930
+question of what is programming, and from
+there will be working our way up as we talk
+
+7
+00:00:21,930 --> 00:00:26,181
+about common features of computer science
+such as loops and arrays. We’ll discuss
+
+8
+00:00:26,181 --> 00:00:30,859
+how to read and write code, debug code you’ve
+written, some strategies to help plan out
+
+9
+00:00:30,859 --> 00:00:35,130
+your code, and much, much more. The complete
+list of topics that are going to be covered
+
+10
+00:00:35,130 --> 00:00:39,549
+in this lecture-style video are shown on the
+screen now. Additionally, there will be time-stamps
+
+11
+00:00:39,549 --> 00:00:43,380
+in the description, so feel free to skip around
+if you are already proficient in some areas
+
+12
+00:00:43,380 --> 00:00:47,780
+of computer science, or just want to know
+about a specific topic we will be covering.
+
+13
+00:00:47,780 --> 00:00:51,589
+Hopefully, by the end of the series, you’ll
+have a basic understanding of what computer
+
+14
+00:00:51,589 --> 00:00:55,479
+science is, along with an armory of useful
+skills that will help you unravel whichever
+
+15
+00:00:55,479 --> 00:00:58,159
+programming language you decide to learn first.
+
+16
+00:00:58,159 --> 00:01:02,549
+We’ll only be covering the major key points
+that apply to all programming languages, so
+
+17
+00:01:02,549 --> 00:01:07,030
+we’ll be shying away from topics such as
+object-oriented coding and command line navigation,
+
+18
+00:01:07,030 --> 00:01:11,660
+as those are things which are language-specific.
+Additionally, there will be no software required
+
+19
+00:01:11,660 --> 00:01:15,670
+for you to download in order to follow along
+with this tutorial as we won’t be writing
+
+20
+00:01:15,670 --> 00:01:21,940
+any code to keep things simple and concentrated.
+This video is meant for those who are interested
+
+21
+00:01:21,940 --> 00:01:25,340
+in computer science and programming but have
+no idea where to start and have little to
+
+22
+00:01:25,340 --> 00:01:29,720
+no background information on coding, and so
+if that sounds like you, then strap Sean and
+
+23
+00:01:29,720 --> 00:01:33,590
+I work our way through the wacky world of
+computer science, starting with the biggest
+
+24
+00:01:33,590 --> 00:01:37,690
+question probably on your mind, which is what
+even is programming?
+
+25
+00:01:37,690 --> 00:01:43,450
+Well, the dictionary defines it as the process
+of preparing an instructional program for
+
+26
+00:01:43,450 --> 00:01:50,070
+a device, but that’s a really confusing
+definition, so in layman’s terms what exactly
+
+27
+00:01:50,070 --> 00:01:55,909
+does that mean? Essentially, it is attempting
+to get a computer to complete a specific task
+
+28
+00:01:55,909 --> 00:01:57,850
+without making mistakes.
+
+29
+00:01:57,850 --> 00:02:05,650
+Imagine this, for example: you want your less-than-intelligent
+friend to build a lego set, except he has
+
+30
+00:02:05,650 --> 00:02:11,560
+lost the instructions and can only build based
+on your command. Remember though, your friend
+
+31
+00:02:11,560 --> 00:02:16,250
+is far from competent, and so If they are
+not given very specific instructions on how
+
+32
+00:02:16,250 --> 00:02:22,010
+to build the set, there are many mistakes
+he could make. If he thinks like a computer,
+
+33
+00:02:22,010 --> 00:02:25,730
+then if there is even one piece that you have
+not told him specifically where to place and
+
+34
+00:02:25,730 --> 00:02:29,830
+how to place it, the entire lego set will
+be ruined and he will be left to suffer a
+
+35
+00:02:29,830 --> 00:02:35,281
+complete mental breakdown causing the whole
+goal of the project to be corrupted. Giving
+
+36
+00:02:35,281 --> 00:02:41,450
+instructions to your friend is very similar
+to how programmers code. Instead of a less-than-intelligent
+
+37
+00:02:41,450 --> 00:02:46,230
+friend, you have a less-than-intelligent computer,
+and instead of instructions on how to build
+
+38
+00:02:46,230 --> 00:02:50,840
+a lego set, we are feeding it information
+on how to complete a program like a game or
+
+39
+00:02:50,840 --> 00:02:56,890
+web application. An important thing to note
+is that comptuers are actually very dumb.
+
+40
+00:02:56,890 --> 00:03:01,900
+We build them up to be this super sophisticated
+piece of technology, when in actuality, a
+
+41
+00:03:01,900 --> 00:03:05,739
+computer’s main functionality comes from
+how we manipulate it to serve our needs.
+
+42
+00:03:05,739 --> 00:03:10,400
+Now, programming isn’t as simple as giving
+your friend instructions since in a programmers
+
+43
+00:03:10,400 --> 00:03:14,690
+case, the computer doesn’t speak the same
+language as you, the computer only understands
+
+44
+00:03:14,690 --> 00:03:19,450
+machine code, which is a numerical language
+known as binary that is designed so that the
+
+45
+00:03:19,450 --> 00:03:24,150
+computer can quickly read it and carry out
+its instructions. Every instruction fed to
+
+46
+00:03:24,150 --> 00:03:29,110
+the computer is converted into a string of
+1’s and 0’s and then interpreted by the
+
+47
+00:03:29,110 --> 00:03:32,070
+computer to carry out a task.
+
+48
+00:03:32,070 --> 00:03:36,890
+Going back to the lego example, this process
+would be like if he was not only less-than-intelligent,
+
+49
+00:03:36,890 --> 00:03:43,740
+but to make matters worse, he could not understand
+english and only speaks in mandarin chinese.
+
+50
+00:03:43,740 --> 00:03:48,410
+In order to speak with him, you have to convert
+the instructions that you understand in english
+
+51
+00:03:48,410 --> 00:03:53,410
+into the language that your friend understands.
+This process is essentially what you must
+
+52
+00:03:53,410 --> 00:03:57,940
+do for your computer in order to make it understand
+the instructions you give it.
+
+53
+00:03:57,940 --> 00:04:02,320
+The big difference between the two examples,
+however, is that it is very difficult for
+
+54
+00:04:02,320 --> 00:04:06,940
+people to understand machine code and binary.
+Directly translating what you want the computer
+
+55
+00:04:06,940 --> 00:04:12,320
+to do into machine code is extremely difficult,
+in fact almost impossible, and would take
+
+56
+00:04:12,320 --> 00:04:17,850
+a very long time to do if you could. Each
+program is composed of millions upon millions
+
+57
+00:04:17,850 --> 00:04:22,949
+of those 1’s and 0’s, so how, exactly,
+are we supposed to translate our instructions
+
+58
+00:04:22,949 --> 00:04:25,190
+into machine code?
+
+59
+00:04:25,190 --> 00:04:29,819
+This is where programming languages come into
+play. Programming languages are fundamentally
+
+60
+00:04:29,819 --> 00:04:34,990
+a middle man for translating a program into
+machine code. These languages are much easier
+
+61
+00:04:34,990 --> 00:04:39,911
+for humans to learn than machine code, and
+are thus very useful for programmers. Going
+
+62
+00:04:39,911 --> 00:04:44,919
+back to our lego example, a programming language
+would be sort of like an interpreter, that’s
+
+63
+00:04:44,919 --> 00:04:48,849
+able to take the instructions you give them
+in english, and translate them into instructions
+
+64
+00:04:48,849 --> 00:04:53,860
+your non-english speaking friend can understand.
+This makes programming languages extremely
+
+65
+00:04:53,860 --> 00:04:58,479
+useful and the backbone of almost any good
+program. Think of programming languages as
+
+66
+00:04:58,479 --> 00:05:03,210
+not english, and not machine code, but somewhere
+in the middle.
+
+67
+00:05:03,210 --> 00:05:07,050
+There are many different programming languages
+out there that each have their own unique
+
+68
+00:05:07,050 --> 00:05:12,490
+uses. Languages such as Python and Java act
+as general purpose languages that can perform
+
+69
+00:05:12,490 --> 00:05:18,960
+a variety of computational tasks, while RobotC
+or HTML/CSS are languages designed for more
+
+70
+00:05:18,960 --> 00:05:24,169
+specific purposes such as moving a robot or
+constructing a website. Languages can also
+
+71
+00:05:24,169 --> 00:05:29,250
+vary in how powerful they are. For instance,
+JavaScript is a scripting language that is
+
+72
+00:05:29,250 --> 00:05:34,560
+designed for smaller tasks while java or python
+can carry out much more computationally taxing
+
+73
+00:05:34,560 --> 00:05:35,560
+processes.
+
+74
+00:05:35,560 --> 00:05:41,110
+We measure a programming language’s power,
+or level, by how similar it is to machine
+
+75
+00:05:41,110 --> 00:05:46,229
+code, the series of 0’s and 1’s we talked
+about earlier. Low-level programming languages
+
+76
+00:05:46,229 --> 00:05:51,400
+such as assembly or C are closer to binary
+than a high-level programming language such
+
+77
+00:05:51,400 --> 00:05:53,509
+as Java or python.
+
+78
+00:05:53,509 --> 00:05:58,199
+The basic idea is that the lower the level
+of your programming language, the more your
+
+79
+00:05:58,199 --> 00:06:03,289
+code will resemble what the machine can interpret
+as instructions. Aside from the different
+
+80
+00:06:03,289 --> 00:06:07,310
+purposes that each language fulfills, choosing
+a programming language typically comes down
+
+81
+00:06:07,310 --> 00:06:13,020
+to a matter of preference, as there are usually
+many languages that accomplish similar tasks.
+
+82
+00:06:13,020 --> 00:06:17,940
+Try different languages, and decide which
+one’s rules, interface, and level of simplification
+
+83
+00:06:17,940 --> 00:06:20,750
+you like best.
+
+84
+00:06:20,750 --> 00:06:26,639
+So now that we know what programming is, how
+do we actually write code? It’s not like
+
+85
+00:06:26,639 --> 00:06:30,419
+we can simply type words into a text document
+and automatically assume that the computer
+
+86
+00:06:30,419 --> 00:06:35,229
+can translate it into machine code, read it,
+and carry out a task like opening up a browser.
+
+87
+00:06:35,229 --> 00:06:39,380
+And additionally, we can’t just write down
+rubbish in certain programming languages mentioned
+
+88
+00:06:39,380 --> 00:06:43,629
+in the previous episode and expect the computer
+to understand. So how are we supposed to write
+
+89
+00:06:43,629 --> 00:06:44,629
+code then?
+
+90
+00:06:44,629 --> 00:06:49,569
+Well, the answer is with an IDE. An IDE, which
+stands for Integrated Development Environment,
+
+91
+00:06:49,569 --> 00:06:54,159
+allows the facilitation of code by a computer.
+IDE’s provide a graphic interface on your
+
+92
+00:06:54,159 --> 00:06:58,529
+computer in which the programmer can easily
+write, run, and debug code without having
+
+93
+00:06:58,529 --> 00:07:03,110
+to worry about problems with compilation or
+interpretation of the program. Think of an
+
+94
+00:07:03,110 --> 00:07:07,189
+IDE as any other program on your computer
+such as a game, a browser, or even the file
+
+95
+00:07:07,189 --> 00:07:11,619
+explorer, except we’ll be using it to write
+code. IDE’s are able to turn your code into
+
+96
+00:07:11,619 --> 00:07:15,289
+machine code and run it through the computer
+to produce results.
+
+97
+00:07:15,289 --> 00:07:19,279
+In addition to providing a place for programmers
+to develop their code, IDE’s provide some
+
+98
+00:07:19,279 --> 00:07:23,590
+extremely useful tools for programmers to
+ease the job of writing code, such as built-in
+
+99
+00:07:23,590 --> 00:07:27,550
+error checking because as we’ll talk about
+later; code doesn’t always run correctly,
+
+100
+00:07:27,550 --> 00:07:31,909
+auto-fill in for frequently used words or
+phrases, and project hierarchy which will
+
+101
+00:07:31,909 --> 00:07:36,539
+help you organize and manipulate the files
+within your project. Back in the olden-days,
+
+102
+00:07:36,539 --> 00:07:40,349
+before IDE’s, code used to be written on
+punch cards and then fed into computers which
+
+103
+00:07:40,349 --> 00:07:45,569
+would take hours and cause a lot of pain.
+IDE’s nowadays act as a sort of fast-track
+
+104
+00:07:45,569 --> 00:07:50,240
+to writing code and make things a whole lot
+easier for programmers. An example of a specific
+
+105
+00:07:50,240 --> 00:07:54,629
+IDE can be seen on your screen now. In the
+center you can see the program that is currently
+
+106
+00:07:54,629 --> 00:07:58,679
+being written, and right below it the console,
+which can print out useful information for
+
+107
+00:07:58,679 --> 00:08:04,629
+the programmer. This specific IDE is used
+to write java code. IDE’s are extremely
+
+108
+00:08:04,629 --> 00:08:08,990
+powerful and will be used in almost 100% of
+your programming projects.
+
+109
+00:08:08,990 --> 00:08:12,789
+So through these IDE’s we are finally able
+to write and compile code smoothly without
+
+110
+00:08:12,789 --> 00:08:16,719
+worrying about the computer not being able
+to understand it. The next problem we run
+
+111
+00:08:16,719 --> 00:08:21,099
+into then becomes how do we write this code
+in the IDE, because it’s not like we can
+
+112
+00:08:21,099 --> 00:08:25,129
+just type random words from a certain programming
+language and expect the compiler to understand
+
+113
+00:08:25,129 --> 00:08:29,740
+it. This is where a programming language’s
+syntax comes into play.
+
+114
+00:08:29,740 --> 00:08:35,410
+Now, just as if you were learning a real language,
+learning a computer language can be very similar.
+
+115
+00:08:35,410 --> 00:08:40,150
+Some have different styles that may seem odd,
+some may make you use abstract or weird concepts
+
+116
+00:08:40,150 --> 00:08:44,700
+which may be confusing, and like all languages,
+programming languages have a set of rules
+
+117
+00:08:44,700 --> 00:08:48,400
+that you must follow when writing code in
+that language, and at the forefront of those
+
+118
+00:08:48,400 --> 00:08:54,970
+rules is grammar. Programming grammar is referred
+to as syntax and is very similar to real-world
+
+119
+00:08:54,970 --> 00:08:59,150
+grammar. Each programming language has its
+own syntax, or rules, that you have to follow
+
+120
+00:08:59,150 --> 00:09:04,720
+to a tee if you want your program to run correctly,
+just as if you were speaking in real life.
+
+121
+00:09:04,720 --> 00:09:08,200
+These can be things such as how you type out
+certain functions, what you put at the end
+
+122
+00:09:08,200 --> 00:09:13,590
+of a line of code, and how you set up certain
+functions. Each language is unique in its
+
+123
+00:09:13,590 --> 00:09:18,120
+syntax, and while some may share similar rules,
+all will have some quirk which makes it stand
+
+124
+00:09:18,120 --> 00:09:22,880
+out from the rest. Syntax is something that
+catches a lot of people off guard, since many
+
+125
+00:09:22,880 --> 00:09:27,050
+expect every programming language to follow
+the same set of rules, but as we spoke about
+
+126
+00:09:27,050 --> 00:09:31,700
+in the last segment, because each language
+is specialized for a specific task, each needs
+
+127
+00:09:31,700 --> 00:09:36,930
+its own set of rules to function. Breaking
+or disregarding these rules will result in
+
+128
+00:09:36,930 --> 00:09:41,840
+an error, just how breaking or disregarding
+rules in real life will result in an unintended
+
+129
+00:09:41,840 --> 00:09:43,160
+message.
+
+130
+00:09:43,160 --> 00:09:47,140
+As an example. If we wanted to do something
+simple such as initialize a variable, which
+
+131
+00:09:47,140 --> 00:09:51,620
+is something we haven’t covered yet but
+the example is still relevant. In java, you’ll
+
+132
+00:09:51,620 --> 00:09:56,410
+notice we have to specify what type of variable
+we are defining in this case an integer, and
+
+133
+00:09:56,410 --> 00:10:00,650
+also add a semi-colon after the statement.
+In python, we don’t even need to define
+
+134
+00:10:00,650 --> 00:10:05,360
+that we are trying to create a variable and
+just have to type what we want to create,
+
+135
+00:10:05,360 --> 00:10:09,271
+and in javascript, we just specify we are
+making a variable, but do not include what
+
+136
+00:10:09,271 --> 00:10:15,270
+type of variable we want to make. Even in
+this simple example you can see how much syntax
+
+137
+00:10:15,270 --> 00:10:19,070
+matters when learning a new language since
+while the goal of our program remained the
+
+138
+00:10:19,070 --> 00:10:25,480
+same, define an integer with value three,
+all the programming language shown took different
+
+139
+00:10:25,480 --> 00:10:30,240
+approaches. All these languages require that
+you follow this syntax because remember, computers
+
+140
+00:10:30,240 --> 00:10:35,520
+are extremely dumb, if you forget one semicolon
+or misplace a character, the entire program
+
+141
+00:10:35,520 --> 00:10:40,240
+will not run and send you back a syntax error,
+which is something we will talk about later.
+
+142
+00:10:40,240 --> 00:10:43,810
+Think of this as if you forget a comma in
+a sentence and the entire context of what
+
+143
+00:10:43,810 --> 00:10:49,060
+you are trying to say get misinterpreted.
+For example, in the sentence “let’s eat,
+
+144
+00:10:49,060 --> 00:10:53,070
+grandma”. If you were to forget that comma,
+while it may seem like a small mistake, it
+
+145
+00:10:53,070 --> 00:10:56,460
+changes the entire context of the sentence,
+making it sound like you’re about to eat
+
+146
+00:10:56,460 --> 00:11:02,320
+your grandma. The same rules follow for programming,
+if you forget a semicolon, the entire context
+
+147
+00:11:02,320 --> 00:11:06,950
+of your program could be corrupted and misinterpreted.
+
+148
+00:11:06,950 --> 00:11:10,810
+Now another thing which makes IDE’s so useful
+is that they will let you know if and when
+
+149
+00:11:10,810 --> 00:11:15,260
+there are syntax errors in your code. Syntax
+errors of course being parts of your code
+
+150
+00:11:15,260 --> 00:11:20,310
+which do not follow the rules we talked about
+previously. The IDE will tell you where in
+
+151
+00:11:20,310 --> 00:11:24,600
+your code the error is, and also won’t let
+you run your program until the error has been
+
+152
+00:11:24,600 --> 00:11:29,110
+fixed. Because of how important syntax is
+to writing code and learning a new language,
+
+153
+00:11:29,110 --> 00:11:32,600
+it's recommended that you learn the rules
+and syntax of a language before beginning
+
+154
+00:11:32,600 --> 00:11:37,450
+to write complex programs in that language.
+Most of the rules are tedious to learn but
+
+155
+00:11:37,450 --> 00:11:41,290
+easy to master and as soon as you can do that,
+you’ll be able to easily identify syntax
+
+156
+00:11:41,290 --> 00:11:45,330
+errors and take care of them easily.
+
+157
+00:11:45,330 --> 00:11:49,530
+That covers the basic gist of syntax and programming
+rules, so now that we know HOW to write code,
+
+158
+00:11:49,530 --> 00:11:53,590
+and WHERE to write code, we next need to cover
+what happens after we have typed out our program
+
+159
+00:11:53,590 --> 00:11:57,370
+and run our code. Because writing a piece
+of code for a game or for a database is cool
+
+160
+00:11:57,370 --> 00:12:01,500
+and all, but after the computer interprets
+the program, how will we know what’s happening,
+
+161
+00:12:01,500 --> 00:12:06,290
+and whether it is working or not? Well, programmers
+do this by looking at the console. The console
+
+162
+00:12:06,290 --> 00:12:10,320
+is a text interface within the computer that
+us programmers can use for a variety of different
+
+163
+00:12:10,320 --> 00:12:15,881
+purposes. If you remember, a short while ago
+we showed a picture of a basic IDE, and one
+
+164
+00:12:15,881 --> 00:12:18,800
+of the main parts of that picture was the
+console.
+
+165
+00:12:18,800 --> 00:12:23,690
+The main use of the console is to output text
+from the program. This is usually done using
+
+166
+00:12:23,690 --> 00:12:27,540
+a print statement. A print statement is a
+command that does exactly what it sounds like:
+
+167
+00:12:27,540 --> 00:12:31,380
+it prints text to the console. This print
+statement is the first piece of ACTUAL CODE
+
+168
+00:12:31,380 --> 00:12:35,540
+we’ve talked about in this series, and it’s
+about as simple as it gets. The print statement,
+
+169
+00:12:35,540 --> 00:12:39,160
+despite its simplicity, is one of the most
+important functions in programming and exists
+
+170
+00:12:39,160 --> 00:12:41,920
+in some form in just about every programming
+language.
+
+171
+00:12:41,920 --> 00:12:46,600
+The most basic thing you can ask the print
+statement to do is just simply make it say
+
+172
+00:12:46,600 --> 00:12:50,420
+something. This is done by instructing the
+console to print, and then include whatever
+
+173
+00:12:50,420 --> 00:12:55,170
+you want to be printed inside the parentheses.
+For example, in python, the segment of code
+
+174
+00:12:55,170 --> 00:13:00,070
+print(“Hello World”) will cause a message
+reading “hello world” to appear onto the
+
+175
+00:13:00,070 --> 00:13:01,880
+console. Pretty neat.
+
+176
+00:13:01,880 --> 00:13:05,770
+The print statement is also vital for viewing
+and interpreting the computer’s output from
+
+177
+00:13:05,770 --> 00:13:11,070
+a program. For instance, if you tell a computer
+to run a simple calculation, for instance
+
+178
+00:13:11,070 --> 00:13:16,270
+to determine what 4+3 is, it will run the
+program internally and compute an answer.
+
+179
+00:13:16,270 --> 00:13:19,080
+However, what is the purpose of having the
+computer run this program if you will not
+
+180
+00:13:19,080 --> 00:13:22,560
+be able to tell what the result is? Instead
+of simply telling the computer to perform
+
+181
+00:13:22,560 --> 00:13:26,040
+this calculation, instruct the computer to
+print the output of the program to the console,
+
+182
+00:13:26,040 --> 00:13:30,690
+and upon the program’s completion, 7 will
+appear on the console. As you can see, the
+
+183
+00:13:30,690 --> 00:13:34,879
+console allows us to easily print information
+out to the developer for a variety of uses.
+
+184
+00:13:34,879 --> 00:13:37,930
+It is important to note that the print statement
+varies depending on the programming language
+
+185
+00:13:37,930 --> 00:13:42,320
+being used. For example, in Java there are
+multiple versions of the print statement depending
+
+186
+00:13:42,320 --> 00:13:46,770
+upon whether you would like a line break after
+the printed text, and specialized print statements
+
+187
+00:13:46,770 --> 00:13:51,430
+which make your code more efficient. Also,
+the general syntax of using a print statement
+
+188
+00:13:51,430 --> 00:13:55,880
+and certain nuances of its function can change
+between languages. However, you can generally
+
+189
+00:13:55,880 --> 00:14:00,490
+rely on it carrying out the same overall function,
+as it is a foundational statement for programming
+
+190
+00:14:00,490 --> 00:14:02,040
+in general. So print statements, they print
+information out to the console for the developer
+
+191
+00:14:02,040 --> 00:14:03,040
+to use, nice.
+
+192
+00:14:03,040 --> 00:14:06,320
+All of its functionality makes the print statement,
+along with the console, a very useful developer
+
+193
+00:14:06,320 --> 00:14:11,630
+tool. However, it is important to remember
+that that is all it is: a developer tool.
+
+194
+00:14:11,630 --> 00:14:15,360
+The console is not really meant to be viewed
+by the end user of your program. It tends
+
+195
+00:14:15,360 --> 00:14:18,820
+to be hidden away behind the scenes, and other
+methods of displaying information such as
+
+196
+00:14:18,820 --> 00:14:23,570
+displaying text, graphics, or images are used
+to convey information to the user instead.
+
+197
+00:14:23,570 --> 00:14:27,070
+Think of it like this, when you’re using
+your phone, you see the console in none of
+
+198
+00:14:27,070 --> 00:14:30,810
+the programs you use. So while you can use
+the console to give yourself information about
+
+199
+00:14:30,810 --> 00:14:34,370
+how your program is performing, don’t try
+to implement it in the final product because
+
+200
+00:14:34,370 --> 00:14:38,900
+it fundamentally just isn’t meant for that.
+Overall, remember to use the console to its
+
+201
+00:14:38,900 --> 00:14:43,590
+fullest extent when writing and fixing problems
+in your programs, as it is a great tool to
+
+202
+00:14:43,590 --> 00:14:48,320
+use to tell how your program is performing
+behind the scenes.
+
+203
+00:14:48,320 --> 00:14:52,061
+So now that we know a whole bunch of information
+about programming languages and how and where
+
+204
+00:14:52,061 --> 00:14:56,420
+to write them, along with the print statement
+under our belts, let’s go over some intuitive
+
+205
+00:14:56,420 --> 00:15:00,810
+things the computer can do all by itself,
+without you having to tell it how to. More
+
+206
+00:15:00,810 --> 00:15:05,910
+specifically, we’ll be covering basic number
+mathematics as well as string math
+
+207
+00:15:05,910 --> 00:15:10,310
+Starting off with basic mathematics, the computer
+already knows how to do simple arithmetic.
+
+208
+00:15:10,310 --> 00:15:15,110
+This includes addition, subtraction, multiplication,
+and division, all of which are represented
+
+209
+00:15:15,110 --> 00:15:19,490
+by the symbols shown on the screen now. In
+any IDE that you may install, you’ll be
+
+210
+00:15:19,490 --> 00:15:23,310
+able to print out the answer to simple math
+problems using the print statement, which
+
+211
+00:15:23,310 --> 00:15:26,900
+may seem counter-intuitive because why would
+you use the computer to do math when you have
+
+212
+00:15:26,900 --> 00:15:31,360
+a perfectly good calculator on your phone,
+but you have to remember that computers are
+
+213
+00:15:31,360 --> 00:15:36,820
+dumb, and anything we want a computer to do
+we have to build up from scratch. Basic arithmetic,
+
+214
+00:15:36,820 --> 00:15:42,260
+while simple, helps out in almost any program
+you may write. For example, if we wanted to
+
+215
+00:15:42,260 --> 00:15:46,630
+build a basic calculator app, we’d need
+to utilize this functionality in order to
+
+216
+00:15:46,630 --> 00:15:52,150
+correctly display the answer to an arithmetic
+problem when our user tries to add, subtract,
+
+217
+00:15:52,150 --> 00:15:54,690
+multiply, or divide two numbers.
+
+218
+00:15:54,690 --> 00:15:59,150
+Now in addition to the 4 basic math equations,
+most programming languages include an additional
+
+219
+00:15:59,150 --> 00:16:04,029
+operator known as modulus. If this is your
+first time hearing this word, don’t worry,
+
+220
+00:16:04,029 --> 00:16:08,710
+since it's not usually taught in math classes.
+Modulus allows us to get the remainder of
+
+221
+00:16:08,710 --> 00:16:14,250
+a divisional operation. For example, when
+we take 10 modulus 3, we are essentially telling
+
+222
+00:16:14,250 --> 00:16:19,730
+the computer to take 10, divide it by 3, ignore
+the actual answer and just give us the remainder
+
+223
+00:16:19,730 --> 00:16:25,430
+of that operation in this case 1, since when
+we divide 10 by 3, the answer is 3 remainder
+
+224
+00:16:25,430 --> 00:16:32,250
+1. The 1 in this case is what gets printed
+out to the console. If there is no remainder,
+
+225
+00:16:32,250 --> 00:16:37,410
+say in the case that we take 50 modulus 2,
+since the remainder is 0, the function would
+
+226
+00:16:37,410 --> 00:16:41,100
+return 0 if we were to print it out.
+
+227
+00:16:41,100 --> 00:16:45,830
+This can be extremely useful in many cases,
+the most obvious being if we want to determine
+
+228
+00:16:45,830 --> 00:16:52,050
+whether or not a certain integer is even or
+odd. If we take a certain number modulus 2
+
+229
+00:16:52,050 --> 00:16:57,790
+and it returns 0, then we know it's even since
+any even number divided by 2 will always result
+
+230
+00:16:57,790 --> 00:17:02,830
+in a full answer without a remainder, but
+if the system returns 1, then we know that
+
+231
+00:17:02,830 --> 00:17:07,400
+the integer is odd. You will find yourself
+using the basic math operators a lot more
+
+232
+00:17:07,400 --> 00:17:11,569
+than you think, so it's good to keep them
+in mind when writing your programs.
+
+233
+00:17:11,569 --> 00:17:17,749
+Now our computer can work with numbers, as
+well as Strings. Strings by the way are another
+
+234
+00:17:17,749 --> 00:17:22,299
+way to just say text. For example, “hello
+world” is a string, The letter “a” is
+
+235
+00:17:22,299 --> 00:17:27,970
+a string, anything enclosed by quotation marks
+is denoted as a String in programming language.
+
+236
+00:17:27,970 --> 00:17:32,010
+We’ll cover more about Strings in a bit
+when we talk about variables, but for now
+
+237
+00:17:32,010 --> 00:17:36,090
+let’s continue. We already talked about
+printing strings to the console, but let’s
+
+238
+00:17:36,090 --> 00:17:39,080
+say we’re making a game, and we wanted to
+print out the statement”
+
+239
+00:17:39,080 --> 00:17:44,269
+“Game over, 4 was your final score”.
+Now while we could just make a string that
+
+240
+00:17:44,269 --> 00:17:48,549
+says that exact phrase and print it out to
+the console, in some cases it would be more
+
+241
+00:17:48,549 --> 00:17:52,590
+useful to print out the actual integer value,
+especially in the case of a game where the
+
+242
+00:17:52,590 --> 00:17:57,149
+score can change each time you play, because
+score definitely isn’t always going to be
+
+243
+00:17:57,149 --> 00:18:03,039
+4. Well, we’re also able to print multiple
+strings of text, and even integers by “adding”
+
+244
+00:18:03,039 --> 00:18:08,499
+them together in the print statement. This
+is called concatenation.
+
+245
+00:18:08,499 --> 00:18:12,769
+Continuing with our score example. If we wanted
+to print out the statement “Game over, 4
+
+246
+00:18:12,769 --> 00:18:17,429
+was your final score”, using 4 as an integer
+rather than a string, we could do this by
+
+247
+00:18:17,429 --> 00:18:21,919
+breaking down the statement into two strings
+and an integer like so.
+
+248
+00:18:21,919 --> 00:18:27,740
+Print (“Game over, “ + 4 + “ was your
+final score)
+
+249
+00:18:27,740 --> 00:18:34,980
+We of course begin with a print statement,
+which again will be different across all languages.
+
+250
+00:18:34,980 --> 00:18:39,240
+Inside the print statement we start off by
+printing the string “Game over, “. Now
+
+251
+00:18:39,240 --> 00:18:44,549
+here comes the important part, from there,
+we use a plus sign and add 4 to the print
+
+252
+00:18:44,549 --> 00:18:48,779
+statement, just like if you were adding two
+numbers. Then, we can repeat this process
+
+253
+00:18:48,779 --> 00:18:54,090
+with another + sign for the final string “ was
+your final score” and we’re able to print
+
+254
+00:18:54,090 --> 00:18:59,029
+out the entirety of our statement easily.
+Doing this, we can easily print out multiple
+
+255
+00:18:59,029 --> 00:19:03,270
+different strings and integers together in
+one print statement.
+
+256
+00:19:03,270 --> 00:19:08,070
+We could also combine the two lessons we’ve
+learned thus far and do something like “Game
+
+257
+00:19:08,070 --> 00:19:14,369
+over, “ + (4+4) + “ was your final score”,
+in the case lets say where we have a game
+
+258
+00:19:14,369 --> 00:19:19,860
+which gives you a base score, then 4 points
+for a certain task you completed. This demonstration
+
+259
+00:19:19,860 --> 00:19:24,640
+also displays another important part of programming,
+which is that oftentimes to get your program
+
+260
+00:19:24,640 --> 00:19:28,720
+to be the most efficient, you have to combine
+aspects of code.
+
+261
+00:19:28,720 --> 00:19:32,200
+Now it's important to note that the computer
+will take whatever you put in parenthesis
+
+262
+00:19:32,200 --> 00:19:36,590
+and print it out character for character,
+so oftentimes programmers will forget to add
+
+263
+00:19:36,590 --> 00:19:41,049
+a space onto the end of their strings. This
+can result in an small mistake in which the
+
+264
+00:19:41,049 --> 00:19:44,179
+string from the previous example will be printed
+out as if to say
+
+265
+00:19:44,179 --> 00:19:48,690
+“Game over,4was your final score” which
+isn’t that appeasing when displayed on screen
+
+266
+00:19:48,690 --> 00:19:53,999
+to the user, so it's good practice to always
+put a space after and before your strings
+
+267
+00:19:53,999 --> 00:19:58,240
+to make sure this doesn’t happen, and your
+string doesn’t end up like this.
+
+268
+00:19:58,240 --> 00:20:03,650
+Another important thing to note is the difference
+between “4” in quotation marks and 4 without
+
+269
+00:20:03,650 --> 00:20:09,389
+quotation marks. Now “4” in quotation
+marks is treated as a string rather than a
+
+270
+00:20:09,389 --> 00:20:14,530
+4 without quotation marks which is treated
+as a number. This may not seem like a big
+
+271
+00:20:14,530 --> 00:20:19,230
+deal, but again computers are dumb, and if
+you try to do math with a number in quotation
+
+272
+00:20:19,230 --> 00:20:23,149
+marks it will return an error, because the
+computer doesn’t understand that you’re
+
+273
+00:20:23,149 --> 00:20:27,190
+trying to preform the operation on a number,
+and it thinks you’re trying to add an integer
+
+274
+00:20:27,190 --> 00:20:33,350
+to a string, which is a big no-no in programming.
+So when you are programming make sure to make
+
+275
+00:20:33,350 --> 00:20:37,580
+a mental note of whether or not you want to
+make something an integer, or a string, because
+
+276
+00:20:37,580 --> 00:20:42,500
+that type of stuff makes a big difference.
+Alright, that concludes our segment on the
+
+277
+00:20:42,500 --> 00:20:45,090
+base power of computers.
+
+278
+00:20:45,090 --> 00:20:48,190
+Now next up we’re going to be covering one
+of the most important components of computer
+
+279
+00:20:48,190 --> 00:20:52,970
+science, so make SURE you pay attention because
+next up we are going to be covering variables,
+
+280
+00:20:52,970 --> 00:20:55,159
+what they are, and how we use them.
+
+281
+00:20:55,159 --> 00:20:59,789
+First of all, what exactly is a variable?
+A variable is simply something that can store
+
+282
+00:20:59,789 --> 00:21:05,419
+information and can be referenced and manipulated.
+Think of variables like a cardboard box. Cardboard
+
+283
+00:21:05,419 --> 00:21:10,940
+boxes serve as a means to store items in them
+which can be changed out, replaced, and modified.
+
+284
+00:21:10,940 --> 00:21:14,059
+Variables are like cardboard boxes that store
+information for the programmer to reference,
+
+285
+00:21:14,059 --> 00:21:18,659
+manipulate, and refer to. Each variable simply
+has a type, a name, and a piece of information
+
+286
+00:21:18,659 --> 00:21:22,610
+stored inside of it. The type and piece of
+information will be covered next and the name
+
+287
+00:21:22,610 --> 00:21:26,350
+is simply a name for the variable, think of
+it as writing out a label on the cardboard
+
+288
+00:21:26,350 --> 00:21:27,769
+box in sharpie.
+
+289
+00:21:27,769 --> 00:21:32,570
+Now, there are many different types of variables
+that a programmer can use, but right now we
+
+290
+00:21:32,570 --> 00:21:36,640
+will just be covering what are called “primitive
+variables”, which include integers, booleans,
+
+291
+00:21:36,640 --> 00:21:40,090
+floats and doubles, strings, and chars.
+
+292
+00:21:40,090 --> 00:21:46,549
+We’ll start off talking about an Integer.
+An integer, or int for short, is as simple
+
+293
+00:21:46,549 --> 00:21:51,539
+as it sounds: a variable that can store an
+integer value. This includes all whole numbers
+
+294
+00:21:51,539 --> 00:22:04,090
+from -2,147,483,648 to 2,147,483,648. Now
+notice how I said whole numbers, integer variables
+
+295
+00:22:04,090 --> 00:22:09,869
+CAN not and WILL not hold any decimal values,
+so keep that in mind when using variables.
+
+296
+00:22:09,869 --> 00:22:13,549
+Secondly is a boolean. A boolean is a very
+primitive variable which can store a value
+
+297
+00:22:13,549 --> 00:22:19,169
+of either true or false. Boolean variables
+can ONLY hold these two values, and are extremely
+
+298
+00:22:19,169 --> 00:22:22,740
+useful for conditional statements, which we
+will cover soon.
+
+299
+00:22:22,740 --> 00:22:26,740
+The next two types of variables are floats
+and doubles. Both of these variable types
+
+300
+00:22:26,740 --> 00:22:30,679
+are floating point data types, which essentially
+means that these variables can store numbers
+
+301
+00:22:30,679 --> 00:22:36,299
+with decimal places. Whereas integer values
+cannot hold decimal values, floats and doubles
+
+302
+00:22:36,299 --> 00:22:40,760
+can. The main difference between the two is
+that a float variable can store numbers of
+
+303
+00:22:40,760 --> 00:22:45,730
+a precision up to 32 bit, while double can
+store numbers with precision up to 64-bit.
+
+304
+00:22:45,730 --> 00:22:50,299
+Essentially, a double can store more decimal
+places than a float, so it all comes down
+
+305
+00:22:50,299 --> 00:22:52,460
+to how precise you want the variable to be.
+
+306
+00:22:52,460 --> 00:22:55,580
+Up next we have string variables, which are
+like the strings we’ve actually talked about
+
+307
+00:22:55,580 --> 00:23:01,440
+beforehand except stored somewhere in a value.
+String variables can store strings of letters,
+
+308
+00:23:01,440 --> 00:23:05,039
+which are just words and sentences. Strings
+are useful for displaying text and storing
+
+309
+00:23:05,039 --> 00:23:09,929
+input information. Strings can also be concatenated
+together to form combinations of string variables
+
+310
+00:23:09,929 --> 00:23:14,159
+and prewritten strings. This is very useful
+for outputting information in a readable format
+
+311
+00:23:14,159 --> 00:23:18,049
+for the user. For example, imagine that we
+have a string called “name”. The code
+
+312
+00:23:18,049 --> 00:23:22,279
+asks for input, and stores that string of
+text in name. To output this information to
+
+313
+00:23:22,279 --> 00:23:25,809
+the user, rather than simply displaying their
+name, you can add the phrase “Your name
+
+314
+00:23:25,809 --> 00:23:31,389
+is:” and make it into a sentence by concatenating
+“Your name is:” + name + “.” This
+
+315
+00:23:31,389 --> 00:23:36,049
+makes it easier to read your code, while also
+adding variability to your code, which always
+
+316
+00:23:36,049 --> 00:23:38,820
+makes things more interesting for the end
+user.
+
+317
+00:23:38,820 --> 00:23:43,879
+Finally, we have char variables. Char stands
+for character, and just as the name suggests,
+
+318
+00:23:43,879 --> 00:23:47,629
+they can each hold one character. This is
+useful when a programmer wants to read one
+
+319
+00:23:47,629 --> 00:23:51,870
+button press or one character in a string
+without using a string variable. A specific
+
+320
+00:23:51,870 --> 00:23:55,609
+example is making a game that is controlled
+by the keyboard. The program needs to recognize
+
+321
+00:23:55,609 --> 00:24:00,160
+the character that is pressed, and translate
+that into carrying out some function. Now
+
+322
+00:24:00,160 --> 00:24:03,799
+strings can also hold one character, but char’s
+can’t hold more than one character so keep
+
+323
+00:24:03,799 --> 00:24:05,759
+that in mind when defining variables.
+
+324
+00:24:05,759 --> 00:24:10,929
+Now, why are variables so useful? Well, being
+able to store information in a format that
+
+325
+00:24:10,929 --> 00:24:15,510
+can be easily referenced later is essential
+for any good program. Oftentimes in code you’re
+
+326
+00:24:15,510 --> 00:24:19,450
+going to want to keep track of things such
+as a user’s name or score, and so by creating
+
+327
+00:24:19,450 --> 00:24:23,019
+a variable called “name” or “score”
+you can store this information in that variable
+
+328
+00:24:23,019 --> 00:24:27,250
+and then reference it, add to it, or modify
+it. Also, many times, the program will have
+
+329
+00:24:27,250 --> 00:24:31,190
+to take input from the user, which cannot
+be pre programmed into the code, and thus
+
+330
+00:24:31,190 --> 00:24:35,200
+a variable is required to store the information.
+A program may also rely on factors that will
+
+331
+00:24:35,200 --> 00:24:40,190
+change as the program progresses, in which
+case a variable is once again required. Also,
+
+332
+00:24:40,190 --> 00:24:43,400
+taking these variables and manipulating them
+is quite necessary for carrying out many of
+
+333
+00:24:43,400 --> 00:24:47,129
+the tasks you want a program to carry out,
+for instance multiplying int variables or
+
+334
+00:24:47,129 --> 00:24:52,111
+concatenating string variables. Overall variables
+are the backbone of any good program and you’ll
+
+335
+00:24:52,111 --> 00:24:56,279
+find yourself using them often if you want
+clean and efficient code, so it's best that
+
+336
+00:24:56,279 --> 00:24:59,179
+you learn what types of variables you need
+to use and when.
+
+337
+00:24:59,179 --> 00:25:02,330
+So now that we know all about the different
+variable types and we’ve talked about them
+
+338
+00:25:02,330 --> 00:25:06,470
+a little bit, now we’re going to delve further
+into what happens when we actually define,
+
+339
+00:25:06,470 --> 00:25:12,000
+or create, a variable, how we reference them,
+and how we can manipulate them for our programs.
+
+340
+00:25:12,000 --> 00:25:16,559
+To start, let's go over what happens when
+we define a variable. Now when we write a
+
+341
+00:25:16,559 --> 00:25:21,929
+line of code which initializes a variable,
+and that code is executed, the computer essentially
+
+342
+00:25:21,929 --> 00:25:26,489
+creates a little space in memory that stores
+your variable name and its contents so that
+
+343
+00:25:26,489 --> 00:25:32,350
+it can be referenced later. Going back to
+our cardboard box example. Think of this as
+
+344
+00:25:32,350 --> 00:25:37,749
+if you have a storage facility, and you make
+a new cardboard box, labeled “Name” and
+
+345
+00:25:37,749 --> 00:25:42,230
+inside of it you put a piece of paper with
+the word “NullPointerException” on it.
+
+346
+00:25:42,230 --> 00:25:46,960
+Now, anytime you want to know the contents
+of your name box, you could simply look inside
+
+347
+00:25:46,960 --> 00:25:52,789
+and see that it has the contents “NullPointerException”.
+This is what the computer does, except the
+
+348
+00:25:52,789 --> 00:25:59,119
+storage facility is memory, the box is a variable,
+and the contents of the box are whatever the
+
+349
+00:25:59,119 --> 00:26:04,730
+variable is set to be equal to. Any time you
+want to know the contents of the name variable,
+
+350
+00:26:04,730 --> 00:26:09,169
+you can simply call it and the computer will
+pull the information that is stored in that
+
+351
+00:26:09,169 --> 00:26:13,630
+variable out and use it how the user sees
+fit.
+
+352
+00:26:13,630 --> 00:26:17,429
+Another thing to note really quickly is that
+you can actually make a variable without putting
+
+353
+00:26:17,429 --> 00:26:22,999
+information inside of it. This would be like
+if you built up a new cardboard box, gave
+
+354
+00:26:22,999 --> 00:26:27,629
+it a label with a sharpie, but just didn’t
+put information inside of it. You’re simply
+
+355
+00:26:27,629 --> 00:26:33,759
+saving that space in your warehouse for later.
+This can be because you want to store information
+
+356
+00:26:33,759 --> 00:26:37,509
+in it later down the road, or if you’re
+going to use it to store information given
+
+357
+00:26:37,509 --> 00:26:41,610
+to you by the user, in which case you CAN’T
+give it information since you don’t know
+
+358
+00:26:41,610 --> 00:26:47,570
+what the user will input. Just note that if
+you try to reference, or point, to a variable
+
+359
+00:26:47,570 --> 00:26:52,280
+which does not have any information in it,
+you’ll get what’s known as a NullPointerException,
+
+360
+00:26:52,280 --> 00:26:55,640
+which despite being an awesome name for a
+YouTube channel, is something you generally
+
+361
+00:26:55,640 --> 00:26:57,760
+want to avoid when programming.
+
+362
+00:26:57,760 --> 00:27:01,789
+Now, programming languages allow us to do
+some pretty cool things with these “boxes”
+
+363
+00:27:01,789 --> 00:27:07,820
+that we’ve created. For example, let’s
+say we created a second variable “channelName”
+
+364
+00:27:07,820 --> 00:27:12,950
+and instead of setting it equal to “NullPointerException”,
+we instead set it equal to our already created
+
+365
+00:27:12,950 --> 00:27:18,230
+“Name” variable. This doesn’t create
+a space in memory for this new variable; however,
+
+366
+00:27:18,230 --> 00:27:23,320
+it simply points to the same location of memory
+we have already created for the “Name”
+
+367
+00:27:23,320 --> 00:27:27,929
+variable. Going back to our storage facility
+example, this would like if instead of creating
+
+368
+00:27:27,929 --> 00:27:31,799
+a whole new box labeled “channelName”
+and storing a sheet of paper with the word
+
+369
+00:27:31,799 --> 00:27:37,759
+“NullPointerException” on it, we instead
+simply added another label below the “Name”
+
+370
+00:27:37,759 --> 00:27:43,109
+box, entitled “channelName”. Now, we have
+two variables but both point towards the same
+
+371
+00:27:43,109 --> 00:27:48,729
+contents, that being the string “NullPointerException”.
+We usually do this to save space in our code
+
+372
+00:27:48,729 --> 00:27:52,110
+for things that we know are going to have
+the same value.
+
+373
+00:27:52,110 --> 00:27:56,690
+Variables can also be updated throughout your
+code. For example, let's say you had an “Age”
+
+374
+00:27:56,690 --> 00:28:02,009
+variable, and inside it was the integer 17.
+Then you celebrated a birthday and wanted
+
+375
+00:28:02,009 --> 00:28:06,700
+to update your age. All you have to do is
+reference the variable, and set it equal to
+
+376
+00:28:06,700 --> 00:28:12,049
+whatever new integer you want the variable
+to hold, in this case 18. This would be the
+
+377
+00:28:12,049 --> 00:28:16,320
+same as having a box labeled age, with a sheet
+of paper reading 17 inside of it, and then
+
+378
+00:28:16,320 --> 00:28:22,139
+taking that piece of paper out, erasing 17,
+replacing it with 18, and then placing it
+
+379
+00:28:22,139 --> 00:28:27,129
+back into the box. Doing this, we are able
+to easily update the contents of our variables
+
+380
+00:28:27,129 --> 00:28:31,850
+throughout the code as things dynamically
+shift. As another example, if you were making
+
+381
+00:28:31,850 --> 00:28:38,640
+an RPG, your character will likely have stats
+such as attack, defense, mana, etc. As the
+
+382
+00:28:38,640 --> 00:28:42,590
+game progressed you could continuously update
+the variables so that the player could get
+
+383
+00:28:42,590 --> 00:28:46,350
+more powerful the further along that they
+went through the game, and you wouldn’t
+
+384
+00:28:46,350 --> 00:28:50,590
+have to create new variables. You would just
+simply need to keep grabbing that box from
+
+385
+00:28:50,590 --> 00:28:55,080
+your storage facility, erasing and replacing
+the numbers on the piece of paper, and then
+
+386
+00:28:55,080 --> 00:28:59,359
+continue along with your code. Just keep in
+mind that these variables are nothing more
+
+387
+00:28:59,359 --> 00:29:04,210
+than places in memory in which a certain value
+is stored, so we can easily update the numbers,
+
+388
+00:29:04,210 --> 00:29:09,369
+and their place will remain constant. After
+a code has run its course, the place in memory
+
+389
+00:29:09,369 --> 00:29:13,509
+is deleted until you run the code again and
+the program dedicates space for the variable
+
+390
+00:29:13,509 --> 00:29:18,729
+again. Each time you run the code, you're
+making new boxes in your storage facility,
+
+391
+00:29:18,729 --> 00:29:23,840
+and at the end of your code, you destroy them
+all to make room for new boxes next time.
+
+392
+00:29:23,840 --> 00:29:29,269
+Another cool thing you can do with variables
+is add them, subtract them, multiply them,
+
+393
+00:29:29,269 --> 00:29:32,880
+divide them, and even modulus them. Now this
+mostly only works for integer variables as
+
+394
+00:29:32,880 --> 00:29:33,929
+multiplying and dividing strings doesn’t
+make too much sense. But if you were making
+
+395
+00:29:33,929 --> 00:29:39,102
+a calculator app and you stored the first
+number the user entered as num1, and the second
+
+396
+00:29:39,102 --> 00:29:45,140
+as num2. You could then multiply num1 and
+num2 together, and either print them, or store
+
+397
+00:29:45,140 --> 00:29:50,759
+them in a new variable entitled result. Then,
+each time you run the program, the user could
+
+398
+00:29:50,759 --> 00:29:55,990
+input new numbers into the num1 and num2 variables,
+and they would simply be set to those new
+
+399
+00:29:55,990 --> 00:30:02,860
+integers and return the result that corresponds
+to those specific numbers. This allows for
+
+400
+00:30:02,860 --> 00:30:07,029
+you to keep easy track of which numbers are
+which and what’s going on in your program
+
+401
+00:30:07,029 --> 00:30:12,509
+which is extremely useful. Also, while you
+cannot subtract, multiply, divide, or take
+
+402
+00:30:12,509 --> 00:30:19,590
+the modulus of strings, you are able to add
+them. Let’s say you had a string Str1 with
+
+403
+00:30:19,590 --> 00:30:26,029
+the contents “Hello “ and a Str2 with
+the contents “there”. You could add Str1
+
+404
+00:30:26,029 --> 00:30:31,269
+and Str2 to create a string that had the contents
+“Hello there”, either storing it in a
+
+405
+00:30:31,269 --> 00:30:34,500
+third variable or printing it out to the console.
+
+406
+00:30:34,500 --> 00:30:38,259
+The last topic we’ll be covering on the
+topic of variables is the naming conventions
+
+407
+00:30:38,259 --> 00:30:43,179
+of a variable, which albeit may seem odd,
+but it's extremely important when trying to
+
+408
+00:30:43,179 --> 00:30:49,249
+read your code so we will be covering it now.
+Now, variables have to be one continuous string,
+
+409
+00:30:49,249 --> 00:30:53,120
+and so if you wanted to make a variable that
+stored the player score, you’d have to find
+
+410
+00:30:53,120 --> 00:30:58,000
+some way to combine the words player and score,
+since you can’t have the phrase “player
+
+411
+00:30:58,000 --> 00:31:02,549
+score” be the name of a variable. All programmers
+have their own personal preference when it
+
+412
+00:31:02,549 --> 00:31:07,570
+comes to naming variables, but the one we
+will be using on this lecture is called CamelCase,
+
+413
+00:31:07,570 --> 00:31:11,960
+which is the process of not capitalizing the
+first word, but capitalizing every word that
+
+414
+00:31:11,960 --> 00:31:17,919
+follows it. Going back to the player score
+example, using the camelCase method, the variable
+
+415
+00:31:17,919 --> 00:31:23,760
+would be called playerScore. This allows us
+to easily identify each word and becomes really
+
+416
+00:31:23,760 --> 00:31:31,259
+useful for long variable names like thePlayersScoreBeforeFinalBoss”,
+whereas if we just type it out without capitalization,
+
+417
+00:31:31,259 --> 00:31:38,380
+it would be really confusing. This will help
+a ton when you start to find bugs in your
+
+418
+00:31:38,380 --> 00:31:42,789
+code and need to quickly scan your program
+to figure out whats wrong, and adds to the
+
+419
+00:31:42,789 --> 00:31:48,239
+overall readability of the program. Other
+programmers might use different naming conventions
+
+420
+00:31:48,239 --> 00:31:53,559
+like using underscores to separate the words
+in a phrase, but for now we’ll be sticking
+
+421
+00:31:53,559 --> 00:31:54,789
+with camelCase.
+
+422
+00:31:54,789 --> 00:32:00,190
+Next, we’ll be moving on to conditional
+statements, which at their core, are statements
+
+423
+00:32:00,190 --> 00:32:04,049
+that change the path of our code depending
+on certain conditions. For the sake of keeping
+
+424
+00:32:04,049 --> 00:32:07,659
+things simple, for this section, red lines
+will connote that our code will NOT be following
+
+425
+00:32:07,659 --> 00:32:12,860
+that specific path, and green lines will mean
+that our code IS following that path.
+
+426
+00:32:12,860 --> 00:32:17,460
+The main type of conditional statement that
+programmers use is the if statement, and this
+
+427
+00:32:17,460 --> 00:32:21,749
+will show up countless amounts of times in
+any program you write. It is as simple as
+
+428
+00:32:21,749 --> 00:32:27,380
+it sounds: if some condition is true, and
+usually the condition will be enclosed by
+
+429
+00:32:27,380 --> 00:32:33,090
+braces, then carry out the instructions located
+within the if statement’s brackets. Else,
+
+430
+00:32:33,090 --> 00:32:36,919
+do another thing.
+Now, brackets are used in most programming
+
+431
+00:32:36,919 --> 00:32:42,649
+languages to indicate a segment of code which
+will run. It works like this, if the condition
+
+432
+00:32:42,649 --> 00:32:47,169
+in parentheses is true, then all of the code
+contained within the brackets will run, and
+
+433
+00:32:47,169 --> 00:32:51,809
+if the condition in the parenthesis is NOT
+true, then it will skip over all of the statements
+
+434
+00:32:51,809 --> 00:32:56,619
+within the brackets. A quick note is that
+while this is the case with most programming
+
+435
+00:32:56,619 --> 00:33:01,769
+languages, some; like Python, use colons and
+white space to determine where a piece of
+
+436
+00:33:01,769 --> 00:33:07,249
+code starts and ends, but for the sake of
+this series, we’ll be using curly braces.
+
+437
+00:33:07,249 --> 00:33:12,179
+Now, the condition within the parenthesis
+can take on thousands of different forms such
+
+438
+00:33:12,179 --> 00:33:17,840
+as if the value the string variable Name is
+equal to “Steven” or if the player's score,
+
+439
+00:33:17,840 --> 00:33:22,460
+stored in an int variable, is greater than
+5, the list goes on and on. Each of these
+
+440
+00:33:22,460 --> 00:33:26,779
+statements is evaluated as a boolean, which
+you will remember from when we talked about
+
+441
+00:33:26,779 --> 00:33:32,610
+variables is either true or false. If the
+boolean is true, we run the code inside the
+
+442
+00:33:32,610 --> 00:33:38,279
+curly braces, if it’s not, we pretend everything
+inside the curly braces never existed and
+
+443
+00:33:38,279 --> 00:33:40,970
+move on with our code.
+
+444
+00:33:40,970 --> 00:33:45,359
+The if statement comes with two more additional
+statements that can go with it: else if and
+
+445
+00:33:45,359 --> 00:33:50,549
+else. Else if is a conditional statement used
+directly after an if statement, and carries
+
+446
+00:33:50,549 --> 00:33:55,620
+out mainly the same function as an if statement.
+However, the else if statement will only be
+
+447
+00:33:55,620 --> 00:34:01,789
+evaluated if the preceding if (or else if)
+statement is bypassed due to its condition
+
+448
+00:34:01,789 --> 00:34:07,500
+being false. So we would run through it like
+so, if something is true, we would run the
+
+449
+00:34:07,500 --> 00:34:12,810
+code inside of that statement’s curly braces.
+Else, if that something is not true, BUT another
+
+450
+00:34:12,810 --> 00:34:18,280
+statement inside of parentheses is true, we
+would then run THAT code segment. And if neither
+
+451
+00:34:18,280 --> 00:34:22,940
+of them are true, we would skip both segments
+of code and move on in our program.
+
+452
+00:34:22,940 --> 00:34:27,330
+This is a hard concept to wrap heads around
+so let’s do an example. If we had a program
+
+453
+00:34:27,330 --> 00:34:32,169
+that evaluated the if statement if (age = 10),
+we could then have a statement under that
+
+454
+00:34:32,169 --> 00:34:38,120
+which stated else if (age = 12). Now, if the
+age variable was 10, which we can see from
+
+455
+00:34:38,120 --> 00:34:42,120
+the example it is, then the code immediately
+following that conditional statement in the
+
+456
+00:34:42,120 --> 00:34:46,040
+brackets would run. The else if statement
+we made would not even be tested since we
+
+457
+00:34:46,040 --> 00:34:49,970
+know it is going to be false, and thus the
+print statement inside of THAT conditional
+
+458
+00:34:49,970 --> 00:34:54,230
+statement’s brackets will be ignored, and
+the code will move on to the rest of the program.
+
+459
+00:34:54,230 --> 00:34:59,640
+Now, for example, let’s say we changed the
+age variable to be 12 instead of 10. Now,
+
+460
+00:34:59,640 --> 00:35:02,710
+instead of the first conditional statement
+being, true, it actually evaluates as false,
+
+461
+00:35:02,710 --> 00:35:07,400
+since age no longer equals 10. So what we
+do now, is first skip over the print statement
+
+462
+00:35:07,400 --> 00:35:11,690
+which prints out that the age is 10, since
+it’s not. And now we evaluate the else if
+
+463
+00:35:11,690 --> 00:35:15,740
+statement. We check if age is equal to 12,
+which again it does, and so now we run all
+
+464
+00:35:15,740 --> 00:35:19,750
+the code inside of that conditional statement
+before finally moving on to the rest of the
+
+465
+00:35:19,750 --> 00:35:20,850
+program.
+
+466
+00:35:20,850 --> 00:35:25,380
+So as a review, we check the initial if statement,
+if it’s good we run all code within that
+
+467
+00:35:25,380 --> 00:35:29,380
+if statement’s curly brackets and move on
+with our program, if the initial if statement
+
+468
+00:35:29,380 --> 00:35:33,740
+is NOT true, we then move on to any else if
+statement’s and evaluate if THOSE conditional
+
+469
+00:35:33,740 --> 00:35:37,640
+statements are true. We can have as many else
+if statements as we want, although this could
+
+470
+00:35:37,640 --> 00:35:40,970
+lead to clutter amongst your code so we’ll
+talk about some alternatives later on to help
+
+471
+00:35:40,970 --> 00:35:44,840
+this out. Now that takes care of the if-else
+statement, so now we’ll move on to the else
+
+472
+00:35:44,840 --> 00:35:46,500
+statement.
+
+473
+00:35:46,500 --> 00:35:50,320
+The else statement once again comes after
+an if or an else if statement, and will carry
+
+474
+00:35:50,320 --> 00:35:54,790
+out its instructions no matter what, as long
+as the preceding statement/statements are
+
+475
+00:35:54,790 --> 00:35:59,660
+evaluated as false. If we went back to our
+previous program, we could add an else statement
+
+476
+00:35:59,660 --> 00:36:03,080
+which would only have the code in its brackets
+run if the age variable wasn’t “10”
+
+477
+00:36:03,080 --> 00:36:07,180
+or “12”. This would catch all cases of
+the program that didn’t fit our parameters.
+
+478
+00:36:07,180 --> 00:36:10,440
+It’s good practice to ALWAYS have an else
+statement at the end of your conditional statements
+
+479
+00:36:10,440 --> 00:36:13,920
+to catch any weird cases that may come up
+in your program.
+
+480
+00:36:13,920 --> 00:36:17,531
+Now remember back to the fact that we can
+have thousands of else if statements, after
+
+481
+00:36:17,531 --> 00:36:21,170
+a while that can get pretty cluttered, and
+so another very useful conditional statement
+
+482
+00:36:21,170 --> 00:36:24,700
+which helps circumnavigate this problem is
+the switch statement. A switch statement is
+
+483
+00:36:24,700 --> 00:36:28,730
+functionally similar to many if and else if
+statements together. You write a switch statement
+
+484
+00:36:28,730 --> 00:36:32,250
+in the form of switch (variable), and then
+below that you write how many cases that the
+
+485
+00:36:32,250 --> 00:36:36,080
+variable could be. For instance, if we wrote
+switch(var), then under it we could write
+
+486
+00:36:36,080 --> 00:36:39,890
+out 5 cases that the variable var could be,
+and then the instructions listed under that
+
+487
+00:36:39,890 --> 00:36:43,990
+case to be carried out if the var variable
+is equal to that case.
+
+488
+00:36:43,990 --> 00:36:47,280
+Now switch statements are different since
+instead of using brackets, they use a colon
+
+489
+00:36:47,280 --> 00:36:51,740
+to signify the start of a set of instructions,
+and a break statement to end it. This is very
+
+490
+00:36:51,740 --> 00:36:55,460
+useful because you are able to essentially
+use many if and else if statements without
+
+491
+00:36:55,460 --> 00:36:59,280
+having to write nearly as much. In switch
+statements, you just always have to remember
+
+492
+00:36:59,280 --> 00:37:03,340
+to include a default case at the bottom of
+the expression to denote any and all cases
+
+493
+00:37:03,340 --> 00:37:06,990
+that don’t meet the above requirements.
+This simply catches all of the inputs that
+
+494
+00:37:06,990 --> 00:37:10,570
+don’t fit within the programs main cases.
+It’s very similar to an else case at the
+
+495
+00:37:10,570 --> 00:37:11,820
+end of an if-else chain.
+
+496
+00:37:11,820 --> 00:37:16,580
+Now, why are these statements so useful? Well,
+many times, programmers want their programs
+
+497
+00:37:16,580 --> 00:37:20,210
+to function differently depending on different
+conditions. For instance, a program could
+
+498
+00:37:20,210 --> 00:37:24,130
+function differently depending on the information
+that the user inputs, such as allowing a user
+
+499
+00:37:24,130 --> 00:37:29,220
+to use a program or not use a program if they
+are above or below 18 years old respectively.
+
+500
+00:37:29,220 --> 00:37:32,920
+Or in say a video game, if a user’s experience
+level is above a certain threshold we might
+
+501
+00:37:32,920 --> 00:37:36,760
+want to give them harder opponents to battle.
+Another example could be a program which changes
+
+502
+00:37:36,760 --> 00:37:40,520
+the color scheme depending on the time of
+day. Or even more simply, if a user presses
+
+503
+00:37:40,520 --> 00:37:44,130
+a button that is meant to move on to another
+screen in an app, the programmer would only
+
+504
+00:37:44,130 --> 00:37:48,450
+want the app to change screens if the user
+clicks that button. A program without conditional
+
+505
+00:37:48,450 --> 00:37:51,870
+statements would do the same thing every time,
+and would be very primitive compared to one
+
+506
+00:37:51,870 --> 00:37:54,770
+that can change depending on its conditions.
+
+507
+00:37:54,770 --> 00:37:59,220
+So now that we know how to make and use variables,
+how to compare them, and what we can do with
+
+508
+00:37:59,220 --> 00:38:04,670
+those comparisons, let’s move on to another
+foundational concept of computer science:
+
+509
+00:38:04,670 --> 00:38:06,390
+arrays.
+
+510
+00:38:06,390 --> 00:38:09,830
+Now we’ve already talked about variables,
+and how great they are for storing singular
+
+511
+00:38:09,830 --> 00:38:14,210
+bits information for making our code more
+simplistic, but one of the biggest drawbacks
+
+512
+00:38:14,210 --> 00:38:19,490
+that come with variables is their inability
+to hold more than one piece of differing information.
+
+513
+00:38:19,490 --> 00:38:22,950
+For example, let’s say you’re making an
+app which allows users to create a grocery
+
+514
+00:38:22,950 --> 00:38:28,510
+list. Well there’s no real easy way to create
+lists using variables, because it's not like
+
+515
+00:38:28,510 --> 00:38:34,050
+you can have one variable store the names
+of 7 or 8 different food items. Remember,
+
+516
+00:38:34,050 --> 00:38:39,100
+we can only put one piece of paper in our
+cardboard box; no more. And besides, even
+
+517
+00:38:39,100 --> 00:38:43,740
+if you were to add multiple items to one string
+variable, you still would have a lot of trouble
+
+518
+00:38:43,740 --> 00:38:48,540
+doing simple tasks you might want from a list
+like searching through it or splitting it
+
+519
+00:38:48,540 --> 00:38:52,360
+or even deleting items from the list when
+you’re done with them. This is the problem
+
+520
+00:38:52,360 --> 00:38:55,680
+that using arrays solves for us.
+
+521
+00:38:55,680 --> 00:39:00,640
+An array is, as you may have guessed by now,
+a list. You can have an array of integers,
+
+522
+00:39:00,640 --> 00:39:04,630
+an array of strings, and even an array of
+other arrays which is something we’ll cover
+
+523
+00:39:04,630 --> 00:39:08,980
+in a minute. Programmers use arrays when they
+want to store a lot of variables containing
+
+524
+00:39:08,980 --> 00:39:13,700
+information that is all related to each other,
+such as a grocery list or a high score list
+
+525
+00:39:13,700 --> 00:39:18,880
+in a game. Think of arrays as a column in
+excel or google sheets. You have the title
+
+526
+00:39:18,880 --> 00:39:22,950
+at the top and then below it are a bunch of
+bits of information which all relate to the
+
+527
+00:39:22,950 --> 00:39:27,510
+title. Arrays are super useful when programmers
+want to store a lot of information that can
+
+528
+00:39:27,510 --> 00:39:31,410
+be easily searched through because programmers
+have developed methods of breaking down and
+
+529
+00:39:31,410 --> 00:39:36,600
+using arrays to find specific information
+in arrays full of thousands of different variables.
+
+530
+00:39:36,600 --> 00:39:40,620
+As an example to show just how useful arrays
+are, let's say you’re a startup company
+
+531
+00:39:40,620 --> 00:39:45,660
+that owns an app that has 100,000 users. Every
+time a user wants to create a new account,
+
+532
+00:39:45,660 --> 00:39:48,920
+they input the username they want and then
+your program will have to check to make sure
+
+533
+00:39:48,920 --> 00:39:53,060
+the account name hasn’t already been taken.
+Doing this requires you to search through
+
+534
+00:39:53,060 --> 00:39:57,650
+the information of all 100,000 of your users
+to see if that username has an account with
+
+535
+00:39:57,650 --> 00:40:02,320
+your service. An array would be able to contain
+all of this information and make it easy to
+
+536
+00:40:02,320 --> 00:40:08,280
+search through and find out if the account
+name has been taken with little to no delay.
+
+537
+00:40:08,280 --> 00:40:12,280
+Now the single most important thing to note
+about arrays is how you reference each element
+
+538
+00:40:12,280 --> 00:40:16,470
+of the array within them. Let’s create a
+basic array called numbers, and inside of
+
+539
+00:40:16,470 --> 00:40:22,420
+it put the digits 1-10. Now when we want to
+refer to each cell in this array, we call
+
+540
+00:40:22,420 --> 00:40:27,140
+upon its “index”. An index is just a fancy
+way of saying that numbers are placed within
+
+541
+00:40:27,140 --> 00:40:32,730
+the array. Now you would think that the first
+integer in this array would be the first index,
+
+542
+00:40:32,730 --> 00:40:37,920
+the second would be the second index and so
+on, but that’s not the case. In computer
+
+543
+00:40:37,920 --> 00:40:43,450
+science, programming languages refer to the
+first cell as the 0th element in the array.
+
+544
+00:40:43,450 --> 00:40:47,570
+This means that if we were talking about our
+array of numbers we just made, the number
+
+545
+00:40:47,570 --> 00:40:52,560
+4 would actually be in the 3rd index, 5 would
+be in the 4th and so on, so instead of starting
+
+546
+00:40:52,560 --> 00:40:57,420
+our count from 1, we start from 0. It’s
+extremely weird and confusing but it's one
+
+547
+00:40:57,420 --> 00:41:01,080
+of those programming quirks you are going
+to have to memorize and commit to memory.
+
+548
+00:41:01,080 --> 00:41:04,470
+If you were to not follow this nomenclature
+and you refer to the last element in this
+
+549
+00:41:04,470 --> 00:41:09,711
+array as the 10th, you get what is referred
+to as an “out of bounds” error, since
+
+550
+00:41:09,711 --> 00:41:13,790
+you are trying to reference the 10th element,
+but there is no 10th element. What you’re
+
+551
+00:41:13,790 --> 00:41:16,850
+actually trying to do is reference the 9th.
+
+552
+00:41:16,850 --> 00:41:20,891
+Another extremely important thing to note
+about arrays has to do with their size. When
+
+553
+00:41:20,891 --> 00:41:25,370
+you initialize an array, you can do it either
+one of two ways. You can either populate it
+
+554
+00:41:25,370 --> 00:41:29,610
+with the elements that you want contained
+in the array right then and there, creating
+
+555
+00:41:29,610 --> 00:41:34,110
+and filling the array at the same time, or
+you can define how many elements you want
+
+556
+00:41:34,110 --> 00:41:40,140
+in the array-essentially the arrays size-
+and then populate it with elements later.
+
+557
+00:41:40,140 --> 00:41:44,760
+This is because when we initialize an array,
+it creates a space in memory that has a size
+
+558
+00:41:44,760 --> 00:41:50,850
+of exactly what you give it, no more no less.
+This is great for when we want to access elements
+
+559
+00:41:50,850 --> 00:42:00,081
+in the array because we can do so instantaneously,
+but the one downside is that we can’t increase
+
+560
+00:42:00,081 --> 00:42:05,950
+the size of the array later on, all array
+sizes are final. Think of it like setting
+
+561
+00:42:05,950 --> 00:42:11,560
+up a bookshelf with books. By populating a
+bookshelf with a certain number of books and
+
+562
+00:42:11,560 --> 00:42:15,780
+then moving on and filling the next shelf
+with different books. We have no way to go
+
+563
+00:42:15,780 --> 00:42:20,690
+BACK and add books to that first shelf without
+shifting everything. Once we decide how much
+
+564
+00:42:20,690 --> 00:42:25,540
+space to dedicate space for an array in this
+case, there’s no way to ADD more space.
+
+565
+00:42:25,540 --> 00:42:29,681
+Once again because this is extremely important
+to remember, this means that once an array
+
+566
+00:42:29,681 --> 00:42:34,540
+has been defined, there is NO WAY to change
+the size of it. If you have an array titled
+
+567
+00:42:34,540 --> 00:42:39,010
+“Names” with a size of 8, and you try
+to add another name to the array you will
+
+568
+00:42:39,010 --> 00:42:43,810
+receive an error, so be careful when messing
+around with array sizes. Of course, you can
+
+569
+00:42:43,810 --> 00:42:48,110
+always go back at the start of the code when
+you initially MAKE the array and allocate
+
+570
+00:42:48,110 --> 00:42:54,340
+more space to it if you find out you need
+more space to hold items, but once it’s
+
+571
+00:42:54,340 --> 00:42:59,070
+defined, you CANNOT change its size.
+
+572
+00:42:59,070 --> 00:43:03,120
+Another small thing I want to touch upon really
+quickly is that when you initialize an array,
+
+573
+00:43:03,120 --> 00:43:07,550
+you must determine which type of array it
+is right then and there. For example you have
+
+574
+00:43:07,550 --> 00:43:12,310
+to specifically say it will be an array of
+strings or integers when defining it, and
+
+575
+00:43:12,310 --> 00:43:16,060
+also you’re not allowed to mix and match,
+meaning you can’t have an array full of
+
+576
+00:43:16,060 --> 00:43:20,430
+integers with a few strings and some doubles
+thrown into the mix. They have to be all the
+
+577
+00:43:20,430 --> 00:43:21,430
+same type.
+
+578
+00:43:21,430 --> 00:43:25,250
+Now the last thing we’re going to cover
+on arrays is a little funky, and that is the
+
+579
+00:43:25,250 --> 00:43:29,990
+practice of putting arrays inside of arrays.
+If you make an array of arrays it's referred
+
+580
+00:43:29,990 --> 00:43:35,290
+to as a 2D, or 2 dimensional array. Think
+of these as matrices if any of you have taken
+
+581
+00:43:35,290 --> 00:43:40,200
+algebra classes. Now If you haven’t, think
+back to our google sheets example but instead
+
+582
+00:43:40,200 --> 00:43:45,830
+of just columns, we would add rows as well.
+So now, each element in our array wouldn’t
+
+583
+00:43:45,830 --> 00:43:50,940
+simply be just a String variable or an Integer
+variable, but an entirely new array with its
+
+584
+00:43:50,940 --> 00:43:53,590
+own set of values and elements.
+
+585
+00:43:53,590 --> 00:43:57,930
+The way we index these is mostly the same,
+except we would have 2 numbers to index instead
+
+586
+00:43:57,930 --> 00:44:04,250
+of 1. We start with the row and then the column.
+So a number in the position (0,2) would be
+
+587
+00:44:04,250 --> 00:44:10,690
+in the first row three columns down, in this
+case the name Clint. A number in the position
+
+588
+00:44:10,690 --> 00:44:16,950
+(1,1) would be two rows down and 2 columns
+across, in this case the name Chris. You get
+
+589
+00:44:16,950 --> 00:44:22,000
+the idea. Now you can also make 3-dimensional
+arrays by putting an array inside an array
+
+590
+00:44:22,000 --> 00:44:25,190
+inside an array, but that's a little above
+what we’re going to be covering so I’m
+
+591
+00:44:25,190 --> 00:44:26,690
+gonna cut it off there.
+
+592
+00:44:26,690 --> 00:44:30,220
+Next up we’re going to be talking about
+loops, so what exactly are loops?
+
+593
+00:44:30,220 --> 00:44:33,980
+Next up we’re going to be talking about
+loops, so what exactly are loops?
+
+594
+00:44:33,980 --> 00:44:37,750
+Next up we’re going to be talking about
+loops, so what exactly are loops?
+
+595
+00:44:37,750 --> 00:44:41,520
+Next up we’re going to be talking about
+loops, so what exactly are loops?
+
+596
+00:44:41,520 --> 00:44:46,000
+Next up we’re going to be talking about
+loops, so what exactly are loops?
+
+597
+00:44:46,000 --> 00:44:49,880
+Well as you could probably tell by that statement
+right there, a programming loop is a statement
+
+598
+00:44:49,880 --> 00:44:53,540
+that is used to run certain instructions repeatedly,
+just like how the opening statement of this
+
+599
+00:44:53,540 --> 00:44:58,880
+topic was repeated 5 times. Loops are very
+useful for a variety of reasons. For instance,
+
+600
+00:44:58,880 --> 00:45:02,670
+imagine you want to print something 15 times.
+Sure, you could just copy and paste the print
+
+601
+00:45:02,670 --> 00:45:06,640
+statement 15 times. But this is really annoying
+to have to do, and becomes even more unrealistic
+
+602
+00:45:06,640 --> 00:45:10,860
+when that number goes up to, say, 100 or so.
+Now what if instead of rewriting the same
+
+603
+00:45:10,860 --> 00:45:14,280
+instructions over and over again, you could
+simply place the print statement inside of
+
+604
+00:45:14,280 --> 00:45:18,010
+a loop, and it will occur as many times as
+you would like, that’s the power of loops
+
+605
+00:45:18,010 --> 00:45:22,490
+baby. With loops we’re able to repeat parts
+of code multiple times. Now there are three
+
+606
+00:45:22,490 --> 00:45:27,510
+different types of loops that we will be discussing
+today. And up first is the for loop.
+
+607
+00:45:27,510 --> 00:45:31,910
+A for loop is very useful for situations described
+above, where you would like to carry out a
+
+608
+00:45:31,910 --> 00:45:36,160
+certain set of instructions numerous times.
+The syntax for a for loop varies depending
+
+609
+00:45:36,160 --> 00:45:40,780
+on the language, however it usually consists
+of three parts. An integer value, a condition
+
+610
+00:45:40,780 --> 00:45:44,460
+which the integer value must meet in order
+to exit the loop, and an operation to modify
+
+611
+00:45:44,460 --> 00:45:48,570
+the integer value after the instructions inside
+of the loop are completed. Each time the for
+
+612
+00:45:48,570 --> 00:45:52,890
+loop runs, the operation you set will be performed
+on the integer, and as long as that integer
+
+613
+00:45:52,890 --> 00:45:56,710
+still meets the condition you set, usually
+being greater than or less than a constant
+
+614
+00:45:56,710 --> 00:45:59,450
+value, the for loop will continue to run.
+
+615
+00:45:59,450 --> 00:46:03,440
+Eventually, when the integer has been modified
+by either increasing or decreasing it to the
+
+616
+00:46:03,440 --> 00:46:06,860
+point where it no longer meets the condition,
+the for loop will terminate and the code will
+
+617
+00:46:06,860 --> 00:46:10,760
+continue to run. For example, let’s say
+our integer value was i and we set it equal
+
+618
+00:46:10,760 --> 00:46:15,330
+to 0, then we set the conditional statement
+as i being less than 3, so basically we’re
+
+619
+00:46:15,330 --> 00:46:19,670
+saying that as long as i - the variable we
+just created - is less than 3, continue running
+
+620
+00:46:19,670 --> 00:46:24,390
+the instructions contained within the loop.
+Finally, we make the operation i + +, meaning
+
+621
+00:46:24,390 --> 00:46:27,780
+each time the loop runs we will increase it
+by one, and inside the loop let’s just put
+
+622
+00:46:27,780 --> 00:46:29,890
+a simple print statement.
+
+623
+00:46:29,890 --> 00:46:35,330
+Now let’s run through the loop. We start
+with i = 0, 0 is less then 3 so we enter the
+
+624
+00:46:35,330 --> 00:46:39,610
+loop and print out Hello World. Now that the
+instructions are done we add 1 to i making
+
+625
+00:46:39,610 --> 00:46:45,030
+it 1. Moving on, 1 in less than 3 again, so
+we once again enter the loop and print out
+
+626
+00:46:45,030 --> 00:46:50,870
+Hello World. Again, we add 1 to i, making
+it 2 now. 2 is still less than 3 so we enter
+
+627
+00:46:50,870 --> 00:46:55,380
+the loop again and print out hello world.
+Finally, we add 1 to i once again and it becomes
+
+628
+00:46:55,380 --> 00:46:59,900
+three. 3 is not less than 3 though, it is
+equal to 3, and so we don’t enter the loop
+
+629
+00:46:59,900 --> 00:47:03,990
+and it terminates, moving on to the next segment
+of code. This is a simple example, but you
+
+630
+00:47:03,990 --> 00:47:06,830
+can extrapolate it across programming to fit
+your needs.
+
+631
+00:47:06,830 --> 00:47:10,280
+Now when using a for loop you have to make
+sure to set up a condition that, given the
+
+632
+00:47:10,280 --> 00:47:14,630
+initial integer value and the operation, will
+at some point not be met, to avoid creating
+
+633
+00:47:14,630 --> 00:47:18,250
+an infinite loop and crashing your program.
+An infinite loop occurs when you give a for
+
+634
+00:47:18,250 --> 00:47:21,710
+loop a condition which will always be met
+given the parameters of the program, and so
+
+635
+00:47:21,710 --> 00:47:26,360
+the software crashes. For example, a for loop
+beginning at 10 and checking if i is ever
+
+636
+00:47:26,360 --> 00:47:29,971
+less than 0, and then adding 1 to i at the
+end of the loop will never terminate, since
+
+637
+00:47:29,971 --> 00:47:32,900
+i will just increase infinitely.
+
+638
+00:47:32,900 --> 00:47:38,110
+After the for loop is the very similar for
+each loop. A for each loop (or a for-in-list
+
+639
+00:47:38,110 --> 00:47:44,660
+loop, in python) is used for iterating through
+arrays or lists. Essentially the loop will
+
+640
+00:47:44,660 --> 00:47:50,180
+go through each element in the array and carry
+out some set of instructions for each value.
+
+641
+00:47:50,180 --> 00:47:54,250
+If you would like to read all of the elements
+in an array and compare them to some value,
+
+642
+00:47:54,250 --> 00:48:00,270
+or perform some operation on them, a for each
+loop is extremely useful. So for example,
+
+643
+00:48:00,270 --> 00:48:04,280
+we could have a for each loop which iterated
+across an array and simply printed out the
+
+644
+00:48:04,280 --> 00:48:07,780
+value of each array location.
+
+645
+00:48:07,780 --> 00:48:11,330
+Next up, we have the while loop. A while loop
+will continually carry out its instructions
+
+646
+00:48:11,330 --> 00:48:14,950
+while a conditional statement given to it
+is true. This can be as long as a certain
+
+647
+00:48:14,950 --> 00:48:18,750
+variable is true, as long as a number is less
+than another number, or while a value is still
+
+648
+00:48:18,750 --> 00:48:23,260
+equal to another value. While loops are different
+than for loops in that the loop is not contained
+
+649
+00:48:23,260 --> 00:48:26,850
+within one statement, but stretched out and
+will continue to run so long as its condition
+
+650
+00:48:26,850 --> 00:48:28,290
+is true.
+
+651
+00:48:28,290 --> 00:48:31,650
+Like a for loop, you can make the condition
+such that it will eventually return false
+
+652
+00:48:31,650 --> 00:48:35,230
+and exit the loop, however while loops will
+not crash your computer should you create
+
+653
+00:48:35,230 --> 00:48:40,290
+an infinite loop. In fact, it is very common
+for while loops to run infinitely, as, for
+
+654
+00:48:40,290 --> 00:48:43,770
+certain programs, you would like the program
+to continually be iterated through instead
+
+655
+00:48:43,770 --> 00:48:47,430
+of running once, all the way through until
+you exit out of the program.
+
+656
+00:48:47,430 --> 00:48:50,770
+When programming a game, for instance, a while
+loop would be used to iterate through your
+
+657
+00:48:50,770 --> 00:48:54,710
+code, continually refreshing the screen as
+the game runs. From there you could perform
+
+658
+00:48:54,710 --> 00:48:58,100
+operations on the screen to make the game
+playable. Creating an infinite while loop
+
+659
+00:48:58,100 --> 00:49:02,770
+would simply be done using the syntax while(true),
+as the condition true will always be evaluated
+
+660
+00:49:02,770 --> 00:49:03,920
+as true.
+
+661
+00:49:03,920 --> 00:49:09,271
+Finally, I’d quickly like to cover an extension
+of the while loop, the do-while loop. Do-while
+
+662
+00:49:09,271 --> 00:49:12,400
+loops are very similar to while loops, except
+they will carry out their instructions at
+
+663
+00:49:12,400 --> 00:49:16,210
+least once, even if the condition is false,
+and then will carry on like a basic while
+
+664
+00:49:16,210 --> 00:49:20,740
+loop. Essentially, the conditions inside the
+loop will run AT LEAST once, and then if the
+
+665
+00:49:20,740 --> 00:49:25,520
+condition is still met they will run again
+and function as a normal while loop.
+
+666
+00:49:25,520 --> 00:49:30,190
+As you can see, loops and their many varieties
+have some extremely useful functions. Using
+
+667
+00:49:30,190 --> 00:49:34,240
+them, you are able to perform an operation
+many times in a row, you can iterate through
+
+668
+00:49:34,240 --> 00:49:39,300
+arrays and lists, and overall decrease the
+clutter of your code.
+
+669
+00:49:39,300 --> 00:49:42,730
+Next up, we’re going to take a break from
+learning about common programming statements,
+
+670
+00:49:42,730 --> 00:49:46,940
+and dive into what happens when the code we
+write doesn’t work. More specifically, we’ll
+
+671
+00:49:46,940 --> 00:49:50,130
+be covering the different types of errors
+that can occur when you’re programming,
+
+672
+00:49:50,130 --> 00:49:52,300
+and what causes them.
+
+673
+00:49:52,300 --> 00:49:55,170
+Now when you’re writing code, you have to
+understand that things aren’t always going
+
+674
+00:49:55,170 --> 00:49:59,470
+to go the way you expected them, and sometimes
+the program doesn’t always work as you had
+
+675
+00:49:59,470 --> 00:50:04,340
+intended it to. We programmers call these
+errors and while annoying, they are always
+
+676
+00:50:04,340 --> 00:50:08,290
+going to come up in computer science and so
+it's best to learn what they are and how to
+
+677
+00:50:08,290 --> 00:50:13,580
+deal with them. Often referred to as “bugs”,
+errors in scripting languages can be narrowed
+
+678
+00:50:13,580 --> 00:50:19,931
+down to one of three “types”: syntax,
+runtime, and logic, all three of which we
+
+679
+00:50:19,931 --> 00:50:22,820
+will be covering in today’s video.
+
+680
+00:50:22,820 --> 00:50:27,040
+To kick things off, let’s talk about syntax
+errors. These are usually the easiest of the
+
+681
+00:50:27,040 --> 00:50:31,960
+3 to solve since they are oftentimes something
+that can be fixed within seconds. If you remember
+
+682
+00:50:31,960 --> 00:50:35,980
+back to earlier in the video when we talked
+about syntax and programming rules, we said
+
+683
+00:50:35,980 --> 00:50:39,550
+that if you were to break the programming
+rules, or syntax, that it would result in
+
+684
+00:50:39,550 --> 00:50:44,160
+an error. Well that’s what syntax errors
+are, parts in your program where you fail
+
+685
+00:50:44,160 --> 00:50:48,850
+to meet the programming rules and so the computer
+doesn’t know how to interpret your code.
+
+686
+00:50:48,850 --> 00:50:53,210
+This can be anything, from forgetting a semicolon
+at the end of a statement in java, accidentally
+
+687
+00:50:53,210 --> 00:50:57,340
+defining a variable with two words instead
+of one, or even just misspelling the word
+
+688
+00:50:57,340 --> 00:51:01,940
+String when you’re trying to define a string
+variable. Lucky for you guys, these errors
+
+689
+00:51:01,940 --> 00:51:06,200
+are extremely easy to fix since you just need
+to figure out where the error occurred and
+
+690
+00:51:06,200 --> 00:51:11,420
+what the syntax rule you broke was. Now thinking
+back to IDE’s, we mentioned that IDE’s
+
+691
+00:51:11,420 --> 00:51:16,580
+are so useful because they do precisely that,
+they underline syntax errors and usually provide
+
+692
+00:51:16,580 --> 00:51:21,490
+helpful hints as to how to fix them. Think
+of syntax errors as small misspellings or
+
+693
+00:51:21,490 --> 00:51:26,690
+grammatical errors in an essay you’re writing,
+annoying; yes, but not the most infuriating
+
+694
+00:51:26,690 --> 00:51:31,560
+things. Another useful thing about IDE’s
+when it comes to syntax errors is that the
+
+695
+00:51:31,560 --> 00:51:36,320
+program will actually restrict you from running
+the code unless all syntax errors are cleared,
+
+696
+00:51:36,320 --> 00:51:40,430
+making them even easier to identify and fix.
+
+697
+00:51:40,430 --> 00:51:45,020
+The second type of error we will be covering
+is the runtime error. These errors don’t
+
+698
+00:51:45,020 --> 00:51:49,641
+show until you actually “run” the code,
+hence the name “runtime” error. Runtime
+
+699
+00:51:49,641 --> 00:51:54,310
+errors are caused by a statement in your code
+that SEEMS seems logically sound, but the
+
+700
+00:51:54,310 --> 00:51:59,690
+computer physically has no way of computing
+it in a reasonable amount of time. The most
+
+701
+00:51:59,690 --> 00:52:03,780
+common of these errors is one which we’ve
+already talked about; the infinite loop. As
+
+702
+00:52:03,780 --> 00:52:08,820
+a refresher/example, think of an infinite
+loop like this. Say you sat your friend down
+
+703
+00:52:08,820 --> 00:52:13,200
+in front of the TV, put on the Office on repeat,
+and told him he could leave as soon as Michael
+
+704
+00:52:13,200 --> 00:52:17,870
+made a “That’s what she said” joke.
+Seems pretty simple right? WRONG, because
+
+705
+00:52:17,870 --> 00:52:23,190
+instead of putting in the Office, you put
+in FRIENDS on blu ray. No michael, no inappropriate
+
+706
+00:52:23,190 --> 00:52:26,260
+joke, meaning your friend would be sitting
+there for the rest of his life probably confused
+
+707
+00:52:26,260 --> 00:52:28,380
+as to why Dunder Mifflin looks so much like
+a coffee shop. This is essentially what happens
+
+708
+00:52:28,380 --> 00:52:32,440
+with the computer, you give it some condition
+that it has to complete before the program
+
+709
+00:52:32,440 --> 00:52:38,520
+can terminate; however, you give it no feasible
+way to finish that task. This puts the computer
+
+710
+00:52:38,520 --> 00:52:42,820
+in error mode and most likely will crash your
+program, as the computer desperately tries
+
+711
+00:52:42,820 --> 00:52:48,170
+to complete the condition you gave it. As
+a computer example, if we try to have a program
+
+712
+00:52:48,170 --> 00:52:56,520
+terminate when an integer i is no longer greater
+than 99, but i is initially 100 and only increases,
+
+713
+00:52:56,520 --> 00:53:01,580
+the loop will never terminate and the program
+will crash. To avoid these, you generally
+
+714
+00:53:01,580 --> 00:53:05,770
+want to think through the flow of your code
+before running it -especially with loops-
+
+715
+00:53:05,770 --> 00:53:10,140
+to make sure that all of your statements can
+be completed by the computer. Carefully planning
+
+716
+00:53:10,140 --> 00:53:14,710
+out your code before you begin writing it
+is an extremely useful practice, and something
+
+717
+00:53:14,710 --> 00:53:18,000
+we’ll be covering towards the later part
+of this video.
+
+718
+00:53:18,000 --> 00:53:22,240
+The final type of error that we will be covering
+is a logic error. This error is also pretty
+
+719
+00:53:22,240 --> 00:53:27,200
+self-explanatory. A logic error occurs when
+the code runs smoothly without any runtime
+
+720
+00:53:27,200 --> 00:53:32,220
+or syntax errors, but the result that you
+get isn’t what you wanted. For example,
+
+721
+00:53:32,220 --> 00:53:35,850
+let’s say you had a calculator app, and
+you wanted to instruct the program to add
+
+722
+00:53:35,850 --> 00:53:40,170
+two numbers, except it multiplied them instead
+because you used the multiplication symbol
+
+723
+00:53:40,170 --> 00:53:47,840
+on accident. This leads the sum to be 36 instead
+of 13. Nothing went wrong with the code syntax
+
+724
+00:53:47,840 --> 00:53:53,870
+or runtime wise, the code runs just fine,
+it just doesn't work as you intended it to.
+
+725
+00:53:53,870 --> 00:53:57,680
+These are often the hardest types of errors
+to debug since most of the time, you’ll
+
+726
+00:53:57,680 --> 00:54:02,630
+have no idea why the code isn’t working,
+and certainly not any idea of how to fix it.
+
+727
+00:54:02,630 --> 00:54:06,530
+This is why it's a good idea to test your
+code incrementally, don’t wait until you’ve
+
+728
+00:54:06,530 --> 00:54:10,480
+been programming for an hour before testing
+your application, or else you’ll run into
+
+729
+00:54:10,480 --> 00:54:15,520
+a lot of logic errors. Logic errors can be
+extremely frustrating and could cost you a
+
+730
+00:54:15,520 --> 00:54:19,990
+lot of time, making them a huge pain, but
+if you know how to effectively debug your
+
+731
+00:54:19,990 --> 00:54:23,300
+code, you’ll be just fine.
+
+732
+00:54:23,300 --> 00:54:26,700
+Speaking of debugging your code, that brings
+us straight into our next topic, which is
+
+733
+00:54:26,700 --> 00:54:28,290
+how to debug your program.
+
+734
+00:54:28,290 --> 00:54:32,040
+Now, let’s say you have written a program.
+You think it's ready, and you’re ready to
+
+735
+00:54:32,040 --> 00:54:35,960
+test it. You’ve been working hard on this,
+and you’re excited to see it in action.
+
+736
+00:54:35,960 --> 00:54:40,610
+You run the program, and wait for it to run
+smoothly and efficiently. Only, it doesn’t
+
+737
+00:54:40,610 --> 00:54:43,730
+work. You have encountered one of the three
+errors we just mentioned. You really want
+
+738
+00:54:43,730 --> 00:54:47,980
+this code to work, but how? This is where
+debugging comes into play.
+
+739
+00:54:47,980 --> 00:54:51,770
+If the code is giving you an error, then the
+first thing you should do is read the error.
+
+740
+00:54:51,770 --> 00:54:55,450
+Oftentimes, for syntax and runtime errors
+the IDE will print an error message out to
+
+741
+00:54:55,450 --> 00:54:59,799
+the console. See what line or lines it points
+to- since those will be the lines in which
+
+742
+00:54:59,799 --> 00:55:05,150
+the error occurred- and see if you can understand
+and fix what it says the problem is. If the
+
+743
+00:55:05,150 --> 00:55:09,100
+error isn’t clear, or you’ve never heard
+of it, then try googling it, there are many
+
+744
+00:55:09,100 --> 00:55:13,010
+websites out there such as stackoverflow which
+serve as forums to ask and answer problems
+
+745
+00:55:13,010 --> 00:55:18,020
+with code. Chances are, if you’ve had a
+problem, someone else has had the same issue
+
+746
+00:55:18,020 --> 00:55:23,261
+and there is likely a tested solution. Usually,
+when a syntax or runtime error pops up, you
+
+747
+00:55:23,261 --> 00:55:28,560
+should be able to find a fix for it fairly
+easily; however, as I said before, the issue
+
+748
+00:55:28,560 --> 00:55:32,980
+may arise from some loophole or oversight
+in the code you hadn’t planned for beforehand.
+
+749
+00:55:32,980 --> 00:55:36,440
+Maybe you did something as simple as multiply
+two variables instead of adding them. These
+
+750
+00:55:36,440 --> 00:55:40,730
+are the logic errors we talked about previously.
+These problems usually won’t have red text
+
+751
+00:55:40,730 --> 00:55:45,400
+show up to explain to you what went wrong.
+You’ll have to figure it out yourself.
+
+752
+00:55:45,400 --> 00:55:49,920
+Now there are a few different strategies you
+can use in order to track down and fix a logic
+
+753
+00:55:49,920 --> 00:55:54,550
+error. First, you can use print statements
+and the console in order to determine where
+
+754
+00:55:54,550 --> 00:55:56,730
+the code is going wrong.
+
+755
+00:55:56,730 --> 00:56:00,270
+Imagine you have a conditional statement that
+will run one segment of code if an integer
+
+756
+00:56:00,270 --> 00:56:04,750
+x, is greater than 5, and will run another
+segment of code if not.
+
+757
+00:56:04,750 --> 00:56:09,700
+If, in your program, x is supposed to be greater
+than 5 when the program reaches this conditional
+
+758
+00:56:09,700 --> 00:56:13,700
+but for some reason the program is still printing
+out “X is small” you could use a print
+
+759
+00:56:13,700 --> 00:56:14,700
+statement to help.
+
+760
+00:56:14,700 --> 00:56:18,410
+For this problem specifically you could place
+said print statement before the branch of
+
+761
+00:56:18,410 --> 00:56:23,010
+the conditional that would print the value
+of x. Now when you run the program you know
+
+762
+00:56:23,010 --> 00:56:27,650
+exactly what the computer is thinking. Printing
+out the value of x just before the if/else
+
+763
+00:56:27,650 --> 00:56:30,921
+statement will let you know if the variable
+has the value you want it to have, and if
+
+764
+00:56:30,921 --> 00:56:34,540
+it doesn’t you know that somewhere above
+that conditional something went wrong and
+
+765
+00:56:34,540 --> 00:56:39,840
+x was set to a value you didn’t want it
+to. In this case, x is equal to 2, which is
+
+766
+00:56:39,840 --> 00:56:42,240
+why x is small is being printed out.
+
+767
+00:56:42,240 --> 00:56:46,500
+Now we know what the problem is we can track
+down where and when in the code we modify
+
+768
+00:56:46,500 --> 00:56:51,540
+x to figure out the problem. Use print statements
+to determine where your program goes wrong,
+
+769
+00:56:51,540 --> 00:56:56,720
+and then try to track down the cause of these
+issues and solve them. If you use this strategy,
+
+770
+00:56:56,720 --> 00:57:00,470
+make sure you end up deleting the print statements
+afterwards to avoid clutter in the console.
+
+771
+00:57:00,470 --> 00:57:05,880
+The situation described above could also be
+solved using a breakpoint. A breakpoint pauses
+
+772
+00:57:05,880 --> 00:57:09,610
+your program when the line you placed the
+breakpoint at is reached in your program.
+
+773
+00:57:09,610 --> 00:57:13,300
+If, say, you would like the program to run
+through a certain conditional and set a variable
+
+774
+00:57:13,300 --> 00:57:16,590
+based on that conditional, but you are unsure
+if this actually happens correctly in your
+
+775
+00:57:16,590 --> 00:57:21,630
+code, you can place a breakpoint inside the
+conditional path you want to run.
+
+776
+00:57:21,630 --> 00:57:25,410
+Upon the breakpoint being reached, the program
+will pause, and wait for you to continue it
+
+777
+00:57:25,410 --> 00:57:28,880
+through a button press. This signals that
+the spot in the code where the breakpoint
+
+778
+00:57:28,880 --> 00:57:34,220
+was placed, in this case the correct conditional
+path, has been reached by the program. You
+
+779
+00:57:34,220 --> 00:57:38,230
+can then continue the program knowing that
+was or wasn’t where an error in your code
+
+780
+00:57:38,230 --> 00:57:42,510
+occurred. Breakpoints can be used in conjunction
+with print statements in order to both pause
+
+781
+00:57:42,510 --> 00:57:46,890
+the program, and perhaps view the values of
+your variables at the moment in time to give
+
+782
+00:57:46,890 --> 00:57:50,610
+yourself all the information you could want.
+You can also have multiple breakpoints to
+
+783
+00:57:50,610 --> 00:57:56,220
+help slowly work through your program and
+determine where the error has occurred. A
+
+784
+00:57:56,220 --> 00:57:59,460
+combination of these two strategies will help
+you easily determine where in your code you
+
+785
+00:57:59,460 --> 00:58:01,230
+have incurred a logic error.
+
+786
+00:58:01,230 --> 00:58:06,280
+Next, let’s go over what to do if you think
+you have tracked down the section of code
+
+787
+00:58:06,280 --> 00:58:10,330
+that causes the problem. You may think you
+should delete it, but it’s likely you put
+
+788
+00:58:10,330 --> 00:58:14,400
+it there for a reason, and you don’t want
+to lose that work if you don’t have to.
+
+789
+00:58:14,400 --> 00:58:19,590
+Firstly, try commenting it out. Comments are
+used to markup code and explain their surrounding
+
+790
+00:58:19,590 --> 00:58:24,370
+sections, but they can also be used to debug.
+Anything that is designated as a comment will
+
+791
+00:58:24,370 --> 00:58:29,060
+not be read by the program as code, and will
+be skipped over. Essentially, it becomes something
+
+792
+00:58:29,060 --> 00:58:34,150
+that is only there for YOU the programmer
+to read. The syntax varies from language to
+
+793
+00:58:34,150 --> 00:58:37,790
+language, but it usually involves placing
+some symbols before or around the code you
+
+794
+00:58:37,790 --> 00:58:41,630
+would like to be commented. Examples of how
+to comment in different languages can be seen
+
+795
+00:58:41,630 --> 00:58:46,930
+on the screen now. Also, when you comment
+something, the IDE will grayscale the line
+
+796
+00:58:46,930 --> 00:58:51,991
+of code, making it extremely easy to determine
+what’s commented and what is not. Commenting
+
+797
+00:58:51,991 --> 00:58:56,460
+code ‘deletes’ it in the computer’s
+eyes without actually deleting it. If a problem
+
+798
+00:58:56,460 --> 00:59:00,880
+is present before you comment a section of
+code but it is gone afterward, then that section
+
+799
+00:59:00,880 --> 00:59:04,810
+of code is the culprit. If you comment part
+of a code out and there are still issues,
+
+800
+00:59:04,810 --> 00:59:09,400
+then move onto another section until you find
+the culprit. Once you do, you can tweak it
+
+801
+00:59:09,400 --> 00:59:14,000
+until it works as intended or delete it entirely
+and you will have a fully functioning program
+
+802
+00:59:14,000 --> 00:59:15,580
+once again. Hurrah!
+
+803
+00:59:15,580 --> 00:59:19,202
+Now that we’ve talked about what to do IF
+you’ve encountered an error and a strategy
+
+804
+00:59:19,202 --> 00:59:23,190
+on how to find and fix it, I’d like to talk
+about some strategies you can use to AVOID
+
+805
+00:59:23,190 --> 00:59:28,070
+errors in the first place. Firstly, backup
+your code frequently. In the event of the
+
+806
+00:59:28,070 --> 00:59:31,770
+code completely bugging out and you being
+unable to fix it, you will want the ability
+
+807
+00:59:31,770 --> 00:59:35,980
+to revert to a previous version where the
+code was still working. If you save frequently
+
+808
+00:59:35,980 --> 00:59:40,630
+enough, then you will probably not lose too
+much work. Version managers like Github or
+
+809
+00:59:40,630 --> 00:59:45,261
+Subversion can help with this, as they backup
+code to an online cloud service in which you
+
+810
+00:59:45,261 --> 00:59:48,950
+can easily pull previous versions of the program
+at any point.
+
+811
+00:59:48,950 --> 00:59:53,700
+Also, on top of saving, run your program frequently
+to ensure that the current version works as
+
+812
+00:59:53,700 --> 00:59:58,450
+intended. This accomplishes two things. First
+of all, it prevents you from saving a backup
+
+813
+00:59:58,450 --> 01:00:03,100
+that doesn’t work. Secondly, if you encounter
+a problem, it will be easier to find if you
+
+814
+01:00:03,100 --> 01:00:07,220
+have only made a small number of changes since
+the last time you ran it and it worked, and
+
+815
+01:00:07,220 --> 01:00:10,780
+thus you will only have to look through the
+new code for problems. If you’ve spent 5
+
+816
+01:00:10,780 --> 01:00:14,000
+hours coding and hadn’t run it during that
+time period, it’s going to be extremely
+
+817
+01:00:14,000 --> 01:00:17,731
+likely that at some point during that 5 hour
+code sesh you messed up, and it’s going
+
+818
+01:00:17,731 --> 01:00:21,852
+to be even harder to figure out where you
+went wrong. Errors, while annoying and extremely
+
+819
+01:00:21,852 --> 01:00:25,910
+frustrating, are a fundamental part of making
+you a better programmer.
+
+820
+01:00:25,910 --> 01:00:30,030
+Alright, now that we’ve covered errors for
+a bit, let’s hop on back to programming
+
+821
+01:00:30,030 --> 01:00:35,050
+statements and talk about one of the most
+important concepts in computer science, the
+
+822
+01:00:35,050 --> 01:00:36,050
+function.
+
+823
+01:00:36,050 --> 01:00:39,930
+Now, you may not know it, but we’ve actually
+been talking about a few functions this entire
+
+824
+01:00:39,930 --> 01:00:46,780
+series. Print statements, for loops, and even
+basic math operations are all examples of
+
+825
+01:00:46,780 --> 01:00:51,610
+functions, which of course begs the question
+of what actually defines a function. Well,
+
+826
+01:00:51,610 --> 01:00:56,610
+a function is a segment of code that can be
+easily run “calling” the function name
+
+827
+01:00:56,610 --> 01:01:01,060
+and depending on the type of function, will
+do something in return. Functions can be called
+
+828
+01:01:01,060 --> 01:01:07,140
+numerous times, and in numerous places. Essentially
+they are like wrapping up a segment of code
+
+829
+01:01:07,140 --> 01:01:12,380
+into a nice present and giving it a name which;
+when called, will unwrap the present and go
+
+830
+01:01:12,380 --> 01:01:15,460
+through the code you wrapped up.
+
+831
+01:01:15,460 --> 01:01:19,210
+For example, the print statements we have
+been using this series allow us to print something
+
+832
+01:01:19,210 --> 01:01:25,440
+to the console any time we want are functions.
+You see, we just “call” the print function
+
+833
+01:01:25,440 --> 01:01:31,070
+and enter in what we want to be printed to
+the console, and the computer does it for
+
+834
+01:01:31,070 --> 01:01:35,700
+us. Behind the scenes, there is actually even
+more complex code that is in charge of taking
+
+835
+01:01:35,700 --> 01:01:40,890
+your text and translating it to the console
+to be printed. The developers of almost all
+
+836
+01:01:40,890 --> 01:01:45,390
+programming languages realize that you don’t
+want to program something that manually has
+
+837
+01:01:45,390 --> 01:01:49,810
+to print something to the console through
+the use of complex programming, and so they
+
+838
+01:01:49,810 --> 01:01:54,360
+implemented the print statement to reduce
+the stress and complexity of code on the user,
+
+839
+01:01:54,360 --> 01:02:00,820
+abstracting it down to a simple line of code.
+All of that code that is used to print something
+
+840
+01:02:00,820 --> 01:02:06,030
+to the console is wrapped up like a present
+and given to us in the form of one line, “print()”.
+
+841
+01:02:06,030 --> 01:02:11,701
+This is actually the main theme of all functions
+and the backbone of any good program. Oftentimes
+
+842
+01:02:11,701 --> 01:02:15,840
+in your program there are going to be sections
+of code which are repeated and serve the same
+
+843
+01:02:15,840 --> 01:02:21,100
+purpose, or equations which you want to allow
+differing inputs of. And so you can use functions
+
+844
+01:02:21,100 --> 01:02:26,080
+in order to condense these down into singular
+lines of code to save both time and reduce
+
+845
+01:02:26,080 --> 01:02:31,520
+clutter on your code. As you will see soon,
+functions are EXTREMELY powerful and will
+
+846
+01:02:31,520 --> 01:02:36,960
+definitely be something you utilize all the
+time in your computer science journey.
+
+847
+01:02:36,960 --> 01:02:41,110
+The print statement is just one example of
+functions in everyday code. There are thousands
+
+848
+01:02:41,110 --> 01:02:45,821
+of functions that are available to you through
+IDE’s. However; because you won’t always
+
+849
+01:02:45,821 --> 01:02:49,920
+use all of the thousands of functions that
+are open to you in a single program you have
+
+850
+01:02:49,920 --> 01:02:54,790
+to import these functions from packages found
+in the IDE, which is something we will cover
+
+851
+01:02:54,790 --> 01:02:55,790
+later on.
+
+852
+01:02:55,790 --> 01:03:00,340
+Now, there are four main types of functions
+in most programming languages, and they are
+
+853
+01:03:00,340 --> 01:03:04,570
+separated by two defining features: whether
+or not they take in arguments, and whether
+
+854
+01:03:04,570 --> 01:03:08,970
+or not they return values. Let’s start by
+separating them by whether or not they take
+
+855
+01:03:08,970 --> 01:03:13,930
+arguments, but first we have to cover what
+arguments are.
+
+856
+01:03:13,930 --> 01:03:18,350
+Arguments are essentially variables that we
+pass into the function in order to be manipulated
+
+857
+01:03:18,350 --> 01:03:23,910
+and then either returned back to us, printed
+to the console, or used in another operation.
+
+858
+01:03:23,910 --> 01:03:27,300
+Think of functions with arguments like ordering
+food at a restaurant. If you walked up to
+
+859
+01:03:27,300 --> 01:03:32,240
+your local five guys and told them you wanted
+to get food without supplying a type of food,
+
+860
+01:03:32,240 --> 01:03:38,010
+they would probably look at you confused.
+You need to tell them what exactly you want
+
+861
+01:03:38,010 --> 01:03:43,500
+to order so that they can give it to you.
+In this case getting food is the function
+
+862
+01:03:43,500 --> 01:03:49,740
+and what you order is being passed in as the
+argument. Based on what you tell them, or
+
+863
+01:03:49,740 --> 01:03:56,210
+the argument, they will do something different.
+You also should note that the argument can
+
+864
+01:03:56,210 --> 01:04:01,740
+be many different things, it could be fries,
+burgers, soda, anything really on the menu,
+
+865
+01:04:01,740 --> 01:04:04,730
+and such is the case with arguments in programming.
+
+866
+01:04:04,730 --> 01:04:14,780
+This is essentially what happens with the
+computer, for example, the max function which
+
+867
+01:04:14,780 --> 01:04:20,490
+takes two integers as arguments and returns
+the maximum number between the two. Now, for
+
+868
+01:04:20,490 --> 01:04:25,369
+this function if you don’t input two numbers
+or variables for it to compare, it's going
+
+869
+01:04:25,369 --> 01:04:29,670
+to throw you an error just like the five guys
+employee, he doesn’t know what you want
+
+870
+01:04:29,670 --> 01:04:33,610
+to eat since you didn’t provide him any
+arguments, and the computer doesn’t know
+
+871
+01:04:33,610 --> 01:04:37,260
+what two numbers you want it to compare and
+return since you didn’t provide it with
+
+872
+01:04:37,260 --> 01:04:42,720
+two integers. Arguments are a way for programmers
+to have one function that can do many different
+
+873
+01:04:42,720 --> 01:04:47,730
+things depending on whichever variables can
+be passed through. Arguments add variability
+
+874
+01:04:47,730 --> 01:04:52,330
+to programming and can help diversify your
+code. Thinking back to our five guys example,
+
+875
+01:04:52,330 --> 01:04:56,510
+a restaurant that only allows one type of
+food to be made regardless of what you order
+
+876
+01:04:56,510 --> 01:05:01,780
+isn’t going to be very useful or diversified,
+but if we’re able to pass in arguments and
+
+877
+01:05:01,780 --> 01:05:06,310
+tell them what food we want, our experience
+can be heightened and more options become
+
+878
+01:05:06,310 --> 01:05:12,530
+available, which is exactly what happens when
+you accept arguments in your functions.
+
+879
+01:05:12,530 --> 01:05:16,170
+Now that we’ve talked about functions that
+take in arguments, let’s move on to functions
+
+880
+01:05:16,170 --> 01:05:20,710
+which do not take in arguments, because functions
+can also be created and used without taking
+
+881
+01:05:20,710 --> 01:05:25,870
+in arguments and still be incredibly useful.
+For example, let’s say you were making a
+
+882
+01:05:25,870 --> 01:05:30,380
+text based RPG game and one of the options
+you give your player is the ability to view
+
+883
+01:05:30,380 --> 01:05:35,260
+their stats at various points throughout the
+game. Now every time you come upon an option
+
+884
+01:05:35,260 --> 01:05:39,660
+and they choose the “View Stats” button,
+you don’t want to have to type out 6 different
+
+885
+01:05:39,660 --> 01:05:43,520
+print statements for every statistic they
+may have, your code would get cluttered and
+
+886
+01:05:43,520 --> 01:05:49,210
+messy very quickly. Instead, what you could
+do is package the 6 different print statements
+
+887
+01:05:49,210 --> 01:05:54,150
+in a simple function called printStats().
+You don’t need to pass any arguments into
+
+888
+01:05:54,150 --> 01:05:58,260
+the functions since the function will do the
+same thing no matter what the statistics on
+
+889
+01:05:58,260 --> 01:06:04,310
+the player are. Now, everytime the user wants
+to view their stats, you simply call the printStats()
+
+890
+01:06:04,310 --> 01:06:09,531
+function and voila, the user’s stats are
+printed for them to view. This allows you
+
+891
+01:06:09,531 --> 01:06:14,290
+to save a lot of time writing out code, but
+also a lot of space which is extremely important
+
+892
+01:06:14,290 --> 01:06:19,360
+when your programs begin getting into hundreds
+and thousands of lines and you want to easily
+
+893
+01:06:19,360 --> 01:06:21,390
+search through it.
+
+894
+01:06:21,390 --> 01:06:26,410
+Okay, now that we’ve separated functions
+into those that take arguments and those that
+
+895
+01:06:26,410 --> 01:06:31,850
+do not, let’s again split these up into
+those that return values and those that don’t.
+
+896
+01:06:31,850 --> 01:06:35,790
+Now the thing you have to understand is that
+when you’re making your own functions, which
+
+897
+01:06:35,790 --> 01:06:40,660
+is something we will be covering soon, you
+have to choose what your function will return,
+
+898
+01:06:40,660 --> 01:06:46,010
+if anything at all. Functions are able to
+return values back to the user whether they
+
+899
+01:06:46,010 --> 01:06:53,150
+be String variables, integer variables, or
+even arrays. Now the thing to note about returning
+
+900
+01:06:53,150 --> 01:06:57,760
+values is that calling the function alone
+won’t do anything. You have to return the
+
+901
+01:06:57,760 --> 01:07:04,230
+value into something. As an example, the Max
+function we talked about previously would
+
+902
+01:07:04,230 --> 01:07:10,280
+return an integer, but in order to do something
+with it we would have to either set a new
+
+903
+01:07:10,280 --> 01:07:15,610
+integer variable equal to the result of that
+Max function, or we can print out the result
+
+904
+01:07:15,610 --> 01:07:19,640
+of a function, which in this case would just
+print out the maximum value between the two
+
+905
+01:07:19,640 --> 01:07:24,720
+integers. Using functions which return values
+don’t do much on their own, you have to
+
+906
+01:07:24,720 --> 01:07:28,080
+pair it with something in order to gain use
+out of it.
+
+907
+01:07:28,080 --> 01:07:32,570
+Let’s do another example, let’s say you
+had created a function which took in two string
+
+908
+01:07:32,570 --> 01:07:38,530
+variables as arguments, combined them using
+that fancy String math we talked about earlier,
+
+909
+01:07:38,530 --> 01:07:43,460
+and then returned them as a single string.
+This combineString function could then be
+
+910
+01:07:43,460 --> 01:07:49,260
+used to create new String variables since
+what it is returning is technically a string.
+
+911
+01:07:49,260 --> 01:07:55,260
+The variable would simply be set to whatever
+is returned from the combineString.
+
+912
+01:07:55,260 --> 01:07:59,480
+The last type of function is one that does
+not return anything, and these are known as
+
+913
+01:07:59,480 --> 01:08:05,240
+“void” functions. Oftentimes these are
+like the printStats function we created earlier,
+
+914
+01:08:05,240 --> 01:08:10,270
+simply used to condense large amounts of print
+statements that appear often in your code.
+
+915
+01:08:10,270 --> 01:08:15,100
+These cannot be set to variables since they
+don’t return anything and just get the code
+
+916
+01:08:15,100 --> 01:08:17,500
+within them run through.
+
+917
+01:08:17,500 --> 01:08:23,070
+So there you have it, the 4 types of functions.
+Ones that take in arguments and return things,
+
+918
+01:08:23,070 --> 01:08:27,390
+ones that take in arguments and don’t return
+something, ones that don’t take in arguments
+
+919
+01:08:27,390 --> 01:08:32,640
+but still return values, and the ones that
+take in arguments and don’t return anything.
+
+920
+01:08:32,640 --> 01:08:37,180
+Each of these 4 types of functions are useful
+and unique in their own way and you will probably
+
+921
+01:08:37,180 --> 01:08:41,589
+find yourself using them all throughout your
+programming journey, so get used to the different
+
+922
+01:08:41,589 --> 01:08:46,180
+types of functions and know how to make the
+most of them, as they are all extremely powerful.
+
+923
+01:08:46,180 --> 01:08:50,839
+Finally, I’d like to talk about one of the
+major benefits of functions, which is that
+
+924
+01:08:50,839 --> 01:08:55,000
+it makes it super useful to make large changes
+to your code without having to go through
+
+925
+01:08:55,000 --> 01:09:01,859
+the entire program. Each function call is
+just a copy of that function's original code,
+
+926
+01:09:01,859 --> 01:09:06,259
+and so it’s very easy to make changes to
+the function and have it translate to across
+
+927
+01:09:06,259 --> 01:09:11,380
+your code. Let’s go back to our printStats()
+function and say that you wanted to go back
+
+928
+01:09:11,380 --> 01:09:17,690
+and add in a new stat that the player can
+level up through experience in the game. Without
+
+929
+01:09:17,690 --> 01:09:21,290
+functions, you would have to go back into
+your code, find every instance that you had
+
+930
+01:09:21,290 --> 01:09:26,150
+printed out the users stats, and create another
+print statement to display the new statistic.
+
+931
+01:09:26,150 --> 01:09:31,730
+However, if you had created a printStats()
+function like we did a little while ago, all
+
+932
+01:09:31,730 --> 01:09:36,339
+you would need to do is find where you defined
+that function and add in a print statement
+
+933
+01:09:36,339 --> 01:09:42,020
+which displays the new statistic and you’re
+done, bam. Now, every place which had called
+
+934
+01:09:42,020 --> 01:09:47,060
+the printStats function previously will now
+also print the new statistic as well. You
+
+935
+01:09:47,060 --> 01:09:51,850
+can see how powerful functions can be if used
+properly, and we haven’t even scratched
+
+936
+01:09:51,850 --> 01:09:53,420
+the surface yet.
+
+937
+01:09:53,420 --> 01:09:57,350
+Now, up next we’re going to cover how we
+can import other people’s functions that
+
+938
+01:09:57,350 --> 01:10:00,020
+they’ve written and use them in our code.
+
+939
+01:10:00,020 --> 01:10:04,300
+Now before we get technical, close your eyes
+and imagine you are trying to build a house.
+
+940
+01:10:04,300 --> 01:10:09,390
+Sure, you could grow your own trees, chop
+down your own wood, make your own tools and
+
+941
+01:10:09,390 --> 01:10:13,730
+nails, and build it up from scratch. But why
+do that, when you can simply go to your local
+
+942
+01:10:13,730 --> 01:10:17,760
+Home Depot and buy these materials that others
+have already made ready for you. That’s
+
+943
+01:10:17,760 --> 01:10:22,171
+the main idea behind importing functions into
+your code. Importing functions allows you
+
+944
+01:10:22,171 --> 01:10:26,750
+to gain access to libraries of functions that
+other people have already made for you. This
+
+945
+01:10:26,750 --> 01:10:31,380
+is just as useful as it sounds. There are
+so many functions that are super useful for
+
+946
+01:10:31,380 --> 01:10:36,350
+any given program that it would take you forever
+to write them all yourself. Luckily, other
+
+947
+01:10:36,350 --> 01:10:38,920
+people have already done most of this for
+you.
+
+948
+01:10:38,920 --> 01:10:43,250
+In each programming language, you are able
+to use an import statement to import libraries
+
+949
+01:10:43,250 --> 01:10:46,610
+of functions into your program that you can
+use as you write it.
+
+950
+01:10:46,610 --> 01:10:51,670
+A library is simply a collection of functions
+that all have the same theme. It may be a
+
+951
+01:10:51,670 --> 01:10:56,920
+math library, a data analysis library, a library
+which translates text, or anything that you
+
+952
+01:10:56,920 --> 01:11:01,480
+can think of really. There is such a variety
+of libraries for any given language that most
+
+953
+01:11:01,480 --> 01:11:06,090
+functions you require that are not hyper-specific
+to your program can likely be found in some
+
+954
+01:11:06,090 --> 01:11:11,650
+library. In fact, a good portion of any programmer's
+job is looking online for packages which can
+
+955
+01:11:11,650 --> 01:11:17,770
+make his or her job easier instead of handwriting
+functions. Now, I can hear you saying, “Wow,
+
+956
+01:11:17,770 --> 01:11:23,440
+that’s sick, how do I do it?” Well, it’s
+quite simple: an import statement.
+
+957
+01:11:23,440 --> 01:11:28,350
+In most languages, an import statement consists
+of 3 parts. The library you would like to
+
+958
+01:11:28,350 --> 01:11:33,130
+import from, the package you would like to
+import from that library, and then which class
+
+959
+01:11:33,130 --> 01:11:38,520
+from that package you would like to use. For
+example, we could load up the Java library,
+
+960
+01:11:38,520 --> 01:11:43,560
+and from there import the util package, short
+for utilities, and then from that utilities
+
+961
+01:11:43,560 --> 01:11:48,230
+package import the scanner class, a class
+which allows us to read information from the
+
+962
+01:11:48,230 --> 01:11:52,770
+user. A package is simply a smaller sect of
+functions and methods to help differentiate
+
+963
+01:11:52,770 --> 01:11:57,730
+between the thousands of methods contained
+in a library, and class is even more specialized
+
+964
+01:11:57,730 --> 01:11:59,380
+than that.
+
+965
+01:11:59,380 --> 01:12:04,110
+Now if you don’t know what specific classes
+you’re going to want to pull methods from,
+
+966
+01:12:04,110 --> 01:12:08,710
+you can use a star * to import all classes
+within the package you’d like. However,
+
+967
+01:12:08,710 --> 01:12:12,700
+it can be beneficial to be more specific,
+and only import the classes you would like,
+
+968
+01:12:12,700 --> 01:12:18,380
+as it helps with efficiency of the program
+in the long run. For instance, in python,
+
+969
+01:12:18,380 --> 01:12:24,140
+the syntax to import a library is import followed
+by the library name. However, importing an
+
+970
+01:12:24,140 --> 01:12:31,060
+entire library is more computationally taxing
+than importing specific functions from a library.
+
+971
+01:12:31,060 --> 01:12:35,110
+Imagine you would only be using the factorial
+function from the python math library.
+
+972
+01:12:35,110 --> 01:12:39,060
+It would be a waste of computing power to
+import the entire library, and would increase
+
+973
+01:12:39,060 --> 01:12:43,850
+the load time for your program. For smaller
+programs, this isn’t a big deal, but it
+
+974
+01:12:43,850 --> 01:12:48,041
+really starts to add up when dealing with
+larger projects. Therefore, you would instead
+
+975
+01:12:48,041 --> 01:12:55,210
+use “from math import factorial” or the
+java equivalent “import java.math.factorial”,
+
+976
+01:12:55,210 --> 01:12:59,489
+and now have access to that one math command
+only. This limits the functions that you can
+
+977
+01:12:59,489 --> 01:13:03,960
+use, however it saves programming runtime.
+If you decide you want to use another function
+
+978
+01:13:03,960 --> 01:13:09,120
+that you hadn’t planned for, you can always
+go back and import that too. Many times, if
+
+979
+01:13:09,120 --> 01:13:13,020
+you try to use a function from a common package
+and you have not yet imported it yet, the
+
+980
+01:13:13,020 --> 01:13:15,310
+IDE will prompt you to do so.
+
+981
+01:13:15,310 --> 01:13:19,190
+If you’re trying to figure out which libraries
+you want to import, think of the functions
+
+982
+01:13:19,190 --> 01:13:23,910
+you’re going to need in your program. Perform
+a simple google search, and you will probably
+
+983
+01:13:23,910 --> 01:13:29,390
+run into a package or library that already
+exists in your IDE that you can use. And if
+
+984
+01:13:29,390 --> 01:13:34,330
+you can’t, there are ways to download and
+import additional projects to fit your needs.
+
+985
+01:13:34,330 --> 01:13:38,830
+But if after all of that you still can’t
+find a library that contains the function
+
+986
+01:13:38,830 --> 01:13:42,760
+you are looking for? Well that’s a perfect
+segway into what we’re going to talk about
+
+987
+01:13:42,760 --> 01:13:47,750
+next, which is the basic structure for writing
+your own functions.
+
+988
+01:13:47,750 --> 01:13:51,290
+So at this point we’ve talked about both
+what functions are and how we can get some
+
+989
+01:13:51,290 --> 01:13:55,040
+very useful functions by importing functions
+through packages. But there are definitely
+
+990
+01:13:55,040 --> 01:13:58,340
+going to be moments in your programming journey
+where you’re going to want to make your
+
+991
+01:13:58,340 --> 01:14:04,440
+own functions because you want to make one
+specific to your program and code. Luckily,
+
+992
+01:14:04,440 --> 01:14:08,570
+making your own functions is extremely simple,
+there are just some basic rules I want to
+
+993
+01:14:08,570 --> 01:14:14,440
+cover. Now while we’ve previously used making
+functions as an example for other topics such
+
+994
+01:14:14,440 --> 01:14:18,830
+as the playerStats function from a little
+bit ago, they were extremely abstract and
+
+995
+01:14:18,830 --> 01:14:23,070
+didn’t go in depth into what is needed for
+an actual function to operate. So right now
+
+996
+01:14:23,070 --> 01:14:26,860
+we’re going to be covering a skeletal system
+of everything that needs to be included in
+
+997
+01:14:26,860 --> 01:14:30,190
+a function to get it to work.
+
+998
+01:14:30,190 --> 01:14:34,420
+Now think back to the 4 different types of
+functions that we talked about previously.
+
+999
+01:14:34,420 --> 01:14:38,080
+Functions that do and don’t return values
+and functions that both do and don’t take
+
+1000
+01:14:38,080 --> 01:14:42,540
+in arguments. For creating your own functions,
+we’re just going to go down the list and
+
+1001
+01:14:42,540 --> 01:14:47,690
+talk about how to approach creating them,
+starting with the most basic of the bunch,
+
+1002
+01:14:47,690 --> 01:14:53,670
+one which takes no arguments and returns no
+values, but before we start that, there are
+
+1003
+01:14:53,670 --> 01:14:58,690
+a few small things I want to note about function
+naming conventions. The variable naming conventions
+
+1004
+01:14:58,690 --> 01:15:03,440
+we talked about previously also translate
+over to function names. So you can’t have
+
+1005
+01:15:03,440 --> 01:15:08,611
+two word functions and you can’t use special
+characters like periods or commas. Generally
+
+1006
+01:15:08,611 --> 01:15:12,400
+you’re going to want to follow the same
+camelCase style which we talked about in the
+
+1007
+01:15:12,400 --> 01:15:16,340
+variables video.
+
+1008
+01:15:16,340 --> 01:15:23,730
+Alright, so in general for making functions,
+each language differentiates how you tell
+
+1009
+01:15:23,730 --> 01:15:29,340
+the computer that it's a function. In java
+you have to define the functions scope, which
+
+1010
+01:15:29,340 --> 01:15:32,780
+is something you don’t really need to know
+unless you’re going to become more invested
+
+1011
+01:15:32,780 --> 01:15:38,130
+in java, but basically it tells the computer
+which parts of code can use the function and
+
+1012
+01:15:38,130 --> 01:15:43,790
+which type can’t. For this series all of
+our functions are going to be public. From
+
+1013
+01:15:43,790 --> 01:15:48,230
+there you then determine which type of function
+it is, so in this case since it won’t be
+
+1014
+01:15:48,230 --> 01:15:52,481
+returning any variables we’ll just put void
+to signify this type of function will not
+
+1015
+01:15:52,481 --> 01:15:57,820
+be returning anything. Finally, you put the
+function name after those two identifiers
+
+1016
+01:15:57,820 --> 01:16:02,380
+along with a set of parentheses after it like
+so. The parenthesis are where your arguments
+
+1017
+01:16:02,380 --> 01:16:06,630
+would go if you were making a function that
+took in arguments, but since for our first
+
+1018
+01:16:06,630 --> 01:16:11,050
+type of function we’re not incorporating
+arguments into this function, let's just leave
+
+1019
+01:16:11,050 --> 01:16:17,710
+that blank. All of that is just for Java;
+Python on the other hand all you do is put
+
+1020
+01:16:17,710 --> 01:16:23,420
+def, short for define, and then the function
+name with a set of parenthesis. So as you
+
+1021
+01:16:23,420 --> 01:16:29,000
+can see, each language is going to be different,
+but the main thing we want to remember is
+
+1022
+01:16:29,000 --> 01:16:34,420
+to always add parentheses. From there, we
+just type what we want our void function to
+
+1023
+01:16:34,420 --> 01:16:38,700
+do within the confines of the function and
+then close off the loop and we’re done,
+
+1024
+01:16:38,700 --> 01:16:42,400
+easy peasy. In Java, the confines of the loop
+would be whatever is contained within the
+
+1025
+01:16:42,400 --> 01:16:47,980
+curly brackets, and in python it would be
+until you are no longer indented. At its core,
+
+1026
+01:16:47,980 --> 01:16:51,520
+this is the most primitive type of function
+we’ve just made. Something which takes in
+
+1027
+01:16:51,520 --> 01:16:56,420
+no arguments and returns no values, quite
+similar to the printStats function from earlier
+
+1028
+01:16:56,420 --> 01:16:58,370
+on.
+
+1029
+01:16:58,370 --> 01:17:03,080
+Moving on to the next type of function, creating
+a void function that takes in arguments. Now
+
+1030
+01:17:03,080 --> 01:17:08,370
+this process is going to seem very similar
+to the previous except for one small adjustment.
+
+1031
+01:17:08,370 --> 01:17:12,420
+Remember the parenthesis that I mentioned
+like 30 seconds ago, well we put any variables
+
+1032
+01:17:12,420 --> 01:17:17,610
+we want the user to pass into the function
+into these parenthesis, and then when we “call”
+
+1033
+01:17:17,610 --> 01:17:22,791
+that specific function, it will be required
+to have those variables passed into it. For
+
+1034
+01:17:22,791 --> 01:17:26,980
+example, in Java, let’s make a function
+that takes in 2 numbers and prints out the
+
+1035
+01:17:26,980 --> 01:17:32,360
+product of those numbers. We start with the
+public void plus name of function setup since
+
+1036
+01:17:32,360 --> 01:17:37,770
+again, we won’t be returning any values.
+And now comes the new part. Inside the parenthesis,
+
+1037
+01:17:37,770 --> 01:17:43,530
+you define which type of variables you want
+to pass in as arguments, in this case an integer,
+
+1038
+01:17:43,530 --> 01:17:48,210
+and then a name for that variable. This name
+is what you will use to refer to the integer
+
+1039
+01:17:48,210 --> 01:17:54,000
+the user passed in. For this example let’s
+just call it num1. Then if we want to add
+
+1040
+01:17:54,000 --> 01:17:58,570
+another argument, we simply add a comma in
+between the two and we can make another integer
+
+1041
+01:17:58,570 --> 01:18:03,840
+variable num2 to hold the second number. We
+could do this for however many variables we
+
+1042
+01:18:03,840 --> 01:18:08,190
+want to pass into the function, but for now
+let’s close off the parenthesis and just
+
+1043
+01:18:08,190 --> 01:18:14,280
+print the product of num1 and num2. As you
+can see, we refer to the two numbers the user
+
+1044
+01:18:14,280 --> 01:18:19,720
+will input to the function as num1 and num2.
+
+1045
+01:18:19,720 --> 01:18:29,400
+Now, whenever we want to call the multiplyNumbers
+function, we just have to make sure that we
+
+1046
+01:18:29,400 --> 01:18:34,570
+are putting 2 numbers in as arguments. In
+this case the number 5 becomes num1, and the
+
+1047
+01:18:34,570 --> 01:18:39,880
+number 8 becomes num2. From there we simply
+run the code and the number 40 is printed
+
+1048
+01:18:39,880 --> 01:18:44,590
+to the console. It’s important to note that
+you can also mix and match variables when
+
+1049
+01:18:44,590 --> 01:18:50,500
+making arguments. So you can have someFunction
+which takes in a char, an integer, and two
+
+1050
+01:18:50,500 --> 01:18:54,140
+strings all within one function. Pretty neat
+in my opinion. The last thing I want to mention
+
+1051
+01:18:54,140 --> 01:18:58,780
+about arguments is that when you call a function
+you have to follow the variables you defined
+
+1052
+01:18:58,780 --> 01:19:03,680
+when making the function. So for our multiplyNumbers
+function you couldn’t put in a string and
+
+1053
+01:19:03,680 --> 01:19:08,400
+then an int. It HAS to be two integers because
+that’s what the computer is expecting to
+
+1054
+01:19:08,400 --> 01:19:11,310
+be passed into the function.
+
+1055
+01:19:11,310 --> 01:19:14,710
+So now that we’ve gone over how to make
+functions that don’t return variables, we
+
+1056
+01:19:14,710 --> 01:19:18,630
+have to cover those that do, and we’ll start
+with ones that don’t take in arguments.
+
+1057
+01:19:18,630 --> 01:19:23,420
+Now the main difference between defining functions
+that return variables and defining ones that
+
+1058
+01:19:23,420 --> 01:19:29,060
+do not is that in some cases you have to specify
+that you want this function to return an integer
+
+1059
+01:19:29,060 --> 01:19:34,100
+variable, this is most commonly used in Java,
+where you would replace “void” with “int”
+
+1060
+01:19:34,100 --> 01:19:38,210
+to tell the computer that you want this function
+to give something back to you in the form
+
+1061
+01:19:38,210 --> 01:19:44,070
+of an integer. This works the same as if you
+wanted to return a string, char, or even an
+
+1062
+01:19:44,070 --> 01:19:49,460
+array. You simply replace the word after public
+with whatever variable you want to be returned
+
+1063
+01:19:49,460 --> 01:19:51,330
+by the function.
+
+1064
+01:19:51,330 --> 01:19:55,330
+The most important thing to remember about
+making functions that return variables is
+
+1065
+01:19:55,330 --> 01:19:59,881
+that no matter what path your code takes,
+it MUST return a variable NO MATTER WHAT.
+
+1066
+01:19:59,881 --> 01:20:05,250
+What does this mean? Well let’s say you
+had some String function in a game and inside
+
+1067
+01:20:05,250 --> 01:20:09,440
+of it there was an if statement where if the
+player score was above a 10, you returned
+
+1068
+01:20:09,440 --> 01:20:14,250
+a congratulatory message. This works fine
+if you print the result of this function and
+
+1069
+01:20:14,250 --> 01:20:18,920
+the player’s score is above 10. But, if
+the playerScore was less than 10 then you
+
+1070
+01:20:18,920 --> 01:20:22,220
+don’t enter the if statement and then you
+don’t have something prepared to be returned
+
+1071
+01:20:22,220 --> 01:20:26,969
+to the user and so the function is going to
+throw you an error. You HAVE to have all your
+
+1072
+01:20:26,969 --> 01:20:31,340
+paths covered which may seem simple, but if
+you’re making a function with a switch statement
+
+1073
+01:20:31,340 --> 01:20:36,840
+in it containing high amounts of cases, this
+can get out of hand quickly. Something I like
+
+1074
+01:20:36,840 --> 01:20:40,540
+to do just to make sure this doesn’t happen
+is put a return statement at the bottom of
+
+1075
+01:20:40,540 --> 01:20:44,760
+the function with a string or an integer so
+unique that I’m able to tell that the code
+
+1076
+01:20:44,760 --> 01:20:57,650
+is not running properly and can fix it. The
+main point I’m trying to get across however,
+
+1077
+01:20:57,650 --> 01:21:02,170
+is always cover your exits and always have
+a return statement prepared for any case the
+
+1078
+01:21:02,170 --> 01:21:03,960
+user may throw at you.
+
+1079
+01:21:03,960 --> 01:21:07,870
+Another small thing to note is that you can’t
+return one type of variable if you have already
+
+1080
+01:21:07,870 --> 01:21:12,660
+defined the function to return another type.
+For example you can’t return a string in
+
+1081
+01:21:12,660 --> 01:21:17,969
+an integer function or vice versa. The return
+statement must always match the type of function
+
+1082
+01:21:17,969 --> 01:21:19,520
+no matter what.
+
+1083
+01:21:19,520 --> 01:21:24,239
+The final type of function is one that returns
+variables and also takes in arguments, and
+
+1084
+01:21:24,239 --> 01:21:28,390
+for these all you need to do is combine what
+we’ve learned from the previous cases. First,
+
+1085
+01:21:28,390 --> 01:21:33,770
+you assign your arguments in between the parenthesis,
+making sure you have also defined what variable
+
+1086
+01:21:33,770 --> 01:21:38,960
+you want to return, and then ensure that no
+matter what path the code takes that you are
+
+1087
+01:21:38,960 --> 01:21:44,271
+always returning that variable type. That
+concludes our discussion on functions. As
+
+1088
+01:21:44,271 --> 01:21:48,770
+you can probably tell, functions are an extremely
+vast subject area and require a little bit
+
+1089
+01:21:48,770 --> 01:21:53,630
+of practice to fully understand, which is
+why later on we’ll recommend some websites
+
+1090
+01:21:53,630 --> 01:21:58,790
+you can use to practice these more difficult
+topics.
+
+1091
+01:21:58,790 --> 01:22:03,010
+Now I’d like to switch gears a little bit
+and continue our discussion from earlier on
+
+1092
+01:22:03,010 --> 01:22:09,810
+arrays. Arrays, while useful, aren’t the
+only way to store and manipulate information.
+
+1093
+01:22:09,810 --> 01:22:14,790
+In fact, there are a multitude of different
+ways to store data in computer science including
+
+1094
+01:22:14,790 --> 01:22:21,260
+LinkedLists, Stacks, Queue’s, Maps, Trees,
+and many others too.
+
+1095
+01:22:21,260 --> 01:22:26,680
+Right now; though, I’d like to talk about
+2 cool, wacky and zany ways to store data
+
+1096
+01:22:26,680 --> 01:22:32,320
+that we haven’t previously covered: ArrayLists
+and dictionaries. But before we get into those,
+
+1097
+01:22:32,320 --> 01:22:35,910
+let’s get a little review/reinforcement
+of array’s.
+
+1098
+01:22:35,910 --> 01:22:40,580
+As you may remember, arrays are basically
+lists of values that are stored together.
+
+1099
+01:22:40,580 --> 01:22:45,310
+When you initialize an array, you give it
+a size, and this size is fixed. You won’t
+
+1100
+01:22:45,310 --> 01:22:48,630
+be able to increase the size of the array,
+so when you make an array, it’s length is
+
+1101
+01:22:48,630 --> 01:22:54,350
+final. To access the values in an array, you
+reference them using an index which starts
+
+1102
+01:22:54,350 --> 01:23:00,489
+at 0. What this means is that the first item
+of an array is not at position 1, it is at
+
+1103
+01:23:00,489 --> 01:23:06,010
+position 0, and it’s position is commonly
+referred to as it’s index location. So,
+
+1104
+01:23:06,010 --> 01:23:12,720
+to find the nth item in an array, you would
+refer to it as index location [n-1]. However,
+
+1105
+01:23:12,720 --> 01:23:16,310
+as the size of an array is fixed, you have
+to be careful to not reference a position
+
+1106
+01:23:16,310 --> 01:23:21,560
+that is beyond the total size of the array,
+or append too many items to it, as this will
+
+1107
+01:23:21,560 --> 01:23:26,110
+return an error. We also have what are known
+as two-dimensional arrays,
+
+1108
+01:23:26,110 --> 01:23:30,700
+which is an array containing an array at each
+of its indexes. Or, you could have an array
+
+1109
+01:23:30,700 --> 01:23:34,880
+containing arrays containing arrays containing
+arrays containing arrays, depending one what
+
+1110
+01:23:34,880 --> 01:23:39,070
+you’re trying to do. Multidimensional arrays
+can be useful in more advanced programs for
+
+1111
+01:23:39,070 --> 01:23:44,120
+organizing a wide volume of related values.
+If that’s confusing at all, skip back to
+
+1112
+01:23:44,120 --> 01:23:48,950
+earlier for our full discussion on Array’s,
+the time-stamp will be in the description.
+
+1113
+01:23:48,950 --> 01:23:53,920
+Now that we’ve reviewed array’s, let's
+go over array lists. Array lists (or just
+
+1114
+01:23:53,920 --> 01:23:57,230
+lists, in Python) can be thought of as a growing
+array.
+
+1115
+01:23:57,230 --> 01:24:01,860
+Earlier, we mentioned how you have to be careful
+to set an appropriate size of your array and
+
+1116
+01:24:01,860 --> 01:24:06,450
+make sure to only reference and append values
+such that you remain within the size of the
+
+1117
+01:24:06,450 --> 01:24:11,670
+array. However, with array lists, this isn’t
+a problem. After you initialize an arrayList,
+
+1118
+01:24:11,670 --> 01:24:16,760
+it instinctively has a size of 10, but if
+you append a values such that the size of
+
+1119
+01:24:16,760 --> 01:24:21,650
+the arrayList goes beyond 10 elements, an
+arrayList will “grow” itself, meaning
+
+1120
+01:24:21,650 --> 01:24:25,940
+that the computer will allocate more memory
+to the array to increase its total size so
+
+1121
+01:24:25,940 --> 01:24:29,960
+that the new values can be appended. This
+is quite useful when you don’t know the
+
+1122
+01:24:29,960 --> 01:24:34,800
+exact number of values that the array will
+need to store, or want the ability to store
+
+1123
+01:24:34,800 --> 01:24:38,810
+values to your heart’s content, such as
+making a database with an unknown amount of
+
+1124
+01:24:38,810 --> 01:24:40,280
+user’s that will sign up.
+
+1125
+01:24:40,280 --> 01:24:44,450
+There is a lot more to uncover when regarding
+arrayLists, but for this surface-level series,
+
+1126
+01:24:44,450 --> 01:24:48,840
+that is all you pretty much need to know,
+so let’s move on to dictionaries.
+
+1127
+01:24:48,840 --> 01:24:52,739
+Now when we talk about dictionaries, we’re
+not referencing that thick book you probably
+
+1128
+01:24:52,739 --> 01:24:57,739
+have lying around your house which has thousands
+of definitions. In computer science, dictionaries
+
+1129
+01:24:57,739 --> 01:25:02,340
+are like arrays, in that they store multiple
+values, however their values are stored very
+
+1130
+01:25:02,340 --> 01:25:06,360
+differently. Rather than being referenced
+by their position within the dictionary linearly,
+
+1131
+01:25:06,360 --> 01:25:10,981
+each value is tied to another value that is
+used to reference it, or its “key”. Because
+
+1132
+01:25:10,981 --> 01:25:15,250
+of this, we need to throw away all conceptions
+of dictionaries as a linear way of looking
+
+1133
+01:25:15,250 --> 01:25:21,469
+at data, since in actuality it is much more
+fluid and interchanging. Basically, we say
+
+1134
+01:25:21,469 --> 01:25:26,590
+that each position in a dictionary holds a
+key/value pair. When referencing a value in
+
+1135
+01:25:26,590 --> 01:25:31,190
+a dictionary, you will use it’s unique key,
+and the dictionary will tell you the value
+
+1136
+01:25:31,190 --> 01:25:36,060
+that is tied to it. Think of it like this,
+each time you add an item to your dictionary,
+
+1137
+01:25:36,060 --> 01:25:40,870
+your computer creates a handcrafted box to
+store the data, and also custom-makes a jeweled
+
+1138
+01:25:40,870 --> 01:25:46,390
+key, one of a kind, no other like it in the
+world. This way, there is only one key that
+
+1139
+01:25:46,390 --> 01:25:51,550
+goes to the box that stores a certain bit
+of information. Because each key must be unique,
+
+1140
+01:25:51,550 --> 01:25:55,430
+reusing a key in a dictionary will result
+in an error being thrown because having two
+
+1141
+01:25:55,430 --> 01:26:00,739
+keys that are exactly the same would confuse
+the computer as to what box, or bit of information,
+
+1142
+01:26:00,739 --> 01:26:05,860
+that key leads to. However, you can store
+the same value in multiple key/value pairs,
+
+1143
+01:26:05,860 --> 01:26:08,400
+since the keys would all be different.
+
+1144
+01:26:08,400 --> 01:26:13,040
+Now like I said, dictionaries are more fluid,
+making them easier to organize than arrays,
+
+1145
+01:26:13,040 --> 01:26:17,980
+as everything is set up in a more logical
+manner. That is to say, it is easier to find
+
+1146
+01:26:17,980 --> 01:26:22,330
+the value you are looking for when you are
+using keys rather than simply referencing
+
+1147
+01:26:22,330 --> 01:26:27,230
+their positions. Let me explain what I mean.
+Imagine you have a dictionary of prices at
+
+1148
+01:26:27,230 --> 01:26:31,670
+a store where the key is the name of the product
+and the value is the price of the item. Maybe
+
+1149
+01:26:31,670 --> 01:26:36,790
+apples cost 1 dollars, milk costs 2 dollars,
+and bread costs 3 dollars. You can see that
+
+1150
+01:26:36,790 --> 01:26:41,520
+in the dictionary, each key is the name of
+a product, and each key corresponds to the
+
+1151
+01:26:41,520 --> 01:26:45,590
+price of each product. So to find the price
+of bread, all you need to do is simply call
+
+1152
+01:26:45,590 --> 01:26:48,390
+the dictionary using the key “bread”,
+and the dictionary would return the value
+
+1153
+01:26:48,390 --> 01:26:51,960
+1. This makes it extremely easy to track values
+through your code since you’re working with
+
+1154
+01:26:51,960 --> 01:26:55,840
+tangible values rather than numbers which
+don’t mean anything to you.
+
+1155
+01:26:55,840 --> 01:27:00,280
+You can also manipulate dictionaries in many
+the same ways you can manipulate arrays and
+
+1156
+01:27:00,280 --> 01:27:04,610
+array lists. You can iterate through a dictionary
+and perform many operations and comparisons
+
+1157
+01:27:04,610 --> 01:27:09,170
+on the values. If you want to find the product
+with the highest price, for example, you can
+
+1158
+01:27:09,170 --> 01:27:12,820
+iterate through the dictionary to find the
+value that is the highest amongst the grocery
+
+1159
+01:27:12,820 --> 01:27:13,910
+store items.
+
+1160
+01:27:13,910 --> 01:27:18,800
+Arrays, arraylists, and dictionaries are useful
+in their own right, as are the mass amounts
+
+1161
+01:27:18,800 --> 01:27:23,940
+of other ways to store data, and each boast
+certain advantages over one another. We already
+
+1162
+01:27:23,940 --> 01:27:28,420
+covered the basics of 3, but since there are
+so many, we don’t have time to go in-depth
+
+1163
+01:27:28,420 --> 01:27:32,330
+into each and every one of them, and so in
+order to help you grasp the basics of storing
+
+1164
+01:27:32,330 --> 01:27:35,550
+information, we’re now going to talk about
+one of the most important functions needed
+
+1165
+01:27:35,550 --> 01:27:38,770
+to understand arrays, which are searching
+algorithms.
+
+1166
+01:27:38,770 --> 01:27:43,130
+Now, just as there are many ways to store
+information in computer science, there are
+
+1167
+01:27:43,130 --> 01:27:47,680
+even more ways of searching through lists.
+Searching algorithms at their core are ways
+
+1168
+01:27:47,680 --> 01:27:52,040
+in which we can look through a list of values
+stored in an array, say a patient name list
+
+1169
+01:27:52,040 --> 01:27:57,590
+or a high score list, and find a particular
+piece of data. The goal of a searching algorithm
+
+1170
+01:27:57,590 --> 01:28:02,300
+is to simply give the algorithm a string or
+object you want it to find and return the
+
+1171
+01:28:02,300 --> 01:28:07,880
+index of the array that contains that string
+or object as fast as possible. Now this may
+
+1172
+01:28:07,880 --> 01:28:11,750
+seem simple, but lots of software runs on
+the backbone of being able to search through
+
+1173
+01:28:11,750 --> 01:28:17,300
+lists extremely quickly, making searching
+algorithms, and in particular efficient searching
+
+1174
+01:28:17,300 --> 01:28:22,520
+algorithms, an important topic to cover. Additionally,
+this is the main functionality that arrays
+
+1175
+01:28:22,520 --> 01:28:27,390
+are used for and is the backbone of many of
+the methods used with arrayLists as well as
+
+1176
+01:28:27,390 --> 01:28:32,450
+many other storage methods, so knowing them
+will take you a very long way.
+
+1177
+01:28:32,450 --> 01:28:36,910
+Typically searching algorithms are used to
+return the index of a particular data point
+
+1178
+01:28:36,910 --> 01:28:42,280
+so that it can be used, modified, updated
+or checked on. For example, if you are about
+
+1179
+01:28:42,280 --> 01:28:46,910
+to check into a hospital run on an array system
+for patients, the staff must search for your
+
+1180
+01:28:46,910 --> 01:28:51,070
+name in the database and by returning the
+index of where your name is, they now have
+
+1181
+01:28:51,070 --> 01:28:56,050
+a quantifiable number that they can use to
+easily check you in, rent out prescriptions,
+
+1182
+01:28:56,050 --> 01:29:00,510
+schedule you for checkups, update your personal
+information, etc. without having to search
+
+1183
+01:29:00,510 --> 01:29:03,900
+through the list for your name every time.
+
+1184
+01:29:03,900 --> 01:29:07,420
+You may think that there is little difference
+between searching algorithms, since computers
+
+1185
+01:29:07,420 --> 01:29:12,420
+nowadays can perform millions of calculations
+per second, but when you’re a huge multi-billion
+
+1186
+01:29:12,420 --> 01:29:16,739
+dollar corporation trying to find a certain
+data point in a list containing thousands
+
+1187
+01:29:16,739 --> 01:29:21,860
+or even millions of data points, small differences
+in efficiency are going to make or break the
+
+1188
+01:29:21,860 --> 01:29:27,070
+user experience. Even a 1% improvement in
+efficiency can mean big differences in the
+
+1189
+01:29:27,070 --> 01:29:30,969
+amount of time a user is waiting for a simple
+task.
+
+1190
+01:29:30,969 --> 01:29:34,860
+Now before we jump into different types of
+searching algorithms, we must discern between
+
+1191
+01:29:34,860 --> 01:29:40,430
+the two states that arrays or lists can be
+in, either sorted or unsorted. A sorted list
+
+1192
+01:29:40,430 --> 01:29:45,739
+of information is characterized by some sort
+of rankable value, whether that be a patient
+
+1193
+01:29:45,739 --> 01:29:52,370
+ID, credit card number, or even by alphabetical
+values like username’s or legal names. An
+
+1194
+01:29:52,370 --> 01:29:56,930
+unsorted list is just some random assortment
+of related information, not sorted by any
+
+1195
+01:29:56,930 --> 01:30:02,571
+particular order or reason. Some searching
+algorithms only work for sorted lists, usually
+
+1196
+01:30:02,571 --> 01:30:08,070
+the more efficient ones, and some work for
+both sorted and unsorted lists, although these
+
+1197
+01:30:08,070 --> 01:30:11,841
+are usually less efficient. If you end up
+pursuing computer science further, you will
+
+1198
+01:30:11,841 --> 01:30:16,340
+have to deal with both sorted and unsorted
+lists, so it's good to know common searching
+
+1199
+01:30:16,340 --> 01:30:19,239
+practices for both
+
+1200
+01:30:19,239 --> 01:30:23,111
+Another thing to note is that we determine
+the efficiency of a searching algorithm based
+
+1201
+01:30:23,111 --> 01:30:29,160
+on both the worst case scenario and the average
+number of items it must search. We call this
+
+1202
+01:30:29,160 --> 01:30:33,910
+Big O notation, in which each searching algorithm
+has an equation which takes in the size of
+
+1203
+01:30:33,910 --> 01:30:38,989
+the array as an integer n, and will output
+an worst-case scenario efficiency value that
+
+1204
+01:30:38,989 --> 01:30:44,469
+we can use to compare with other searching
+algorithms. We can then also look at how long;
+
+1205
+01:30:44,469 --> 01:30:49,110
+on average, it takes to find an element in
+a list. Using these two methods allows us
+
+1206
+01:30:49,110 --> 01:30:54,360
+to easily compare how efficient two algorithms
+are. Alright, now that we’ve got some background
+
+1207
+01:30:54,360 --> 01:30:57,900
+on searching, let’s hop right into it.
+
+1208
+01:30:57,900 --> 01:31:01,480
+The first type of search we’ll be talking
+about is called a linear search and you’ve
+
+1209
+01:31:01,480 --> 01:31:05,180
+honestly probably used this multiple times
+throughout your life. Every time you have
+
+1210
+01:31:05,180 --> 01:31:09,160
+to search for your name on a list of people
+you probably follow the same pattern. You
+
+1211
+01:31:09,160 --> 01:31:14,180
+start at the top, check to see if the first
+name on the list is yours, if it is. Great.
+
+1212
+01:31:14,180 --> 01:31:18,300
+If not, you move on to the next name on the
+list until either you find your name, or you
+
+1213
+01:31:18,300 --> 01:31:23,430
+don’t in which case you leave. A linear
+search works the same way, you start with
+
+1214
+01:31:23,430 --> 01:31:27,360
+the first element in the list, compare it
+to the value that you’re trying to find,
+
+1215
+01:31:27,360 --> 01:31:31,570
+and if they’re the same you’ve found your
+match and return the index of that element,
+
+1216
+01:31:31,570 --> 01:31:35,610
+and if not you move on to the next element
+in the list until you either find the thing
+
+1217
+01:31:35,610 --> 01:31:40,360
+you’re searching for or you run out of list
+to check. Seems pretty simple right? This
+
+1218
+01:31:40,360 --> 01:31:44,360
+is because linear searches are pretty bad
+when it comes to efficiency, especially in
+
+1219
+01:31:44,360 --> 01:31:49,050
+the worst case scenario. If the item you’re
+searching for in the list is the last element,
+
+1220
+01:31:49,050 --> 01:31:53,320
+you’re going to have to check the entire
+list of items before you find the one you’re
+
+1221
+01:31:53,320 --> 01:31:57,260
+searching for. On average; however, you’re
+going to get it about halfway through the
+
+1222
+01:31:57,260 --> 01:32:03,260
+list. This makes the linear search O(n) worst-case
+scenario, since in the worst possible case
+
+1223
+01:32:03,260 --> 01:32:08,260
+it will take the entire length of the array,
+or n, to find the correct value. The linear
+
+1224
+01:32:08,260 --> 01:32:15,280
+search on average will return the correct
+index in O(n/2) or halfway through the list.
+
+1225
+01:32:15,280 --> 01:32:19,640
+The linear search is great; however, since
+it can work with both sorted and unsorted
+
+1226
+01:32:19,640 --> 01:32:25,100
+lists, because of the fact that it will eventually
+cover every element in the list. The other
+
+1227
+01:32:25,100 --> 01:32:29,130
+search we’ll cover requires the list to
+be sorted which may seem like a drawback,
+
+1228
+01:32:29,130 --> 01:32:33,210
+but having a sorted list allows you to use
+algorithms that are far more efficient than
+
+1229
+01:32:33,210 --> 01:32:37,631
+the linear search. So overall, the linear
+search is a good basic searching algorithm
+
+1230
+01:32:37,631 --> 01:32:42,040
+for if you have an unsorted list, but if your
+list is sorted, there are way more efficient
+
+1231
+01:32:42,040 --> 01:32:47,330
+options out there for you, such as the binary
+search which we’ll be talking about now.
+
+1232
+01:32:47,330 --> 01:32:51,890
+The binary search uses a recursive process
+to break the data in your list down into more
+
+1233
+01:32:51,890 --> 01:32:56,070
+and more manageable bytes, taking advantage
+of the fact that it’s sorted, in order to
+
+1234
+01:32:56,070 --> 01:33:00,230
+find the item you’re looking for faster.
+This one is much harder to wrap your head
+
+1235
+01:33:00,230 --> 01:33:06,880
+around so let’s start with an example. Let’s
+say you have a list of 10 names sorted alphabetically,
+
+1236
+01:33:06,880 --> 01:33:11,930
+like shown on the screen now, and you wanted
+to find your name within that list. In binary
+
+1237
+01:33:11,930 --> 01:33:17,270
+search you would first look for the middle-most
+name, in this case the one at the 4th index.
+
+1238
+01:33:17,270 --> 01:33:24,270
+Just a quick aside, since there is no “true”
+middle, the computer automatically uses the
+
+1239
+01:33:24,270 --> 01:33:29,910
+next one down as the “middle” value. Now,
+once you find your middle value, you first
+
+1240
+01:33:29,910 --> 01:33:36,190
+check to see if the name you’re searching
+for at the index you’ve chosen, if it is
+
+1241
+01:33:36,190 --> 01:33:42,989
+you simply return that index, but 99.9% of
+the time it’s not including right now, so
+
+1242
+01:33:42,989 --> 01:33:48,521
+let’s keep going. If the value at the middle
+index is NOT equal to the one you’re searching
+
+1243
+01:33:48,521 --> 01:33:54,250
+for, you check to see if the value you’re
+searching comes before or after the middle
+
+1244
+01:33:54,250 --> 01:33:59,140
+index. For example, if you were looking for
+the name Brendan and the value at the middle
+
+1245
+01:33:59,140 --> 01:34:05,920
+index was Carl; Brendan obviously comes before
+matthew alphabetically and since we know the
+
+1246
+01:34:05,920 --> 01:34:10,980
+list is sorted, what we can do now is ignore
+the entire bottom half of the list and just
+
+1247
+01:34:10,980 --> 01:34:15,480
+focus on the top, since we know that if Brendan
+is even in the list, it’s going to be in
+
+1248
+01:34:15,480 --> 01:34:21,190
+that top half. Now, we simply treat the top
+half of the list as an entirely new entity
+
+1249
+01:34:21,190 --> 01:34:26,050
+and repeat the process over again. Again,
+we would find the middle-most element of this
+
+1250
+01:34:26,050 --> 01:34:30,430
+new list of names and again compare it to
+the name you’re trying to find. If it’s
+
+1251
+01:34:30,430 --> 01:34:34,760
+the name we’re trying to find, we return
+that index, but if not we compare to see if
+
+1252
+01:34:34,760 --> 01:34:39,900
+it comes before or after the middle index.
+Going back to our example, let’s say the
+
+1253
+01:34:39,900 --> 01:34:46,150
+middle index of this new list is AJ. Now,
+we know that Brendan comes AFTER AJ alphabetically
+
+1254
+01:34:46,150 --> 01:34:52,390
+so we can now ignore the top half of the list
+since we know that Brendan is going to be
+
+1255
+01:34:52,390 --> 01:34:58,400
+in the top of our list. Now we repeat this
+process again and again until we find the
+
+1256
+01:34:58,400 --> 01:35:03,090
+name we are looking for. So for our example,
+the middle index this time is Brendan, and
+
+1257
+01:35:03,090 --> 01:35:09,510
+that’s what we’re searching for so we
+finally would return index 2. In binary search,
+
+1258
+01:35:09,510 --> 01:35:14,000
+eventually the index we compare to our search
+term will be the same and once it is, we can
+
+1259
+01:35:14,000 --> 01:35:18,920
+return the index and move on. Now if we don’t
+find it, which happens after we have eliminated
+
+1260
+01:35:18,920 --> 01:35:23,460
+the entirety of the list without finding our
+search term, the algorithm will simply return
+
+1261
+01:35:23,460 --> 01:35:27,430
+a null value to let you know that the item
+you’re searching for cannot be found in
+
+1262
+01:35:27,430 --> 01:35:33,180
+the list. The binary search is way faster
+and more efficient than the linear search
+
+1263
+01:35:33,180 --> 01:35:37,670
+since we are drastically cutting down the
+amount of elements we have to look at, making
+
+1264
+01:35:37,670 --> 01:35:44,190
+the program run faster. In almost 99.9% of
+cases in which your list is sorted, the binary
+
+1265
+01:35:44,190 --> 01:35:49,430
+search is going to return a result faster
+than the linear search, so if you have a sorted
+
+1266
+01:35:49,430 --> 01:35:55,620
+list, your best option is to go binary. As
+for efficiency, the binary search is O(log
+
+1267
+01:35:55,620 --> 01:36:00,320
+n) for the worst case scenario which can be
+confusing if you don’t fully understand
+
+1268
+01:36:00,320 --> 01:36:04,699
+logarithms, but all you need to know is that
+it is way more efficient than the linear search.
+
+1269
+01:36:04,699 --> 01:36:10,540
+It’s average scenario is actually also O(log
+n) as well, which again is infinitely times
+
+1270
+01:36:10,540 --> 01:36:12,840
+more efficient than linear.
+
+1271
+01:36:12,840 --> 01:36:17,670
+Now, while there are other types of searching
+algorithms you can use, these two are the
+
+1272
+01:36:17,670 --> 01:36:23,300
+most common for both unsorted and sorted lists,
+so we will stop there for now. Up next, we’re
+
+1273
+01:36:23,300 --> 01:36:28,070
+going to be covering one of the most confusing
+and important topics in computer science,
+
+1274
+01:36:28,070 --> 01:36:29,610
+recursion.
+
+1275
+01:36:29,610 --> 01:36:36,750
+Let’s start with the most important question:
+what exactly does recursion mean? In programming,
+
+1276
+01:36:36,750 --> 01:36:41,130
+recursion refers to functions that repeatedly
+call themselves. Meaning, that in the instructions
+
+1277
+01:36:41,130 --> 01:36:45,469
+that occur within a function, one of the instructions
+will be a call to that same function you’re
+
+1278
+01:36:45,469 --> 01:36:50,620
+already in.In the extremely primitive example
+on your screen now, you can see we have some
+
+1279
+01:36:50,620 --> 01:36:55,560
+function which, in the confines of itself,
+calls itself. A recursive function will usually
+
+1280
+01:36:55,560 --> 01:37:00,770
+take into account some integer as an argument,
+and will use this to carry out some instructions,
+
+1281
+01:37:00,770 --> 01:37:04,469
+modifying the integer that was entered, before
+calling itself again with that new integer
+
+1282
+01:37:04,469 --> 01:37:05,840
+as its argument.
+
+1283
+01:37:05,840 --> 01:37:10,090
+To better understand these functions, let’s
+discuss the basics of how we go about programming
+
+1284
+01:37:10,090 --> 01:37:12,890
+one of these recursive functions and create
+one ourselves. A really good easy example
+
+1285
+01:37:12,890 --> 01:37:17,781
+of a recursive function is one which sums
+all numbers from 1 to n, so let’s make a
+
+1286
+01:37:17,781 --> 01:37:21,930
+recursive function that does just that. The
+first thing we need is the actual function,
+
+1287
+01:37:21,930 --> 01:37:26,750
+and we’re going to make it an integer function
+which takes in an integer n as an argument.
+
+1288
+01:37:26,750 --> 01:37:31,440
+The reason we do this will be explained later
+but for now let’s move on to the base case.
+
+1289
+01:37:31,440 --> 01:37:35,861
+A base case is simply a definite value which
+all recursive statements, the ones that are
+
+1290
+01:37:35,861 --> 01:37:40,410
+being repeatedly called as we go through the
+function, try to get towards. At the beginning
+
+1291
+01:37:40,410 --> 01:37:44,030
+of the function, we test the value that was
+passed in by the argument against the base
+
+1292
+01:37:44,030 --> 01:37:48,570
+case to see if it is satisfied. Usually, these
+base cases are some requirements, like if
+
+1293
+01:37:48,570 --> 01:37:53,440
+n, as I described before, reaches a certain
+value or is equal to a certain value.
+
+1294
+01:37:53,440 --> 01:37:59,590
+It is extremely important that the base case
+is set to some requirement that n will eventually
+
+1295
+01:37:59,590 --> 01:38:05,300
+meet for the same reason that it is important
+to avoid infinite loop: we do not want a stack
+
+1296
+01:38:05,300 --> 01:38:11,010
+overflow error to occur. For example, if our
+base case was to stop calling the recursive
+
+1297
+01:38:11,010 --> 01:38:16,320
+function when n was greater than 100, and
+if it is not, we call the function again but
+
+1298
+01:38:16,320 --> 01:38:22,390
+with n-1, and we started with n as 99, we
+would never reach the base case and the recursive
+
+1299
+01:38:22,390 --> 01:38:26,340
+function will repeatedly call itself over
+and over and over again, subtracting 1 from
+
+1300
+01:38:26,340 --> 01:38:32,160
+n and hoping that somehow it will eventually
+be greater than 100 until your computer crashes,
+
+1301
+01:38:32,160 --> 01:38:38,380
+not fun. So anyways back to our recursive
+sum example, let’s make our base case when
+
+1302
+01:38:38,380 --> 01:38:43,969
+n is less than or equal to 1. This way, we
+can start at some positive integer n
+
+1303
+01:38:43,969 --> 01:38:49,600
+and subtract from it until it hits at or equal
+1, in which case we can exit the recursive
+
+1304
+01:38:49,600 --> 01:38:56,940
+statement. Cool. Now, if n is not less than
+or equal to 1, what we want to do is return
+
+1305
+01:38:56,940 --> 01:39:03,780
+the SUM of both n and then the returning value
+of our recursiveSum method minus 1. Why do
+
+1306
+01:39:03,780 --> 01:39:09,400
+we add n + the function call? Well let’s
+actually go through the function as if we
+
+1307
+01:39:09,400 --> 01:39:15,710
+were the computer and see why. We start with
+a call of recursiveSum with n = 3. We know
+
+1308
+01:39:15,710 --> 01:39:22,540
+that 3 is not less than or equal to 1 so now
+we try to return a recursive sum of n (which
+
+1309
+01:39:22,540 --> 01:39:27,040
+is 3) and the returning value of recursiveSum
+with an n of 2.
+
+1310
+01:39:27,040 --> 01:39:32,960
+We don’t KNOW what the returning value of
+recursiveSum with an n of 2 is so we have
+
+1311
+01:39:32,960 --> 01:39:40,100
+to go through the function again, only this
+time n is 2.Again n is not less than or equal
+
+1312
+01:39:40,100 --> 01:39:46,300
+to 1, and so this function will go into the
+else statement and return…2 plus ANOTHER
+
+1313
+01:39:46,300 --> 01:39:53,000
+recursive statement, in this case the returning
+value of recursiveSum with an n of 1. So once
+
+1314
+01:39:53,000 --> 01:39:57,420
+again we have to go through the recursiveSum
+function to get the value that will be added
+
+1315
+01:39:57,420 --> 01:40:04,400
+to 2 and then returned and added to 3 and
+then returned. Hang in there we’re close.
+
+1316
+01:40:04,400 --> 01:40:12,219
+Now in this function, n IS less than or equal
+to 1 and so we return n, which is 1.
+
+1317
+01:40:12,219 --> 01:40:18,660
+Now we take that n, which is 1, and that is
+what gets added to 2 in the previous function
+
+1318
+01:40:18,660 --> 01:40:25,390
+call and then returned, so this would return
+3. Now this 3 is what gets added to the first
+
+1319
+01:40:25,390 --> 01:40:33,160
+function call, which is three, and so it becomes
+three plus three which is 6. And FINALLY after
+
+1320
+01:40:33,160 --> 01:40:38,240
+all that time, we get 6 returned from the
+function. Which, if you’ve been following
+
+1321
+01:40:38,240 --> 01:40:45,699
+along at home, 3 + 2 + 1 is indeed 6. Now
+this may seem like a waste of time since 1
+
+1322
+01:40:45,699 --> 01:40:51,469
++ 2 +3 is not a hard operation. But to those
+of you saying that I ask you to please give
+
+1323
+01:40:51,469 --> 01:40:58,300
+me the sum of all numbers from 1 to 3,567.
+Godspeed. Now recursion is a VERY difficult
+
+1324
+01:40:58,300 --> 01:41:03,130
+concept to wrap your head around, so if you’re
+not 100% comfortable with it at the moment,
+
+1325
+01:41:03,130 --> 01:41:09,640
+please rewatch this section of the lecture
+to better familiarize yourself with it.
+
+1326
+01:41:09,640 --> 01:41:13,980
+Alright cool, now that we have a little background
+on recursion, let’s talk about why it works
+
+1327
+01:41:13,980 --> 01:41:19,780
+so well. Now to understand why and how recursion
+works, we must first understand what a stack
+
+1328
+01:41:19,780 --> 01:41:24,980
+is. A stack is a data structure that contains
+all of the tasks you instruct your program
+
+1329
+01:41:24,980 --> 01:41:29,710
+to complete. Based on a certain method, your
+program will then carry out the tasks you
+
+1330
+01:41:29,710 --> 01:41:30,710
+give it.
+
+1331
+01:41:30,710 --> 01:41:35,810
+It’s called a stack because if we call start
+another process before the previous one completes,
+
+1332
+01:41:35,810 --> 01:41:40,310
+the process is “stacked” on top of the
+other one such as the animation on your screen
+
+1333
+01:41:40,310 --> 01:41:45,330
+is showing now.
+Programs we write will follow the LIFO structure.
+
+1334
+01:41:45,330 --> 01:41:50,880
+For those unfamiliar with accounting, LIFO
+means last in first out, or the last item
+
+1335
+01:41:50,880 --> 01:41:56,219
+put on the stack will be the first one removed
+from it. Essentially, every time you ask your
+
+1336
+01:41:56,219 --> 01:42:01,100
+computer to complete a task, that task is
+added to the stack, and will be the first
+
+1337
+01:42:01,100 --> 01:42:06,010
+one to be resolved. Think of it like a stack
+of stones, you can keep adding stones on top
+
+1338
+01:42:06,010 --> 01:42:10,210
+of your pile, but in order to get to one near
+the bottom, you first have to remove all the
+
+1339
+01:42:10,210 --> 01:42:14,781
+rocks on top of it. Now when your function
+continually calls itself without end; without
+
+1340
+01:42:14,781 --> 01:42:20,760
+a base case, like in our infinite loop example
+then the stack will never be resolved, as
+
+1341
+01:42:20,760 --> 01:42:25,620
+items will be continually added to the stack
+without any of them ever being completed.
+
+1342
+01:42:25,620 --> 01:42:31,880
+In this case, the memory allocated to the
+stack is exceeded, and a stack overflow error
+
+1343
+01:42:31,880 --> 01:42:38,000
+occurs, resulting in your program crashing.
+Think of this as if you’re doing chores
+
+1344
+01:42:38,000 --> 01:42:42,160
+and before you complete one chore, you get
+called to do another chore, and then before
+
+1345
+01:42:42,160 --> 01:42:45,540
+you can complete that one you get called to
+do another one.
+
+1346
+01:42:45,540 --> 01:42:51,010
+Since you keep stacking tasks or chores on
+top of each other, the stack of tasks will
+
+1347
+01:42:51,010 --> 01:42:56,440
+never be completed and you will probably die
+before ever finishing any of your chores.
+
+1348
+01:42:56,440 --> 01:43:00,810
+This is the same logic that makes infinite
+loops crash your program. Recursion works
+
+1349
+01:43:00,810 --> 01:43:05,570
+on these same principles. The initial call
+makes a second call which is added to the
+
+1350
+01:43:05,570 --> 01:43:10,670
+stack, and now that one must be taken care
+of first, but in that one another function
+
+1351
+01:43:10,670 --> 01:43:15,910
+is called which gets added to the stack, and
+so on, until you reach the base case in which
+
+1352
+01:43:15,910 --> 01:43:19,080
+you slowly start going back down the stack.
+
+1353
+01:43:19,080 --> 01:43:24,840
+In conclusion, recursion in general is extremely
+useful because by calling the same functions
+
+1354
+01:43:24,840 --> 01:43:29,541
+repeatedly it breaks down the problem into
+smaller sections, and results in the program
+
+1355
+01:43:29,541 --> 01:43:35,340
+being more efficient. Small parts of problems
+are easier to solve and less taxing to compute
+
+1356
+01:43:35,340 --> 01:43:40,199
+than the entire problem at once, and the computer
+can combine these small solutions into the
+
+1357
+01:43:40,199 --> 01:43:42,910
+main solution in the end.
+
+1358
+01:43:42,910 --> 01:43:47,000
+Now as we wind down our introduction to programming
+series, we want to take some time and go over
+
+1359
+01:43:47,000 --> 01:43:51,440
+some of the soft skills needed to be a successful
+computer scientist since it’s not all about
+
+1360
+01:43:51,440 --> 01:43:56,220
+writing code. In fact, many professional computer
+scientists will tell you that the majority
+
+1361
+01:43:56,220 --> 01:44:01,220
+of their job is spent thinking about code
+rather than actually writing it. This is because
+
+1362
+01:44:01,220 --> 01:44:06,480
+much of programming boils down to problem
+solving. How do we optimize this system, how
+
+1363
+01:44:06,480 --> 01:44:10,370
+can we make this feature for our app? What
+type of movement do we want for our game and
+
+1364
+01:44:10,370 --> 01:44:12,130
+how can we program it?
+
+1365
+01:44:12,130 --> 01:44:15,980
+The harsh truth is that no good program has
+ever been written simply from the programmer
+
+1366
+01:44:15,980 --> 01:44:21,199
+getting the prompt or idea, sitting down,
+hopping on an IDE, and starting to write code.
+
+1367
+01:44:21,199 --> 01:44:25,940
+There are many tasks we should go through
+beforehand in order to plan out our code so
+
+1368
+01:44:25,940 --> 01:44:30,390
+we ensure that when the time comes to program,
+it’s a clean and easy process, and not riddled
+
+1369
+01:44:30,390 --> 01:44:35,199
+with mistakes and bugs. This is where pseudocode
+comes into play.
+
+1370
+01:44:35,199 --> 01:44:39,290
+Think of pseudocode like this, if you wanted
+to take a family trip to the grand canyon,
+
+1371
+01:44:39,290 --> 01:44:42,910
+would you simply hop in your car and drive
+off and figure things out later? No, because
+
+1372
+01:44:42,910 --> 01:44:48,280
+that would be ridiculous. Instead, you would
+spend some time planning out the trip, what
+
+1373
+01:44:48,280 --> 01:44:52,200
+sites or places do you want to visit? What
+hotel reservations are you going to have to
+
+1374
+01:44:52,200 --> 01:44:56,350
+make? What kind of things are you going to
+do when you get there? What routes or highways
+
+1375
+01:44:56,350 --> 01:45:00,030
+are you going to take and why? All of these
+things must be determined out before you can
+
+1376
+01:45:00,030 --> 01:45:04,330
+even think about hopping in your ford explorer.
+So how does this translate to pseudocode?
+
+1377
+01:45:04,330 --> 01:45:10,250
+Well, think of our family trip to the Grand
+Canyon as a program. Programmers use pseudocode,
+
+1378
+01:45:10,250 --> 01:45:15,280
+pseudo meaning not real, and code meaning,
+well, code, as a means to plan out their programs
+
+1379
+01:45:15,280 --> 01:45:20,900
+before they write them, just like how we planned
+our trip before going. They throw away syntax
+
+1380
+01:45:20,900 --> 01:45:25,630
+and naming conventions for variables and just
+focus on what they want the program to accomplish,
+
+1381
+01:45:25,630 --> 01:45:30,230
+and how they plan on doing that. Pseudocode
+is very similar to constructing an outline
+
+1382
+01:45:30,230 --> 01:45:34,600
+for a paper you’re writing. You write down
+the main topics of the essay and plan out
+
+1383
+01:45:34,600 --> 01:45:38,490
+your major talking points, but you don’t
+worry about the nitty gritty details of it
+
+1384
+01:45:38,490 --> 01:45:43,760
+all such as word choice, grammar conventions,
+and proper formatting. By doing this, we allow
+
+1385
+01:45:43,760 --> 01:45:48,110
+ourselves to think freely and not worry about
+stressing the small stuff. At least not yet.
+
+1386
+01:45:48,110 --> 01:45:53,750
+Alright, so now that we know WHAT pseudocode
+is, let's talk about HOW we write pseudocode.
+
+1387
+01:45:53,750 --> 01:45:57,230
+You see, the best part about pseudocode is
+that it can take the form of many different
+
+1388
+01:45:57,230 --> 01:46:01,470
+things for many different people. Each computer
+scientist probably has their own methodology
+
+1389
+01:46:01,470 --> 01:46:04,800
+for planning out their code, and since there
+are probably hundreds of different methods
+
+1390
+01:46:04,800 --> 01:46:10,180
+of writing pseudocode that are out there,
+today I’d like to focus on 3 popular ones
+
+1391
+01:46:10,180 --> 01:46:13,320
+that I think you might find to be extremely
+useful.
+
+1392
+01:46:13,320 --> 01:46:17,239
+The first of these are known as flowcharts,
+and mainly they can be used to think through
+
+1393
+01:46:17,239 --> 01:46:22,719
+the process of a particular function. A flowchart
+is fundamentally a graphical representation
+
+1394
+01:46:22,719 --> 01:46:28,020
+of a function and how it might flow. Many
+programmers do this, and lay out the conditional
+
+1395
+01:46:28,020 --> 01:46:32,010
+statements and loops they want as different
+blocks in the flow chart, connected by arrows
+
+1396
+01:46:32,010 --> 01:46:36,750
+and charting out every path of their function.
+From there, it’s extremely easy to create
+
+1397
+01:46:36,750 --> 01:46:40,440
+test cases and follow them throughout the
+flow of the function through the different
+
+1398
+01:46:40,440 --> 01:46:45,290
+blocks and arrows. For example, we could have
+a flowchart that goes something like this.
+
+1399
+01:46:45,290 --> 01:46:51,570
+A user enters a number, and if this number
+is 8, I want the program to return True; however,
+
+1400
+01:46:51,570 --> 01:46:56,710
+if the number is not 8 then I want to return
+false. It’s a great way to visualize what
+
+1401
+01:46:56,710 --> 01:47:00,710
+the function’s overall purpose is and also
+look for any errors that you may have missed
+
+1402
+01:47:00,710 --> 01:47:06,080
+when thinking about the function, such as
+a missing path. It also abstracts the programming
+
+1403
+01:47:06,080 --> 01:47:11,290
+statements up to simple blocks, making it
+easier to modify or change completely. The
+
+1404
+01:47:11,290 --> 01:47:16,010
+best part is, that when you have finished
+testing cases you can simply convert the blocks
+
+1405
+01:47:16,010 --> 01:47:21,540
+into statements and you have a well-written
+function without any debugging.
+
+1406
+01:47:21,540 --> 01:47:25,160
+Another popular pseudocode technique that
+is used often is to simply write out what
+
+1407
+01:47:25,160 --> 01:47:29,720
+you want your code to do chronologically.
+Don’t necessarily think about what programming
+
+1408
+01:47:29,720 --> 01:47:34,250
+statements and functions you want to use,
+just jot down, from start to finish, what
+
+1409
+01:47:34,250 --> 01:47:39,440
+it is the program you are writing is going
+to do step by step. For example, let’s say
+
+1410
+01:47:39,440 --> 01:47:43,930
+you’re making an app that takes in two numbers
+and divides them. The pseudocode for that
+
+1411
+01:47:43,930 --> 01:47:48,550
+would look a little something like this. First
+I want to prompt the user to enter a number,
+
+1412
+01:47:48,550 --> 01:47:54,070
+then I want to wait for the user to input
+the first number. After I get the first number,
+
+1413
+01:47:54,070 --> 01:47:59,030
+I want to again prompt the user to input a
+second number. Once they do, I complete the
+
+1414
+01:47:59,030 --> 01:48:04,691
+operation by dividing the two numbers entered
+and return the result back to the user. This
+
+1415
+01:48:04,691 --> 01:48:08,041
+all seems like it would be common sense, but
+remember that oftentimes we’re not going
+
+1416
+01:48:08,041 --> 01:48:14,560
+to be working with simple multiplication functions,
+we may be working with full-scale games, algorithms,
+
+1417
+01:48:14,560 --> 01:48:20,160
+or user interfaces with many different options.
+This method allows you the programmer to not
+
+1418
+01:48:20,160 --> 01:48:24,450
+get bogged down with the syntax and conventions
+you have to follow, you’re simply making
+
+1419
+01:48:24,450 --> 01:48:28,590
+a note of what the program's ultimate goal
+should be, as if you were explaining it to
+
+1420
+01:48:28,590 --> 01:48:32,699
+a friend of yours. This method really lets
+you plan out everything that needs to happen
+
+1421
+01:48:32,699 --> 01:48:37,550
+in your program in order for it to run smoothly.
+It also ensures you don’t forget about a
+
+1422
+01:48:37,550 --> 01:48:42,120
+piece of an algorithm, or a certain function
+that you need to write in afterwards.
+
+1423
+01:48:42,120 --> 01:48:47,010
+And the final pseudocode strategy that I’d
+like to talk about today is writing out the
+
+1424
+01:48:47,010 --> 01:48:51,370
+main features you want the user to have when
+using your program, and what functions or
+
+1425
+01:48:51,370 --> 01:48:55,830
+smaller programs you’re going to need to
+complete those features. Let’s do another
+
+1426
+01:48:55,830 --> 01:49:00,880
+example, say you’re making a banking interface
+and on start-up, you want the user to initially
+
+1427
+01:49:00,880 --> 01:49:06,840
+have 2 different options. They can set up
+a new account or log into an existing account.
+
+1428
+01:49:06,840 --> 01:49:10,320
+From there, if they log into their account
+you then want them to have the functionality
+
+1429
+01:49:10,320 --> 01:49:16,090
+to withdraw money, deposit money, take out
+a loan, or pay back a loan. If they decide
+
+1430
+01:49:16,090 --> 01:49:19,980
+to set up a new account, you want them to
+be able to create an account, store their
+
+1431
+01:49:19,980 --> 01:49:24,070
+information in a database, and then access
+all of the features that a returning member
+
+1432
+01:49:24,070 --> 01:49:29,910
+would have. This may look very similar to
+the flowchart, the only difference being this
+
+1433
+01:49:29,910 --> 01:49:35,699
+is abstracted one level higher, over an entire
+program rather than just a single function.
+
+1434
+01:49:35,699 --> 01:49:40,050
+If you really wanted to, you could also create
+a flowchart that would go through the functionality
+
+1435
+01:49:40,050 --> 01:49:45,010
+of all 4 methods described above. Setting
+up the hierarchy like seen on your screen
+
+1436
+01:49:45,010 --> 01:49:50,050
+now makes it clear to see every function and
+interface you’re going to have to make.
+
+1437
+01:49:50,050 --> 01:49:54,260
+This prevents you from having to try and shoehorn
+a function or feature into an almost finished
+
+1438
+01:49:54,260 --> 01:49:59,090
+program at the last second is not a very fun
+experience in the slightest.
+
+1439
+01:49:59,090 --> 01:50:04,240
+So there you have it, 3 pseudocode strategies
+you can use to plan out your code before you
+
+1440
+01:50:04,240 --> 01:50:08,699
+even start writing any. The flowchart method,
+which is good for thinking through the flow
+
+1441
+01:50:08,699 --> 01:50:12,949
+of a certain function. The write-up method,
+which is good for getting the general idea
+
+1442
+01:50:12,949 --> 01:50:17,840
+down for a program, or the functionality planning
+method, good for listing out the functions
+
+1443
+01:50:17,840 --> 01:50:22,929
+of a certain program. You can use none of
+them, all of them, a mix of them, or even
+
+1444
+01:50:22,929 --> 01:50:28,590
+disregard these and find or create your own.
+The main goal here is to drastically minimize
+
+1445
+01:50:28,590 --> 01:50:32,469
+the amount of errors that occur during your
+programming and relieve a lot of stress on
+
+1446
+01:50:32,469 --> 01:50:37,120
+your head. The importance of pseudocode cannot
+be stressed enough, and if you don’t believe
+
+1447
+01:50:37,120 --> 01:50:42,310
+me, I urge you to try and complete a large
+project without it.
+
+1448
+01:50:42,310 --> 01:50:46,410
+Ok, so if you’ve watched the series up until
+this point, you have gotten a pretty good
+
+1449
+01:50:46,410 --> 01:50:51,390
+understanding of many aspects of programming,
+and also how to plan out your programs. Now
+
+1450
+01:50:51,390 --> 01:50:56,010
+it's time to go out into the real world, and
+write some actual code.
+
+1451
+01:50:56,010 --> 01:51:01,530
+But what kind of program? I can hear you asking
+me. And the answer is truly whatever you want,
+
+1452
+01:51:01,530 --> 01:51:05,370
+really. As I’m sure you know by now, you
+can program just about anything that you have
+
+1453
+01:51:05,370 --> 01:51:10,530
+on your mind, anything from simple games to
+complex software. We’ve equipped you with
+
+1454
+01:51:10,530 --> 01:51:15,370
+the basics that are going to be used in pretty
+much any program you do decide to write. But
+
+1455
+01:51:15,370 --> 01:51:20,360
+that doesn’t mean every programming language
+is perfect for every application. Each language
+
+1456
+01:51:20,360 --> 01:51:25,050
+has its own strengths and weaknesses, and
+choosing the right one is very important for
+
+1457
+01:51:25,050 --> 01:51:30,321
+making it easier, or sometimes even just possible,
+for you to program what you want. So that’s
+
+1458
+01:51:30,321 --> 01:51:34,739
+what we are going to talk about now: choosing
+the best language for what you want to accomplish.
+
+1459
+01:51:34,739 --> 01:51:40,679
+Now, we talked earlier about low level versus
+high level programming languages. In case
+
+1460
+01:51:40,679 --> 01:51:45,239
+you forgot, let’s do a quick refresher.
+Higher level programming languages have a
+
+1461
+01:51:45,239 --> 01:51:49,989
+high level of abstraction from machine language,
+that series of 0’s and 1’s from way back
+
+1462
+01:51:49,989 --> 01:51:55,370
+when, while lower level programming languages
+have a low level of abstraction from machine
+
+1463
+01:51:55,370 --> 01:52:00,070
+language. For example, block programming where
+you drag and drop programming statements together
+
+1464
+01:52:00,070 --> 01:52:05,590
+like 2d legos would be a high level language,
+as it does not take a high level of understanding
+
+1465
+01:52:05,590 --> 01:52:11,130
+of the inner workings of a computer to program
+it. The theoretical highest level of a programming
+
+1466
+01:52:11,130 --> 01:52:15,570
+language would be if I could just write down
+what I wanted the computer to do in simple
+
+1467
+01:52:15,570 --> 01:52:21,800
+english and it would just work. But, sadly,
+that doesn’t exist yet. On the other side
+
+1468
+01:52:21,800 --> 01:52:26,469
+of the spectrum, the lowest level programming
+language would be just feeding 0’s and 1’s
+
+1469
+01:52:26,469 --> 01:52:32,020
+into the computer at supersonic speed, which
+would be almost impossible and extremely absurd.
+
+1470
+01:52:32,020 --> 01:52:37,530
+So, how do you choose what type of language
+is best for your needs? Well, it depends what
+
+1471
+01:52:37,530 --> 01:52:41,840
+you are trying to do, as sometimes you need
+very specialized languages to get done what
+
+1472
+01:52:41,840 --> 01:52:47,430
+you want. The world of computer science is
+vast and contains many fields, so trying to
+
+1473
+01:52:47,430 --> 01:52:51,810
+cover everything in one language would be
+impossible. This has led to the creation of
+
+1474
+01:52:51,810 --> 01:52:56,860
+thousands of different programming languages
+each designed for a specific task. Right now
+
+1475
+01:52:56,860 --> 01:53:01,210
+though, we’ll cover some of the most popular
+languages and their uses.
+
+1476
+01:53:01,210 --> 01:53:05,040
+Now, if you are trying to design a website,
+and delve into that career path, using HTML
+
+1477
+01:53:05,040 --> 01:53:10,640
+and CSS is probably your best bet. HTML is
+a markup language that is designed for writing
+
+1478
+01:53:10,640 --> 01:53:16,160
+the content of a website, while CSS is great
+for designing the style of the website. You
+
+1479
+01:53:16,160 --> 01:53:20,590
+interact with HTML code every day and you
+can even see it right now if you right click
+
+1480
+01:53:20,590 --> 01:53:26,510
+and hit inspect element, this will truly show
+you how complex HTML and CSS can be.
+
+1481
+01:53:26,510 --> 01:53:30,910
+Maybe it would be best for you to use a scripting
+language. A scripting language is a language
+
+1482
+01:53:30,910 --> 01:53:34,610
+that has many commands for you to use and
+that can also be run without needing to be
+
+1483
+01:53:34,610 --> 01:53:39,870
+compiled. Scripts can be faster to write than
+actual programs, and tend to be easier to
+
+1484
+01:53:39,870 --> 01:53:45,640
+port between operating systems allowing for
+cross-platform support. Scripts can also be
+
+1485
+01:53:45,640 --> 01:53:51,340
+used with websites, oftentimes adding to the
+overall user experience of the site. If you
+
+1486
+01:53:51,340 --> 01:53:55,650
+want to go into web design, this might also
+be a path for you to go down. Examples of
+
+1487
+01:53:55,650 --> 01:53:58,370
+scripting languages are Perl, PHP, Ajax, and
+Javascript.
+
+1488
+01:53:58,370 --> 01:54:03,390
+If you just want to make a general purpose
+program, you should probably use a general
+
+1489
+01:54:03,390 --> 01:54:11,070
+purpose language. General purpose languages,
+as they sound, have a wide range of applications.
+
+1490
+01:54:11,070 --> 01:54:16,210
+Usually these should be your go-to languages.
+Examples of general purpose languages are
+
+1491
+01:54:16,210 --> 01:54:22,421
+Java, C++, and Python. They each have their
+own different benefits over one another. Java
+
+1492
+01:54:22,421 --> 01:54:28,300
+is best at developing games and interactive
+web pages, Python can act as a scripting language
+
+1493
+01:54:28,300 --> 01:54:34,170
+for web programming as well as writing applications
+and data analysis. And C++ is best for writing
+
+1494
+01:54:34,170 --> 01:54:39,260
+applications and system programs. They all
+have a variety of packages that you can import
+
+1495
+01:54:39,260 --> 01:54:43,410
+and use to achieve the functionality you need
+from them. While selecting the right general
+
+1496
+01:54:43,410 --> 01:54:47,440
+purpose language for your big projects is
+very important, for most of your programs
+
+1497
+01:54:47,440 --> 01:54:52,160
+any one of them will work. It really comes
+down to preference. Get to know each language,
+
+1498
+01:54:52,160 --> 01:54:57,130
+and decide which one’s syntax rules you
+like best and find most comfortable. If you
+
+1499
+01:54:57,130 --> 01:55:01,410
+get to know one general purpose language really
+well and enjoy programming with it, you can
+
+1500
+01:55:01,410 --> 01:55:05,460
+apply it to just about any of the programs
+you plan on writing. Personally, I tend to
+
+1501
+01:55:05,460 --> 01:55:09,739
+use Python for most of my projects. This is
+mostly not due to any functional difference
+
+1502
+01:55:09,739 --> 01:55:14,460
+between Python and any other general purpose
+language, though there are a decent amount,
+
+1503
+01:55:14,460 --> 01:55:18,510
+but it is mainly because I find its syntax
+rules most convenient and easiest to write
+
+1504
+01:55:18,510 --> 01:55:23,950
+programs with. Overall, either you can consider
+the project you plan on doing, and research
+
+1505
+01:55:23,950 --> 01:55:29,469
+and see which language boasts the most advantages
+for your purposes, or you can simply become
+
+1506
+01:55:29,469 --> 01:55:34,580
+comfortable with a language and use it for
+most of the projects you decide to write.
+
+1507
+01:55:34,580 --> 01:55:40,250
+We’ll now be looking at our final topic
+of this introduction to programming mini-series.
+
+1508
+01:55:40,250 --> 01:55:44,449
+You now have the knowledge of basic programming
+which will take you far in any language you
+
+1509
+01:55:44,449 --> 01:55:49,260
+decide to learn, you know some good pre-programming
+pseudocode strategies to help you design your
+
+1510
+01:55:49,260 --> 01:55:53,820
+code from the ground up, and you might already
+have a good idea as to the type of programming
+
+1511
+01:55:53,820 --> 01:55:57,880
+language you might want to start with, so
+what’s the next step? How can I learn that
+
+1512
+01:55:57,880 --> 01:56:02,320
+language and what applications can it be used
+for? Well that’s what we’re going to be
+
+1513
+01:56:02,320 --> 01:56:05,520
+covering now, so let’s jump right into it.
+
+1514
+01:56:05,520 --> 01:56:09,420
+Starting with the biggest question which is
+what’s the next step. Well, now that you
+
+1515
+01:56:09,420 --> 01:56:13,760
+might know which type of language you might
+be interested in, research that language and
+
+1516
+01:56:13,760 --> 01:56:18,410
+find out whether or not you truly want to
+pursue that programming language. Most languages
+
+1517
+01:56:18,410 --> 01:56:24,590
+like python or C++ will have either an official
+website where you can read up on, or a wikipedia
+
+1518
+01:56:24,590 --> 01:56:28,850
+page which will provide you with useful information
+in deciding whether or not you want to pursue
+
+1519
+01:56:28,850 --> 01:56:33,750
+that path. From there, the next step is to
+actually learn the language, which can be
+
+1520
+01:56:33,750 --> 01:56:38,770
+done right here on YouTube. While we have
+taught you the basics of any programming language,
+
+1521
+01:56:38,770 --> 01:56:43,010
+each specific language is going to expand
+upon the basic concepts and so watching tutorial
+
+1522
+01:56:43,010 --> 01:56:46,000
+videos on a certain language is going to be
+very beneficial. Many websites will try to
+
+1523
+01:56:46,000 --> 01:56:47,000
+get you to purchase paid courses or take classes
+which cost money, but you can find extremely
+
+1524
+01:56:47,000 --> 01:56:48,000
+good courses here on YouTube for absolutely
+0 cost to yourself. I would start with an
+
+1525
+01:56:48,000 --> 01:56:51,320
+introduction series like the one you’re
+currently watching, but for the language you
+
+1526
+01:56:51,320 --> 01:56:55,580
+have chosen and work your way through that
+series, picking up on the syntax and rules
+
+1527
+01:56:55,580 --> 01:56:59,920
+of that language until you become comfortable
+with it.
+
+1528
+01:56:59,920 --> 01:57:04,060
+Once you do that, you come to a crossroads.
+You know how to program in a certain language,
+
+1529
+01:57:04,060 --> 01:57:08,891
+but you may be completely clueless as to what
+to make in that language. Programmer’s block
+
+1530
+01:57:08,891 --> 01:57:13,620
+can leave you uninspired and not want to continue
+programming so I’d like to give you a few
+
+1531
+01:57:13,620 --> 01:57:15,719
+sites to help out.
+
+1532
+01:57:15,719 --> 01:57:20,219
+First is codingbat, a completely free website
+which has hundreds of coding challenges in
+
+1533
+01:57:20,219 --> 01:57:26,170
+Java and Python to help you refine your programming
+skills and even learn some programming short-cuts
+
+1534
+01:57:26,170 --> 01:57:31,420
+and tips. This is great if you want to get
+better at improving your efficiency and need
+
+1535
+01:57:31,420 --> 01:57:37,340
+something to hone your skills as a developer.
+The next is CoderByte, which offers over 200+
+
+1536
+01:57:37,340 --> 01:57:41,400
+challenges that you can complete in over 10
+different languages, something that is sure
+
+1537
+01:57:41,400 --> 01:57:46,110
+to help you improve. The final website I’d
+like to talk about is hackerRank, which not
+
+1538
+01:57:46,110 --> 01:57:50,630
+only provides programming challenges to keep
+you on your toes, but also provides support
+
+1539
+01:57:50,630 --> 01:57:53,550
+for using you programming skills to find jobs
+or internships, something you’ve probably
+
+1540
+01:57:53,550 --> 01:57:55,080
+definitely thought about if you are taking
+programming up as a skill. These and many
+
+1541
+01:57:55,080 --> 01:57:59,660
+more websites exist solely to keep you interested
+in code and work on refining your skills to
+
+1542
+01:57:59,660 --> 01:58:00,850
+become better, you just have to find them
+because they’re certainly out there.
+
+1543
+01:58:00,850 --> 01:58:04,989
+Now if you’re a teenager watching this series,
+I also encourage you to take the programming
+
+1544
+01:58:04,989 --> 01:58:10,270
+classes in your high school. AP Computer Science
+Principles and AP Computer Science A are both
+
+1545
+01:58:10,270 --> 01:58:15,340
+amazing courses which will help you greatly
+in the future, and are also incredibly informative
+
+1546
+01:58:15,340 --> 01:58:20,340
+and important to colleges. Your school might
+also offer other classes in the field of computer
+
+1547
+01:58:20,340 --> 01:58:25,910
+science, including ones on data structures,
+game design, and data science. Any and all
+
+1548
+01:58:25,910 --> 01:58:30,140
+classes you can take to help expand your knowledge
+of programming and help you find your niche
+
+1549
+01:58:30,140 --> 01:58:33,370
+is going to help tremendously.
+
+1550
+01:58:33,370 --> 01:58:37,270
+As you can see, the world of code has now
+been opened up to you. These are just a few
+
+1551
+01:58:37,270 --> 01:58:41,410
+examples of where you can go from here but
+there are many more we didn’t talk about.
+
+1552
+01:58:41,410 --> 01:58:45,920
+You can get into GitHub and start contributing
+to projects, you can work on your own projects
+
+1553
+01:58:45,920 --> 01:58:51,239
+and collaborate with others, the possibilities
+are endless. The next step is up to you.
+
+1554
+01:58:51,239 --> 01:58:55,660
+This concludes our introduction to programming
+mine-series, we hope you enjoyed watching
+
+1555
+01:58:55,660 --> 01:59:00,679
+it as much as we enjoyed making it. If you
+enjoyed the series as a whole, consider subscribing
+
+1556
+01:59:00,679 --> 01:59:05,080
+to our channel NullPointerException, which
+will be linked in the description, for more
+
+1557
+01:59:05,080 --> 01:59:08,630
+content coming soon. Thanks for watching.
+

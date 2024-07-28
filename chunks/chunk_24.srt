@@ -1,0 +1,26 @@
+IDE’s nowadays act as a sort of fast-track
+
+104
+00:07:45,569 --> 00:07:50,240
+to writing code and make things a whole lot
+easier for programmers. An example of a specific
+
+105
+00:07:50,240 --> 00:07:54,629
+IDE can be seen on your screen now. In the
+center you can see the program that is currently
+
+106
+00:07:54,629 --> 00:07:58,679
+being written, and right below it the console,
+which can print out useful information for
+
+107
+00:07:58,679 --> 00:08:04,629
+the programmer. This specific IDE is used
+to write java code. IDE’s are extremely
+
+108
+00:08:04,629 --> 00:08:08,990
+powerful and will be used in almost 100% of
+your programming projects.

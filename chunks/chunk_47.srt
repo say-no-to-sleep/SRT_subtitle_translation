@@ -1,0 +1,49 @@
+
+208
+00:15:10,310 --> 00:15:15,110
+This includes addition, subtraction, multiplication,
+and division, all of which are represented
+
+209
+00:15:15,110 --> 00:15:19,490
+by the symbols shown on the screen now. In
+any IDE that you may install, you’ll be
+
+210
+00:15:19,490 --> 00:15:23,310
+able to print out the answer to simple math
+problems using the print statement, which
+
+211
+00:15:23,310 --> 00:15:26,900
+may seem counter-intuitive because why would
+you use the computer to do math when you have
+
+212
+00:15:26,900 --> 00:15:31,360
+a perfectly good calculator on your phone,
+but you have to remember that computers are
+
+213
+00:15:31,360 --> 00:15:36,820
+dumb, and anything we want a computer to do
+we have to build up from scratch. Basic arithmetic,
+
+214
+00:15:36,820 --> 00:15:42,260
+while simple, helps out in almost any program
+you may write. For example, if we wanted to
+
+215
+00:15:42,260 --> 00:15:46,630
+build a basic calculator app, we’d need
+to utilize this functionality in order to
+
+216
+00:15:46,630 --> 00:15:52,150
+correctly display the answer to an arithmetic
+problem when our user tries to add, subtract,
+
+217
+00:15:52,150 --> 00:15:54,690
+multiply, or divide two numbers.

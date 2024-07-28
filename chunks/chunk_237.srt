@@ -1,0 +1,5 @@
+
+1098
+01:22:35,910 --> 01:22:40,580
+As you may remember, arrays are basically
+lists of values that are stored together.

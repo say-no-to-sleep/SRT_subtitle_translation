@@ -1,0 +1,9 @@
+
+831
+01:01:15,460 --> 01:01:19,210
+For example, the print statements we have
+been using this series allow us to print something
+
+832
+01:01:19,210 --> 01:01:25,440
+to the console any time we want are functions.

@@ -1,0 +1,9 @@
+
+789
+00:58:14,400 --> 00:58:19,590
+Firstly, try commenting it out. Comments are
+used to markup code and explain their surrounding
+
+790
+00:58:19,590 --> 00:58:24,370
+sections, but they can also be used to debug.

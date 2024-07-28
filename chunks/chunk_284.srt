@@ -1,0 +1,5 @@
+
+1386
+01:45:48,110 --> 01:45:53,750
+Alright, so now that we know WHAT pseudocode
+is, let's talk about HOW we write pseudocode.

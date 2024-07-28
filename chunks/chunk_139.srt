@@ -1,0 +1,20 @@
+An infinite loop occurs when you give a for
+
+634
+00:47:18,250 --> 00:47:21,710
+loop a condition which will always be met
+given the parameters of the program, and so
+
+635
+00:47:21,710 --> 00:47:26,360
+the software crashes. For example, a for loop
+beginning at 10 and checking if i is ever
+
+636
+00:47:26,360 --> 00:47:29,971
+less than 0, and then adding 1 to i at the
+end of the loop will never terminate, since
+
+637
+00:47:29,971 --> 00:47:32,900
+i will just increase infinitely.

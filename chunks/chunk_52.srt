@@ -1,0 +1,19 @@
+
+236
+00:17:27,970 --> 00:17:32,010
+We’ll cover more about Strings in a bit
+when we talk about variables, but for now
+
+237
+00:17:32,010 --> 00:17:36,090
+let’s continue. We already talked about
+printing strings to the console, but let’s
+
+238
+00:17:36,090 --> 00:17:39,080
+say we’re making a game, and we wanted to
+print out the statement”
+
+239
+00:17:39,080 --> 00:17:44,269
+“Game over, 4 was your final score”.

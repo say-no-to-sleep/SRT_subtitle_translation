@@ -1,0 +1,11 @@
+Ones that take in arguments and return things,
+
+918
+01:08:23,070 --> 01:08:27,390
+ones that take in arguments and don’t return
+something, ones that don’t take in arguments
+
+919
+01:08:27,390 --> 01:08:32,640
+but still return values, and the ones that
+take in arguments and don’t return anything.

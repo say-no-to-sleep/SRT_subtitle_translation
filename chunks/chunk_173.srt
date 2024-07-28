@@ -1,0 +1,15 @@
+You can also have multiple breakpoints to
+
+783
+00:57:50,610 --> 00:57:56,220
+help slowly work through your program and
+determine where the error has occurred. A
+
+784
+00:57:56,220 --> 00:57:59,460
+combination of these two strategies will help
+you easily determine where in your code you
+
+785
+00:57:59,460 --> 00:58:01,230
+have incurred a logic error.

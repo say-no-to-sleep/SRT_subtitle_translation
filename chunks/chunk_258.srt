@@ -1,0 +1,74 @@
+
+1238
+01:33:17,270 --> 01:33:24,270
+Just a quick aside, since there is no “true”
+middle, the computer automatically uses the
+
+1239
+01:33:24,270 --> 01:33:29,910
+next one down as the “middle” value. Now,
+once you find your middle value, you first
+
+1240
+01:33:29,910 --> 01:33:36,190
+check to see if the name you’re searching
+for at the index you’ve chosen, if it is
+
+1241
+01:33:36,190 --> 01:33:42,989
+you simply return that index, but 99.9% of
+the time it’s not including right now, so
+
+1242
+01:33:42,989 --> 01:33:48,521
+let’s keep going. If the value at the middle
+index is NOT equal to the one you’re searching
+
+1243
+01:33:48,521 --> 01:33:54,250
+for, you check to see if the value you’re
+searching comes before or after the middle
+
+1244
+01:33:54,250 --> 01:33:59,140
+index. For example, if you were looking for
+the name Brendan and the value at the middle
+
+1245
+01:33:59,140 --> 01:34:05,920
+index was Carl; Brendan obviously comes before
+matthew alphabetically and since we know the
+
+1246
+01:34:05,920 --> 01:34:10,980
+list is sorted, what we can do now is ignore
+the entire bottom half of the list and just
+
+1247
+01:34:10,980 --> 01:34:15,480
+focus on the top, since we know that if Brendan
+is even in the list, it’s going to be in
+
+1248
+01:34:15,480 --> 01:34:21,190
+that top half. Now, we simply treat the top
+half of the list as an entirely new entity
+
+1249
+01:34:21,190 --> 01:34:26,050
+and repeat the process over again. Again,
+we would find the middle-most element of this
+
+1250
+01:34:26,050 --> 01:34:30,430
+new list of names and again compare it to
+the name you’re trying to find. If it’s
+
+1251
+01:34:30,430 --> 01:34:34,760
+the name we’re trying to find, we return
+that index, but if not we compare to see if
+
+1252
+01:34:34,760 --> 01:34:39,900
+it comes before or after the middle index.

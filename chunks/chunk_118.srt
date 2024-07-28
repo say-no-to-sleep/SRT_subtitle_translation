@@ -1,0 +1,19 @@
+
+548
+00:41:01,080 --> 00:41:04,470
+If you were to not follow this nomenclature
+and you refer to the last element in this
+
+549
+00:41:04,470 --> 00:41:09,711
+array as the 10th, you get what is referred
+to as an “out of bounds” error, since
+
+550
+00:41:09,711 --> 00:41:13,790
+you are trying to reference the 10th element,
+but there is no 10th element. What you’re
+
+551
+00:41:13,790 --> 00:41:16,850
+actually trying to do is reference the 9th.

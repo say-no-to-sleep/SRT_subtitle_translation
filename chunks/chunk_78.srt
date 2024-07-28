@@ -1,0 +1,15 @@
+
+337
+00:24:59,179 --> 00:25:02,330
+So now that we know all about the different
+variable types and we’ve talked about them
+
+338
+00:25:02,330 --> 00:25:06,470
+a little bit, now we’re going to delve further
+into what happens when we actually define,
+
+339
+00:25:06,470 --> 00:25:12,000
+or create, a variable, how we reference them,
+and how we can manipulate them for our programs.

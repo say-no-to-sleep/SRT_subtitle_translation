@@ -1,0 +1,10 @@
+For example you can’t return a string in
+
+1081
+01:21:12,660 --> 01:21:17,969
+an integer function or vice versa. The return
+statement must always match the type of function
+
+1082
+01:21:17,969 --> 01:21:19,520
+no matter what.

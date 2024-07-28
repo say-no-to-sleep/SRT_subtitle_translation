@@ -1,0 +1,29 @@
+
+42
+00:03:05,739 --> 00:03:10,400
+Now, programming isn’t as simple as giving
+your friend instructions since in a programmers
+
+43
+00:03:10,400 --> 00:03:14,690
+case, the computer doesn’t speak the same
+language as you, the computer only understands
+
+44
+00:03:14,690 --> 00:03:19,450
+machine code, which is a numerical language
+known as binary that is designed so that the
+
+45
+00:03:19,450 --> 00:03:24,150
+computer can quickly read it and carry out
+its instructions. Every instruction fed to
+
+46
+00:03:24,150 --> 00:03:29,110
+the computer is converted into a string of
+1’s and 0’s and then interpreted by the
+
+47
+00:03:29,110 --> 00:03:32,070
+computer to carry out a task.

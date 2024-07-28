@@ -1,0 +1,14 @@
+
+820
+01:00:25,910 --> 01:00:30,030
+Alright, now that we’ve covered errors for
+a bit, let’s hop on back to programming
+
+821
+01:00:30,030 --> 01:00:35,050
+statements and talk about one of the most
+important concepts in computer science, the
+
+822
+01:00:35,050 --> 01:00:36,050
+function.

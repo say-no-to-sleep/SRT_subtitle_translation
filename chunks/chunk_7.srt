@@ -1,0 +1,55 @@
+
+29
+00:01:57,850 --> 00:02:05,650
+Imagine this, for example: you want your less-than-intelligent
+friend to build a lego set, except he has
+
+30
+00:02:05,650 --> 00:02:11,560
+lost the instructions and can only build based
+on your command. Remember though, your friend
+
+31
+00:02:11,560 --> 00:02:16,250
+is far from competent, and so If they are
+not given very specific instructions on how
+
+32
+00:02:16,250 --> 00:02:22,010
+to build the set, there are many mistakes
+he could make. If he thinks like a computer,
+
+33
+00:02:22,010 --> 00:02:25,730
+then if there is even one piece that you have
+not told him specifically where to place and
+
+34
+00:02:25,730 --> 00:02:29,830
+how to place it, the entire lego set will
+be ruined and he will be left to suffer a
+
+35
+00:02:29,830 --> 00:02:35,281
+complete mental breakdown causing the whole
+goal of the project to be corrupted. Giving
+
+36
+00:02:35,281 --> 00:02:41,450
+instructions to your friend is very similar
+to how programmers code. Instead of a less-than-intelligent
+
+37
+00:02:41,450 --> 00:02:46,230
+friend, you have a less-than-intelligent computer,
+and instead of instructions on how to build
+
+38
+00:02:46,230 --> 00:02:50,840
+a lego set, we are feeding it information
+on how to complete a program like a game or
+
+39
+00:02:50,840 --> 00:02:56,890
+web application. An important thing to note
+is that comptuers are actually very dumb.

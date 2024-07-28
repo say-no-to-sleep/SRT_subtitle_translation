@@ -1,0 +1,25 @@
+
+1387
+01:45:53,750 --> 01:45:57,230
+You see, the best part about pseudocode is
+that it can take the form of many different
+
+1388
+01:45:57,230 --> 01:46:01,470
+things for many different people. Each computer
+scientist probably has their own methodology
+
+1389
+01:46:01,470 --> 01:46:04,800
+for planning out their code, and since there
+are probably hundreds of different methods
+
+1390
+01:46:04,800 --> 01:46:10,180
+of writing pseudocode that are out there,
+today I’d like to focus on 3 popular ones
+
+1391
+01:46:10,180 --> 01:46:13,320
+that I think you might find to be extremely
+useful.

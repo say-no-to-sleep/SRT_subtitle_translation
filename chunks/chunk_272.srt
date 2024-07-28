@@ -1,0 +1,14 @@
+
+1331
+01:41:30,710 --> 01:41:35,810
+It’s called a stack because if we call start
+another process before the previous one completes,
+
+1332
+01:41:35,810 --> 01:41:40,310
+the process is “stacked” on top of the
+other one such as the animation on your screen
+
+1333
+01:41:40,310 --> 01:41:45,330
+is showing now.

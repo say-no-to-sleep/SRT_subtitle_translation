@@ -1,0 +1,10 @@
+
+1093
+01:22:09,810 --> 01:22:14,790
+In fact, there are a multitude of different
+ways to store data in computer science including
+
+1094
+01:22:14,790 --> 01:22:21,260
+LinkedLists, Stacks, Queue’s, Maps, Trees,
+and many others too.

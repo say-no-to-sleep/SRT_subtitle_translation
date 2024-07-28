@@ -1,0 +1,88 @@
+
+1190
+01:29:30,969 --> 01:29:34,860
+Now before we jump into different types of
+searching algorithms, we must discern between
+
+1191
+01:29:34,860 --> 01:29:40,430
+the two states that arrays or lists can be
+in, either sorted or unsorted. A sorted list
+
+1192
+01:29:40,430 --> 01:29:45,739
+of information is characterized by some sort
+of rankable value, whether that be a patient
+
+1193
+01:29:45,739 --> 01:29:52,370
+ID, credit card number, or even by alphabetical
+values like username’s or legal names. An
+
+1194
+01:29:52,370 --> 01:29:56,930
+unsorted list is just some random assortment
+of related information, not sorted by any
+
+1195
+01:29:56,930 --> 01:30:02,571
+particular order or reason. Some searching
+algorithms only work for sorted lists, usually
+
+1196
+01:30:02,571 --> 01:30:08,070
+the more efficient ones, and some work for
+both sorted and unsorted lists, although these
+
+1197
+01:30:08,070 --> 01:30:11,841
+are usually less efficient. If you end up
+pursuing computer science further, you will
+
+1198
+01:30:11,841 --> 01:30:16,340
+have to deal with both sorted and unsorted
+lists, so it's good to know common searching
+
+1199
+01:30:16,340 --> 01:30:19,239
+practices for both
+
+1200
+01:30:19,239 --> 01:30:23,111
+Another thing to note is that we determine
+the efficiency of a searching algorithm based
+
+1201
+01:30:23,111 --> 01:30:29,160
+on both the worst case scenario and the average
+number of items it must search. We call this
+
+1202
+01:30:29,160 --> 01:30:33,910
+Big O notation, in which each searching algorithm
+has an equation which takes in the size of
+
+1203
+01:30:33,910 --> 01:30:38,989
+the array as an integer n, and will output
+an worst-case scenario efficiency value that
+
+1204
+01:30:38,989 --> 01:30:44,469
+we can use to compare with other searching
+algorithms. We can then also look at how long;
+
+1205
+01:30:44,469 --> 01:30:49,110
+on average, it takes to find an element in
+a list. Using these two methods allows us
+
+1206
+01:30:49,110 --> 01:30:54,360
+to easily compare how efficient two algorithms
+are. Alright, now that we’ve got some background
+
+1207
+01:30:54,360 --> 01:30:57,900
+on searching, let’s hop right into it.

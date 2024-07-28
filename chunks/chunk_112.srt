@@ -1,0 +1,39 @@
+
+513
+00:38:19,490 --> 00:38:22,950
+For example, let’s say you’re making an
+app which allows users to create a grocery
+
+514
+00:38:22,950 --> 00:38:28,510
+list. Well there’s no real easy way to create
+lists using variables, because it's not like
+
+515
+00:38:28,510 --> 00:38:34,050
+you can have one variable store the names
+of 7 or 8 different food items. Remember,
+
+516
+00:38:34,050 --> 00:38:39,100
+we can only put one piece of paper in our
+cardboard box; no more. And besides, even
+
+517
+00:38:39,100 --> 00:38:43,740
+if you were to add multiple items to one string
+variable, you still would have a lot of trouble
+
+518
+00:38:43,740 --> 00:38:48,540
+doing simple tasks you might want from a list
+like searching through it or splitting it
+
+519
+00:38:48,540 --> 00:38:52,360
+or even deleting items from the list when
+you’re done with them. This is the problem
+
+520
+00:38:52,360 --> 00:38:55,680
+that using arrays solves for us.

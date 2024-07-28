@@ -1,0 +1,40 @@
+
+923
+01:08:46,180 --> 01:08:50,839
+Finally, I’d like to talk about one of the
+major benefits of functions, which is that
+
+924
+01:08:50,839 --> 01:08:55,000
+it makes it super useful to make large changes
+to your code without having to go through
+
+925
+01:08:55,000 --> 01:09:01,859
+the entire program. Each function call is
+just a copy of that function's original code,
+
+926
+01:09:01,859 --> 01:09:06,259
+and so it’s very easy to make changes to
+the function and have it translate to across
+
+927
+01:09:06,259 --> 01:09:11,380
+your code. Let’s go back to our printStats()
+function and say that you wanted to go back
+
+928
+01:09:11,380 --> 01:09:17,690
+and add in a new stat that the player can
+level up through experience in the game. Without
+
+929
+01:09:17,690 --> 01:09:21,290
+functions, you would have to go back into
+your code, find every instance that you had
+
+930
+01:09:21,290 --> 01:09:26,150
+printed out the users stats, and create another
+print statement to display the new statistic.

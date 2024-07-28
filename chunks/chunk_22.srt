@@ -1,0 +1,26 @@
+IDE’s provide a graphic interface on your
+
+92
+00:06:54,159 --> 00:06:58,529
+computer in which the programmer can easily
+write, run, and debug code without having
+
+93
+00:06:58,529 --> 00:07:03,110
+to worry about problems with compilation or
+interpretation of the program. Think of an
+
+94
+00:07:03,110 --> 00:07:07,189
+IDE as any other program on your computer
+such as a game, a browser, or even the file
+
+95
+00:07:07,189 --> 00:07:11,619
+explorer, except we’ll be using it to write
+code. IDE’s are able to turn your code into
+
+96
+00:07:11,619 --> 00:07:15,289
+machine code and run it through the computer
+to produce results.

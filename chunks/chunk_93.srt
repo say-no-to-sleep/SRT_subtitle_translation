@@ -1,0 +1,31 @@
+Now, brackets are used in most programming
+
+431
+00:32:36,919 --> 00:32:42,649
+languages to indicate a segment of code which
+will run. It works like this, if the condition
+
+432
+00:32:42,649 --> 00:32:47,169
+in parentheses is true, then all of the code
+contained within the brackets will run, and
+
+433
+00:32:47,169 --> 00:32:51,809
+if the condition in the parenthesis is NOT
+true, then it will skip over all of the statements
+
+434
+00:32:51,809 --> 00:32:56,619
+within the brackets. A quick note is that
+while this is the case with most programming
+
+435
+00:32:56,619 --> 00:33:01,769
+languages, some; like Python, use colons and
+white space to determine where a piece of
+
+436
+00:33:01,769 --> 00:33:07,249
+code starts and ends, but for the sake of
+this series, we’ll be using curly braces.

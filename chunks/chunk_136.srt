@@ -1,0 +1,24 @@
+
+623
+00:46:29,890 --> 00:46:35,330
+Now let’s run through the loop. We start
+with i = 0, 0 is less then 3 so we enter the
+
+624
+00:46:35,330 --> 00:46:39,610
+loop and print out Hello World. Now that the
+instructions are done we add 1 to i making
+
+625
+00:46:39,610 --> 00:46:45,030
+it 1. Moving on, 1 in less than 3 again, so
+we once again enter the loop and print out
+
+626
+00:46:45,030 --> 00:46:50,870
+Hello World. Again, we add 1 to i, making
+it 2 now. 2 is still less than 3 so we enter
+
+627
+00:46:50,870 --> 00:46:55,380
+the loop again and print out hello world.

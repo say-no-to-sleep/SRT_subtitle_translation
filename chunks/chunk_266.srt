@@ -1,0 +1,80 @@
+
+1294
+01:37:53,440 --> 01:37:59,590
+It is extremely important that the base case
+is set to some requirement that n will eventually
+
+1295
+01:37:59,590 --> 01:38:05,300
+meet for the same reason that it is important
+to avoid infinite loop: we do not want a stack
+
+1296
+01:38:05,300 --> 01:38:11,010
+overflow error to occur. For example, if our
+base case was to stop calling the recursive
+
+1297
+01:38:11,010 --> 01:38:16,320
+function when n was greater than 100, and
+if it is not, we call the function again but
+
+1298
+01:38:16,320 --> 01:38:22,390
+with n-1, and we started with n as 99, we
+would never reach the base case and the recursive
+
+1299
+01:38:22,390 --> 01:38:26,340
+function will repeatedly call itself over
+and over and over again, subtracting 1 from
+
+1300
+01:38:26,340 --> 01:38:32,160
+n and hoping that somehow it will eventually
+be greater than 100 until your computer crashes,
+
+1301
+01:38:32,160 --> 01:38:38,380
+not fun. So anyways back to our recursive
+sum example, let’s make our base case when
+
+1302
+01:38:38,380 --> 01:38:43,969
+n is less than or equal to 1. This way, we
+can start at some positive integer n
+
+1303
+01:38:43,969 --> 01:38:49,600
+and subtract from it until it hits at or equal
+1, in which case we can exit the recursive
+
+1304
+01:38:49,600 --> 01:38:56,940
+statement. Cool. Now, if n is not less than
+or equal to 1, what we want to do is return
+
+1305
+01:38:56,940 --> 01:39:03,780
+the SUM of both n and then the returning value
+of our recursiveSum method minus 1. Why do
+
+1306
+01:39:03,780 --> 01:39:09,400
+we add n + the function call? Well let’s
+actually go through the function as if we
+
+1307
+01:39:09,400 --> 01:39:15,710
+were the computer and see why. We start with
+a call of recursiveSum with n = 3. We know
+
+1308
+01:39:15,710 --> 01:39:22,540
+that 3 is not less than or equal to 1 so now
+we try to return a recursive sum of n (which
+
+1309
+01:39:22,540 --> 01:39:27,040
+is 3) and the returning value of recursiveSum
+with an n of 2.

@@ -1,0 +1,10 @@
+So when you are programming make sure to make
+
+275
+00:20:33,350 --> 00:20:37,580
+a mental note of whether or not you want to
+make something an integer, or a string, because
+
+276
+00:20:37,580 --> 00:20:42,500
+that type of stuff makes a big difference.

@@ -1,0 +1,9 @@
+
+373
+00:27:52,110 --> 00:27:56,690
+Variables can also be updated throughout your
+code. For example, let's say you had an “Age”
+
+374
+00:27:56,690 --> 00:28:02,009
+variable, and inside it was the integer 17.

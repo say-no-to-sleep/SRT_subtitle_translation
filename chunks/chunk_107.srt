@@ -1,0 +1,20 @@
+
+496
+00:37:11,820 --> 00:37:16,580
+Now, why are these statements so useful? Well,
+many times, programmers want their programs
+
+497
+00:37:16,580 --> 00:37:20,210
+to function differently depending on different
+conditions. For instance, a program could
+
+498
+00:37:20,210 --> 00:37:24,130
+function differently depending on the information
+that the user inputs, such as allowing a user
+
+499
+00:37:24,130 --> 00:37:29,220
+to use a program or not use a program if they
+are above or below 18 years old respectively.

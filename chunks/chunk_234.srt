@@ -1,0 +1,10 @@
+
+1091
+01:21:58,790 --> 01:22:03,010
+Now I’d like to switch gears a little bit
+and continue our discussion from earlier on
+
+1092
+01:22:03,010 --> 01:22:09,810
+arrays. Arrays, while useful, aren’t the
+only way to store and manipulate information.

@@ -1,0 +1,16 @@
+Finally, we add 1 to i once again and it becomes
+
+628
+00:46:55,380 --> 00:46:59,900
+three. 3 is not less than 3 though, it is
+equal to 3, and so we don’t enter the loop
+
+629
+00:46:59,900 --> 00:47:03,990
+and it terminates, moving on to the next segment
+of code. This is a simple example, but you
+
+630
+00:47:03,990 --> 00:47:06,830
+can extrapolate it across programming to fit
+your needs.

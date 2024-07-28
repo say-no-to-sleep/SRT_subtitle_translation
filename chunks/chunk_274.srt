@@ -1,0 +1,40 @@
+
+1334
+01:41:45,330 --> 01:41:50,880
+For those unfamiliar with accounting, LIFO
+means last in first out, or the last item
+
+1335
+01:41:50,880 --> 01:41:56,219
+put on the stack will be the first one removed
+from it. Essentially, every time you ask your
+
+1336
+01:41:56,219 --> 01:42:01,100
+computer to complete a task, that task is
+added to the stack, and will be the first
+
+1337
+01:42:01,100 --> 01:42:06,010
+one to be resolved. Think of it like a stack
+of stones, you can keep adding stones on top
+
+1338
+01:42:06,010 --> 01:42:10,210
+of your pile, but in order to get to one near
+the bottom, you first have to remove all the
+
+1339
+01:42:10,210 --> 01:42:14,781
+rocks on top of it. Now when your function
+continually calls itself without end; without
+
+1340
+01:42:14,781 --> 01:42:20,760
+a base case, like in our infinite loop example
+then the stack will never be resolved, as
+
+1341
+01:42:20,760 --> 01:42:25,620
+items will be continually added to the stack
+without any of them ever being completed.

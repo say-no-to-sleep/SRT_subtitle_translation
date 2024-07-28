@@ -1,0 +1,31 @@
+This is great for when we want to access elements
+
+559
+00:41:50,850 --> 00:42:00,081
+in the array because we can do so instantaneously,
+but the one downside is that we can’t increase
+
+560
+00:42:00,081 --> 00:42:05,950
+the size of the array later on, all array
+sizes are final. Think of it like setting
+
+561
+00:42:05,950 --> 00:42:11,560
+up a bookshelf with books. By populating a
+bookshelf with a certain number of books and
+
+562
+00:42:11,560 --> 00:42:15,780
+then moving on and filling the next shelf
+with different books. We have no way to go
+
+563
+00:42:15,780 --> 00:42:20,690
+BACK and add books to that first shelf without
+shifting everything. Once we decide how much
+
+564
+00:42:20,690 --> 00:42:25,540
+space to dedicate space for an array in this
+case, there’s no way to ADD more space.

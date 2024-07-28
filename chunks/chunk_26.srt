@@ -1,0 +1,5 @@
+
+114
+00:08:29,740 --> 00:08:35,410
+Now, just as if you were learning a real language,
+learning a computer language can be very similar.

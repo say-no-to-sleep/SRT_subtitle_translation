@@ -1,0 +1,16 @@
+This one is much harder to wrap your head
+
+1235
+01:33:00,230 --> 01:33:06,880
+around so let’s start with an example. Let’s
+say you have a list of 10 names sorted alphabetically,
+
+1236
+01:33:06,880 --> 01:33:11,930
+like shown on the screen now, and you wanted
+to find your name within that list. In binary
+
+1237
+01:33:11,930 --> 01:33:17,270
+search you would first look for the middle-most
+name, in this case the one at the 4th index.

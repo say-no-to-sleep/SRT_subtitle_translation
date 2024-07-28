@@ -1,0 +1,45 @@
+
+811
+00:59:48,950 --> 00:59:53,700
+Also, on top of saving, run your program frequently
+to ensure that the current version works as
+
+812
+00:59:53,700 --> 00:59:58,450
+intended. This accomplishes two things. First
+of all, it prevents you from saving a backup
+
+813
+00:59:58,450 --> 01:00:03,100
+that doesn’t work. Secondly, if you encounter
+a problem, it will be easier to find if you
+
+814
+01:00:03,100 --> 01:00:07,220
+have only made a small number of changes since
+the last time you ran it and it worked, and
+
+815
+01:00:07,220 --> 01:00:10,780
+thus you will only have to look through the
+new code for problems. If you’ve spent 5
+
+816
+01:00:10,780 --> 01:00:14,000
+hours coding and hadn’t run it during that
+time period, it’s going to be extremely
+
+817
+01:00:14,000 --> 01:00:17,731
+likely that at some point during that 5 hour
+code sesh you messed up, and it’s going
+
+818
+01:00:17,731 --> 01:00:21,852
+to be even harder to figure out where you
+went wrong. Errors, while annoying and extremely
+
+819
+01:00:21,852 --> 01:00:25,910
+frustrating, are a fundamental part of making
+you a better programmer.

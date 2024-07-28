@@ -1,0 +1,10 @@
+
+755
+00:55:56,730 --> 00:56:00,270
+Imagine you have a conditional statement that
+will run one segment of code if an integer
+
+756
+00:56:00,270 --> 00:56:04,750
+x, is greater than 5, and will run another
+segment of code if not.

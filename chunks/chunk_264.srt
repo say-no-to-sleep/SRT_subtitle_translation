@@ -1,0 +1,5 @@
+
+1288
+01:37:26,750 --> 01:37:31,440
+The reason we do this will be explained later
+but for now let’s move on to the base case.

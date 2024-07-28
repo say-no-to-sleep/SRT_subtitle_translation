@@ -1,0 +1,40 @@
+This video is meant for those who are interested
+
+21
+00:01:21,940 --> 00:01:25,340
+in computer science and programming but have
+no idea where to start and have little to
+
+22
+00:01:25,340 --> 00:01:29,720
+no background information on coding, and so
+if that sounds like you, then strap Sean and
+
+23
+00:01:29,720 --> 00:01:33,590
+I work our way through the wacky world of
+computer science, starting with the biggest
+
+24
+00:01:33,590 --> 00:01:37,690
+question probably on your mind, which is what
+even is programming?
+
+25
+00:01:37,690 --> 00:01:43,450
+Well, the dictionary defines it as the process
+of preparing an instructional program for
+
+26
+00:01:43,450 --> 00:01:50,070
+a device, but that’s a really confusing
+definition, so in layman’s terms what exactly
+
+27
+00:01:50,070 --> 00:01:55,909
+does that mean? Essentially, it is attempting
+to get a computer to complete a specific task
+
+28
+00:01:55,909 --> 00:01:57,850
+without making mistakes.

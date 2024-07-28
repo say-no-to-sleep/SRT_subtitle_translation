@@ -1,0 +1,9 @@
+
+1459
+01:51:34,739 --> 01:51:40,679
+Now, we talked earlier about low level versus
+high level programming languages. In case
+
+1460
+01:51:40,679 --> 01:51:45,239
+you forgot, let’s do a quick refresher.

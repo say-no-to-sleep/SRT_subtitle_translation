@@ -1,0 +1,100 @@
+Anything that is designated as a comment will
+
+791
+00:58:24,370 --> 00:58:29,060
+not be read by the program as code, and will
+be skipped over. Essentially, it becomes something
+
+792
+00:58:29,060 --> 00:58:34,150
+that is only there for YOU the programmer
+to read. The syntax varies from language to
+
+793
+00:58:34,150 --> 00:58:37,790
+language, but it usually involves placing
+some symbols before or around the code you
+
+794
+00:58:37,790 --> 00:58:41,630
+would like to be commented. Examples of how
+to comment in different languages can be seen
+
+795
+00:58:41,630 --> 00:58:46,930
+on the screen now. Also, when you comment
+something, the IDE will grayscale the line
+
+796
+00:58:46,930 --> 00:58:51,991
+of code, making it extremely easy to determine
+what’s commented and what is not. Commenting
+
+797
+00:58:51,991 --> 00:58:56,460
+code ‘deletes’ it in the computer’s
+eyes without actually deleting it. If a problem
+
+798
+00:58:56,460 --> 00:59:00,880
+is present before you comment a section of
+code but it is gone afterward, then that section
+
+799
+00:59:00,880 --> 00:59:04,810
+of code is the culprit. If you comment part
+of a code out and there are still issues,
+
+800
+00:59:04,810 --> 00:59:09,400
+then move onto another section until you find
+the culprit. Once you do, you can tweak it
+
+801
+00:59:09,400 --> 00:59:14,000
+until it works as intended or delete it entirely
+and you will have a fully functioning program
+
+802
+00:59:14,000 --> 00:59:15,580
+once again. Hurrah!
+
+803
+00:59:15,580 --> 00:59:19,202
+Now that we’ve talked about what to do IF
+you’ve encountered an error and a strategy
+
+804
+00:59:19,202 --> 00:59:23,190
+on how to find and fix it, I’d like to talk
+about some strategies you can use to AVOID
+
+805
+00:59:23,190 --> 00:59:28,070
+errors in the first place. Firstly, backup
+your code frequently. In the event of the
+
+806
+00:59:28,070 --> 00:59:31,770
+code completely bugging out and you being
+unable to fix it, you will want the ability
+
+807
+00:59:31,770 --> 00:59:35,980
+to revert to a previous version where the
+code was still working. If you save frequently
+
+808
+00:59:35,980 --> 00:59:40,630
+enough, then you will probably not lose too
+much work. Version managers like Github or
+
+809
+00:59:40,630 --> 00:59:45,261
+Subversion can help with this, as they backup
+code to an online cloud service in which you
+
+810
+00:59:45,261 --> 00:59:48,950
+can easily pull previous versions of the program
+at any point.

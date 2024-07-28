@@ -1,0 +1,10 @@
+
+725
+00:53:53,870 --> 00:53:57,680
+These are often the hardest types of errors
+to debug since most of the time, you’ll
+
+726
+00:53:57,680 --> 00:54:02,630
+have no idea why the code isn’t working,
+and certainly not any idea of how to fix it.

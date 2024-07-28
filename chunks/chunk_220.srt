@@ -1,0 +1,5 @@
+
+998
+01:14:30,190 --> 01:14:34,420
+Now think back to the 4 different types of
+functions that we talked about previously.

@@ -1,0 +1,15 @@
+
+1448
+01:50:42,310 --> 01:50:46,410
+Ok, so if you’ve watched the series up until
+this point, you have gotten a pretty good
+
+1449
+01:50:46,410 --> 01:50:51,390
+understanding of many aspects of programming,
+and also how to plan out your programs. Now
+
+1450
+01:50:51,390 --> 01:50:56,010
+it's time to go out into the real world, and
+write some actual code.

@@ -1,0 +1,30 @@
+
+340
+00:25:12,000 --> 00:25:16,559
+To start, let's go over what happens when
+we define a variable. Now when we write a
+
+341
+00:25:16,559 --> 00:25:21,929
+line of code which initializes a variable,
+and that code is executed, the computer essentially
+
+342
+00:25:21,929 --> 00:25:26,489
+creates a little space in memory that stores
+your variable name and its contents so that
+
+343
+00:25:26,489 --> 00:25:32,350
+it can be referenced later. Going back to
+our cardboard box example. Think of this as
+
+344
+00:25:32,350 --> 00:25:37,749
+if you have a storage facility, and you make
+a new cardboard box, labeled “Name” and
+
+345
+00:25:37,749 --> 00:25:42,230
+inside of it you put a piece of paper with
+the word “NullPointerException” on it.

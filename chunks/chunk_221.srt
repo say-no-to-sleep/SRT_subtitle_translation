@@ -1,0 +1,44 @@
+
+999
+01:14:34,420 --> 01:14:38,080
+Functions that do and don’t return values
+and functions that both do and don’t take
+
+1000
+01:14:38,080 --> 01:14:42,540
+in arguments. For creating your own functions,
+we’re just going to go down the list and
+
+1001
+01:14:42,540 --> 01:14:47,690
+talk about how to approach creating them,
+starting with the most basic of the bunch,
+
+1002
+01:14:47,690 --> 01:14:53,670
+one which takes no arguments and returns no
+values, but before we start that, there are
+
+1003
+01:14:53,670 --> 01:14:58,690
+a few small things I want to note about function
+naming conventions. The variable naming conventions
+
+1004
+01:14:58,690 --> 01:15:03,440
+we talked about previously also translate
+over to function names. So you can’t have
+
+1005
+01:15:03,440 --> 01:15:08,611
+two word functions and you can’t use special
+characters like periods or commas. Generally
+
+1006
+01:15:08,611 --> 01:15:12,400
+you’re going to want to follow the same
+camelCase style which we talked about in the
+
+1007
+01:15:12,400 --> 01:15:16,340
+variables video.

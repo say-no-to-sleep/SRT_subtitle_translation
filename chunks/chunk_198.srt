@@ -1,0 +1,6 @@
+This combineString function could then be
+
+910
+01:07:43,460 --> 01:07:49,260
+used to create new String variables since
+what it is returning is technically a string.

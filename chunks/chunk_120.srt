@@ -1,0 +1,9 @@
+
+557
+00:41:40,140 --> 00:41:44,760
+This is because when we initialize an array,
+it creates a space in memory that has a size
+
+558
+00:41:44,760 --> 00:41:50,850
+of exactly what you give it, no more no less.

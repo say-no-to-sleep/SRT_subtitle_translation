@@ -1,0 +1,15 @@
+
+666
+00:49:25,520 --> 00:49:30,190
+As you can see, loops and their many varieties
+have some extremely useful functions. Using
+
+667
+00:49:30,190 --> 00:49:34,240
+them, you are able to perform an operation
+many times in a row, you can iterate through
+
+668
+00:49:34,240 --> 00:49:39,300
+arrays and lists, and overall decrease the
+clutter of your code.

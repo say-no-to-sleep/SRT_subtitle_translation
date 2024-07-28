@@ -1,0 +1,25 @@
+
+1476
+01:53:01,210 --> 01:53:05,040
+Now, if you are trying to design a website,
+and delve into that career path, using HTML
+
+1477
+01:53:05,040 --> 01:53:10,640
+and CSS is probably your best bet. HTML is
+a markup language that is designed for writing
+
+1478
+01:53:10,640 --> 01:53:16,160
+the content of a website, while CSS is great
+for designing the style of the website. You
+
+1479
+01:53:16,160 --> 01:53:20,590
+interact with HTML code every day and you
+can even see it right now if you right click
+
+1480
+01:53:20,590 --> 01:53:26,510
+and hit inspect element, this will truly show
+you how complex HTML and CSS can be.

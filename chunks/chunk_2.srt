@@ -1,0 +1,50 @@
+
+3
+00:00:06,120 --> 00:00:09,790
+Over the next 90 minutes, we’ll be taking
+you through this series consisting of 21 different
+
+4
+00:00:09,790 --> 00:00:13,599
+segments that hope to cover the basics of
+computer programming, which can apply to any
+
+5
+00:00:13,599 --> 00:00:17,600
+and all programming languages you might want
+to learn. We’ll be starting with the simplest
+
+6
+00:00:17,600 --> 00:00:21,930
+question of what is programming, and from
+there will be working our way up as we talk
+
+7
+00:00:21,930 --> 00:00:26,181
+about common features of computer science
+such as loops and arrays. We’ll discuss
+
+8
+00:00:26,181 --> 00:00:30,859
+how to read and write code, debug code you’ve
+written, some strategies to help plan out
+
+9
+00:00:30,859 --> 00:00:35,130
+your code, and much, much more. The complete
+list of topics that are going to be covered
+
+10
+00:00:35,130 --> 00:00:39,549
+in this lecture-style video are shown on the
+screen now. Additionally, there will be time-stamps
+
+11
+00:00:39,549 --> 00:00:43,380
+in the description, so feel free to skip around
+if you are already proficient in some areas
+
+12
+00:00:43,380 --> 00:00:47,780
+of computer science, or just want to know
+about a specific topic we will be covering.

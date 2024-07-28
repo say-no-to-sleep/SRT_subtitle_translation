@@ -1,0 +1,10 @@
+Most of the rules are tedious to learn but
+
+155
+00:11:37,450 --> 00:11:41,290
+easy to master and as soon as you can do that,
+you’ll be able to easily identify syntax
+
+156
+00:11:41,290 --> 00:11:45,330
+errors and take care of them easily.

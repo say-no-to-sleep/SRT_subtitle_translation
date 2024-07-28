@@ -1,0 +1,14 @@
+
+1232
+01:32:47,330 --> 01:32:51,890
+The binary search uses a recursive process
+to break the data in your list down into more
+
+1233
+01:32:51,890 --> 01:32:56,070
+and more manageable bytes, taking advantage
+of the fact that it’s sorted, in order to
+
+1234
+01:32:56,070 --> 01:33:00,230
+find the item you’re looking for faster.

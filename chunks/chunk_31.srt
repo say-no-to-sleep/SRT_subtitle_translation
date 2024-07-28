@@ -1,0 +1,9 @@
+
+142
+00:10:40,240 --> 00:10:43,810
+Think of this as if you forget a comma in
+a sentence and the entire context of what
+
+143
+00:10:43,810 --> 00:10:49,060
+you are trying to say get misinterpreted.

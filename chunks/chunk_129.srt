@@ -1,0 +1,44 @@
+
+592
+00:44:26,690 --> 00:44:30,220
+Next up we’re going to be talking about
+loops, so what exactly are loops?
+
+593
+00:44:30,220 --> 00:44:33,980
+Next up we’re going to be talking about
+loops, so what exactly are loops?
+
+594
+00:44:33,980 --> 00:44:37,750
+Next up we’re going to be talking about
+loops, so what exactly are loops?
+
+595
+00:44:37,750 --> 00:44:41,520
+Next up we’re going to be talking about
+loops, so what exactly are loops?
+
+596
+00:44:41,520 --> 00:44:46,000
+Next up we’re going to be talking about
+loops, so what exactly are loops?
+
+597
+00:44:46,000 --> 00:44:49,880
+Well as you could probably tell by that statement
+right there, a programming loop is a statement
+
+598
+00:44:49,880 --> 00:44:53,540
+that is used to run certain instructions repeatedly,
+just like how the opening statement of this
+
+599
+00:44:53,540 --> 00:44:58,880
+topic was repeated 5 times. Loops are very
+useful for a variety of reasons. For instance,
+
+600
+00:44:58,880 --> 00:45:02,670
+imagine you want to print something 15 times.

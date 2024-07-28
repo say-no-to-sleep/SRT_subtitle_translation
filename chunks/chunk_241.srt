@@ -1,0 +1,49 @@
+
+1115
+01:23:57,230 --> 01:24:01,860
+Earlier, we mentioned how you have to be careful
+to set an appropriate size of your array and
+
+1116
+01:24:01,860 --> 01:24:06,450
+make sure to only reference and append values
+such that you remain within the size of the
+
+1117
+01:24:06,450 --> 01:24:11,670
+array. However, with array lists, this isn’t
+a problem. After you initialize an arrayList,
+
+1118
+01:24:11,670 --> 01:24:16,760
+it instinctively has a size of 10, but if
+you append a values such that the size of
+
+1119
+01:24:16,760 --> 01:24:21,650
+the arrayList goes beyond 10 elements, an
+arrayList will “grow” itself, meaning
+
+1120
+01:24:21,650 --> 01:24:25,940
+that the computer will allocate more memory
+to the array to increase its total size so
+
+1121
+01:24:25,940 --> 01:24:29,960
+that the new values can be appended. This
+is quite useful when you don’t know the
+
+1122
+01:24:29,960 --> 01:24:34,800
+exact number of values that the array will
+need to store, or want the ability to store
+
+1123
+01:24:34,800 --> 01:24:38,810
+values to your heart’s content, such as
+making a database with an unknown amount of
+
+1124
+01:24:38,810 --> 01:24:40,280
+user’s that will sign up.

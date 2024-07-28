@@ -1,0 +1,11 @@
+Else, if that something is not true, BUT another
+
+450
+00:34:12,810 --> 00:34:18,280
+statement inside of parentheses is true, we
+would then run THAT code segment. And if neither
+
+451
+00:34:18,280 --> 00:34:22,940
+of them are true, we would skip both segments
+of code and move on in our program.

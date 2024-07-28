@@ -1,0 +1,10 @@
+
+1125
+01:24:40,280 --> 01:24:44,450
+There is a lot more to uncover when regarding
+arrayLists, but for this surface-level series,
+
+1126
+01:24:44,450 --> 01:24:48,840
+that is all you pretty much need to know,
+so let’s move on to dictionaries.

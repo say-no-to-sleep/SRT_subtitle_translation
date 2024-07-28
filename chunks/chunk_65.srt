@@ -1,0 +1,6 @@
+Think of variables like a cardboard box. Cardboard
+
+283
+00:21:05,419 --> 00:21:10,940
+boxes serve as a means to store items in them
+which can be changed out, replaced, and modified.

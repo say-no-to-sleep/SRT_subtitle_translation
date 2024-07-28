@@ -1,0 +1,29 @@
+
+645
+00:48:07,780 --> 00:48:11,330
+Next up, we have the while loop. A while loop
+will continually carry out its instructions
+
+646
+00:48:11,330 --> 00:48:14,950
+while a conditional statement given to it
+is true. This can be as long as a certain
+
+647
+00:48:14,950 --> 00:48:18,750
+variable is true, as long as a number is less
+than another number, or while a value is still
+
+648
+00:48:18,750 --> 00:48:23,260
+equal to another value. While loops are different
+than for loops in that the loop is not contained
+
+649
+00:48:23,260 --> 00:48:26,850
+within one statement, but stretched out and
+will continue to run so long as its condition
+
+650
+00:48:26,850 --> 00:48:28,290
+is true.

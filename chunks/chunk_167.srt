@@ -1,0 +1,14 @@
+
+757
+00:56:04,750 --> 00:56:09,700
+If, in your program, x is supposed to be greater
+than 5 when the program reaches this conditional
+
+758
+00:56:09,700 --> 00:56:13,700
+but for some reason the program is still printing
+out “X is small” you could use a print
+
+759
+00:56:13,700 --> 00:56:14,700
+statement to help.

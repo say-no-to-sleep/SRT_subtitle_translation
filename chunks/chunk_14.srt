@@ -1,0 +1,49 @@
+Directly translating what you want the computer
+
+55
+00:04:06,940 --> 00:04:12,320
+to do into machine code is extremely difficult,
+in fact almost impossible, and would take
+
+56
+00:04:12,320 --> 00:04:17,850
+a very long time to do if you could. Each
+program is composed of millions upon millions
+
+57
+00:04:17,850 --> 00:04:22,949
+of those 1’s and 0’s, so how, exactly,
+are we supposed to translate our instructions
+
+58
+00:04:22,949 --> 00:04:25,190
+into machine code?
+
+59
+00:04:25,190 --> 00:04:29,819
+This is where programming languages come into
+play. Programming languages are fundamentally
+
+60
+00:04:29,819 --> 00:04:34,990
+a middle man for translating a program into
+machine code. These languages are much easier
+
+61
+00:04:34,990 --> 00:04:39,911
+for humans to learn than machine code, and
+are thus very useful for programmers. Going
+
+62
+00:04:39,911 --> 00:04:44,919
+back to our lego example, a programming language
+would be sort of like an interpreter, that’s
+
+63
+00:04:44,919 --> 00:04:48,849
+able to take the instructions you give them
+in english, and translate them into instructions
+
+64
+00:04:48,849 --> 00:04:53,860
+your non-english speaking friend can understand.

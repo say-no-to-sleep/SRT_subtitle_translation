@@ -1,0 +1,81 @@
+Going back to our example, let’s say the
+
+1253
+01:34:39,900 --> 01:34:46,150
+middle index of this new list is AJ. Now,
+we know that Brendan comes AFTER AJ alphabetically
+
+1254
+01:34:46,150 --> 01:34:52,390
+so we can now ignore the top half of the list
+since we know that Brendan is going to be
+
+1255
+01:34:52,390 --> 01:34:58,400
+in the top of our list. Now we repeat this
+process again and again until we find the
+
+1256
+01:34:58,400 --> 01:35:03,090
+name we are looking for. So for our example,
+the middle index this time is Brendan, and
+
+1257
+01:35:03,090 --> 01:35:09,510
+that’s what we’re searching for so we
+finally would return index 2. In binary search,
+
+1258
+01:35:09,510 --> 01:35:14,000
+eventually the index we compare to our search
+term will be the same and once it is, we can
+
+1259
+01:35:14,000 --> 01:35:18,920
+return the index and move on. Now if we don’t
+find it, which happens after we have eliminated
+
+1260
+01:35:18,920 --> 01:35:23,460
+the entirety of the list without finding our
+search term, the algorithm will simply return
+
+1261
+01:35:23,460 --> 01:35:27,430
+a null value to let you know that the item
+you’re searching for cannot be found in
+
+1262
+01:35:27,430 --> 01:35:33,180
+the list. The binary search is way faster
+and more efficient than the linear search
+
+1263
+01:35:33,180 --> 01:35:37,670
+since we are drastically cutting down the
+amount of elements we have to look at, making
+
+1264
+01:35:37,670 --> 01:35:44,190
+the program run faster. In almost 99.9% of
+cases in which your list is sorted, the binary
+
+1265
+01:35:44,190 --> 01:35:49,430
+search is going to return a result faster
+than the linear search, so if you have a sorted
+
+1266
+01:35:49,430 --> 01:35:55,620
+list, your best option is to go binary. As
+for efficiency, the binary search is O(log
+
+1267
+01:35:55,620 --> 01:36:00,320
+n) for the worst case scenario which can be
+confusing if you don’t fully understand
+
+1268
+01:36:00,320 --> 01:36:04,699
+logarithms, but all you need to know is that
+it is way more efficient than the linear search.
