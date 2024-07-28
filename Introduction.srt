@@ -7687,7 +7687,7 @@ it as much as we enjoyed making it. If you
 enjoyed the series as a whole, consider subscribing
 
 1556
-01:59:00,679 --> 01:59:05,080
+01:59:05,080 --> 01:59:08,630
 to our channel NullPointerException, which
 will be linked in the description, for more
 

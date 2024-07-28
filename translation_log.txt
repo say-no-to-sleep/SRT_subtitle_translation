@@ -1,0 +1,1040 @@
+2024-07-28 13:54:33,021 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_1.srt
+2024-07-28 13:54:33,021 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_1.srt
+2024-07-28 13:54:33,193 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_1.srt
+2024-07-28 13:54:33,193 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_10.srt
+2024-07-28 13:54:33,193 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_10.srt
+2024-07-28 13:54:33,348 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_10.srt
+2024-07-28 13:54:33,381 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_100.srt
+2024-07-28 13:54:33,381 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_100.srt
+2024-07-28 13:54:33,720 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_100.srt
+2024-07-28 13:54:33,720 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_101.srt
+2024-07-28 13:54:33,720 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_101.srt
+2024-07-28 13:54:33,894 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_101.srt
+2024-07-28 13:54:33,894 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_102.srt
+2024-07-28 13:54:33,894 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_102.srt
+2024-07-28 13:54:34,052 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_102.srt
+2024-07-28 13:54:34,052 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_103.srt
+2024-07-28 13:54:34,052 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_103.srt
+2024-07-28 13:54:34,218 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_103.srt
+2024-07-28 13:54:34,227 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_104.srt
+2024-07-28 13:54:34,227 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_104.srt
+2024-07-28 13:54:34,454 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_104.srt
+2024-07-28 13:54:34,454 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_105.srt
+2024-07-28 13:54:34,454 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_105.srt
+2024-07-28 13:54:34,628 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_105.srt
+2024-07-28 13:54:34,628 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_106.srt
+2024-07-28 13:54:34,628 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_106.srt
+2024-07-28 13:54:34,830 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_106.srt
+2024-07-28 13:54:34,830 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_107.srt
+2024-07-28 13:54:34,830 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_107.srt
+2024-07-28 13:54:35,020 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_107.srt
+2024-07-28 13:54:35,020 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_108.srt
+2024-07-28 13:54:35,029 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_108.srt
+2024-07-28 13:54:35,209 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_108.srt
+2024-07-28 13:54:35,209 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_109.srt
+2024-07-28 13:54:35,219 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_109.srt
+2024-07-28 13:54:36,548 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_109.srt
+2024-07-28 13:54:36,548 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_11.srt
+2024-07-28 13:54:36,557 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_11.srt
+2024-07-28 13:54:37,762 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_11.srt
+2024-07-28 13:54:37,762 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_110.srt
+2024-07-28 13:54:37,771 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_110.srt
+2024-07-28 13:54:39,105 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_110.srt
+2024-07-28 13:54:39,110 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_111.srt
+2024-07-28 13:54:39,117 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_111.srt
+2024-07-28 13:54:40,446 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_111.srt
+2024-07-28 13:54:40,446 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_112.srt
+2024-07-28 13:54:40,483 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_112.srt
+2024-07-28 13:54:41,051 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_112.srt
+2024-07-28 13:54:41,051 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_113.srt
+2024-07-28 13:54:41,093 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_113.srt
+2024-07-28 13:54:42,368 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_113.srt
+2024-07-28 13:54:42,368 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_114.srt
+2024-07-28 13:54:42,377 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_114.srt
+2024-07-28 13:54:43,614 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_114.srt
+2024-07-28 13:54:43,614 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_115.srt
+2024-07-28 13:54:43,623 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_115.srt
+2024-07-28 13:54:44,941 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_115.srt
+2024-07-28 13:54:44,941 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_116.srt
+2024-07-28 13:54:44,982 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_116.srt
+2024-07-28 13:54:46,297 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_116.srt
+2024-07-28 13:54:46,297 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_117.srt
+2024-07-28 13:54:46,302 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_117.srt
+2024-07-28 13:54:47,604 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_117.srt
+2024-07-28 13:54:47,604 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_118.srt
+2024-07-28 13:54:47,610 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_118.srt
+2024-07-28 13:55:49,978 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_1.srt
+2024-07-28 13:55:49,978 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_1.srt
+2024-07-28 13:55:50,244 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_1.srt
+2024-07-28 13:55:50,246 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_10.srt
+2024-07-28 13:55:50,246 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_10.srt
+2024-07-28 13:55:50,403 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_10.srt
+2024-07-28 13:55:50,403 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_100.srt
+2024-07-28 13:55:50,403 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_100.srt
+2024-07-28 13:55:50,619 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_100.srt
+2024-07-28 13:55:50,619 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_101.srt
+2024-07-28 13:55:50,619 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_101.srt
+2024-07-28 13:55:50,825 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_101.srt
+2024-07-28 13:55:50,828 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_102.srt
+2024-07-28 13:55:50,828 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_102.srt
+2024-07-28 13:55:50,999 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_102.srt
+2024-07-28 13:55:50,999 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_103.srt
+2024-07-28 13:55:50,999 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_103.srt
+2024-07-28 13:55:51,164 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_103.srt
+2024-07-28 13:55:51,164 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_104.srt
+2024-07-28 13:55:51,164 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_104.srt
+2024-07-28 13:55:51,326 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_104.srt
+2024-07-28 13:55:51,326 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_105.srt
+2024-07-28 13:55:51,326 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_105.srt
+2024-07-28 13:55:51,482 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_105.srt
+2024-07-28 13:55:51,482 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_106.srt
+2024-07-28 13:55:51,482 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_106.srt
+2024-07-28 13:55:51,649 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_106.srt
+2024-07-28 13:55:51,649 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_107.srt
+2024-07-28 13:55:51,649 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_107.srt
+2024-07-28 13:55:51,831 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_107.srt
+2024-07-28 13:55:51,831 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_108.srt
+2024-07-28 13:55:51,831 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_108.srt
+2024-07-28 13:55:52,335 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_108.srt
+2024-07-28 13:55:52,335 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_109.srt
+2024-07-28 13:55:52,335 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_109.srt
+2024-07-28 13:55:52,492 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_109.srt
+2024-07-28 13:55:52,492 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_11.srt
+2024-07-28 13:55:52,492 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_11.srt
+2024-07-28 13:55:52,689 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_11.srt
+2024-07-28 13:55:52,689 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_110.srt
+2024-07-28 13:55:52,689 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_110.srt
+2024-07-28 13:55:52,870 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_110.srt
+2024-07-28 13:55:52,870 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_111.srt
+2024-07-28 13:55:52,870 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_111.srt
+2024-07-28 13:55:53,010 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_111.srt
+2024-07-28 13:55:53,010 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_112.srt
+2024-07-28 13:55:53,010 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_112.srt
+2024-07-28 13:55:53,195 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_112.srt
+2024-07-28 13:55:53,195 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_113.srt
+2024-07-28 13:55:53,195 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_113.srt
+2024-07-28 13:55:53,336 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_113.srt
+2024-07-28 13:55:53,336 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_114.srt
+2024-07-28 13:55:53,336 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_114.srt
+2024-07-28 13:55:53,518 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_114.srt
+2024-07-28 13:55:53,518 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_115.srt
+2024-07-28 13:55:53,518 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_115.srt
+2024-07-28 13:55:53,699 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_115.srt
+2024-07-28 13:55:53,699 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_116.srt
+2024-07-28 13:55:53,699 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_116.srt
+2024-07-28 13:55:53,852 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_116.srt
+2024-07-28 13:55:53,853 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_117.srt
+2024-07-28 13:55:53,853 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_117.srt
+2024-07-28 13:55:54,000 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_117.srt
+2024-07-28 13:55:54,000 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_118.srt
+2024-07-28 13:55:54,000 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_118.srt
+2024-07-28 13:55:54,159 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_118.srt
+2024-07-28 13:55:54,159 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_119.srt
+2024-07-28 13:55:54,199 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_119.srt
+2024-07-28 13:55:55,505 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_119.srt
+2024-07-28 13:55:55,505 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_12.srt
+2024-07-28 13:55:55,516 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_12.srt
+2024-07-28 13:55:57,145 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_12.srt
+2024-07-28 13:55:57,145 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_120.srt
+2024-07-28 13:55:57,156 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_120.srt
+2024-07-28 13:55:58,469 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_120.srt
+2024-07-28 13:55:58,472 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_121.srt
+2024-07-28 13:55:58,507 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_121.srt
+2024-07-28 13:55:58,873 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_121.srt
+2024-07-28 13:55:58,874 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_122.srt
+2024-07-28 13:55:58,908 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_122.srt
+2024-07-28 13:56:00,414 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_122.srt
+2024-07-28 13:56:00,416 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_123.srt
+2024-07-28 13:56:00,420 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_123.srt
+2024-07-28 13:56:01,630 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_123.srt
+2024-07-28 13:56:01,631 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_124.srt
+2024-07-28 13:56:01,639 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_124.srt
+2024-07-28 13:56:02,829 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_124.srt
+2024-07-28 13:56:02,829 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_125.srt
+2024-07-28 13:56:02,838 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_125.srt
+2024-07-28 13:56:04,109 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_125.srt
+2024-07-28 13:56:04,109 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_126.srt
+2024-07-28 13:56:04,117 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_126.srt
+2024-07-28 13:56:04,718 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_126.srt
+2024-07-28 13:56:04,720 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_127.srt
+2024-07-28 13:56:04,728 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_127.srt
+2024-07-28 13:56:06,255 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_127.srt
+2024-07-28 13:56:06,255 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_128.srt
+2024-07-28 13:56:06,292 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_128.srt
+2024-07-28 13:56:07,586 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_128.srt
+2024-07-28 13:56:07,586 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_129.srt
+2024-07-28 13:56:07,625 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_129.srt
+2024-07-28 13:56:09,197 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_129.srt
+2024-07-28 13:56:09,197 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_13.srt
+2024-07-28 13:56:09,206 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_13.srt
+2024-07-28 13:56:10,446 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_13.srt
+2024-07-28 13:56:10,446 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_130.srt
+2024-07-28 13:56:10,457 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_130.srt
+2024-07-28 13:56:11,674 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_130.srt
+2024-07-28 13:56:11,674 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_131.srt
+2024-07-28 13:56:11,682 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_131.srt
+2024-07-28 13:56:12,915 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_131.srt
+2024-07-28 13:56:12,915 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_132.srt
+2024-07-28 13:56:12,923 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_132.srt
+2024-07-28 13:56:14,145 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_132.srt
+2024-07-28 13:56:14,145 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_133.srt
+2024-07-28 13:56:14,147 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_133.srt
+2024-07-28 13:56:15,474 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_133.srt
+2024-07-28 13:56:15,474 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_134.srt
+2024-07-28 13:56:15,511 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_134.srt
+2024-07-28 13:56:16,814 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_134.srt
+2024-07-28 13:56:16,814 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_135.srt
+2024-07-28 13:56:16,822 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_135.srt
+2024-07-28 13:56:18,125 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_135.srt
+2024-07-28 13:56:18,125 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_136.srt
+2024-07-28 13:56:18,134 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_136.srt
+2024-07-28 13:56:19,561 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_136.srt
+2024-07-28 13:56:19,561 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_137.srt
+2024-07-28 13:56:19,568 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_137.srt
+2024-07-28 13:56:20,899 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_137.srt
+2024-07-28 13:56:20,899 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_138.srt
+2024-07-28 13:56:20,904 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_138.srt
+2024-07-28 13:56:22,227 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_138.srt
+2024-07-28 13:56:22,227 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_139.srt
+2024-07-28 13:56:22,235 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_139.srt
+2024-07-28 13:56:22,658 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_139.srt
+2024-07-28 13:56:22,658 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_14.srt
+2024-07-28 13:56:22,695 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_14.srt
+2024-07-28 13:56:23,968 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_14.srt
+2024-07-28 13:56:23,968 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_140.srt
+2024-07-28 13:56:23,977 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_140.srt
+2024-07-28 13:56:25,497 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_140.srt
+2024-07-28 13:56:25,497 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_141.srt
+2024-07-28 13:56:25,506 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_141.srt
+2024-07-28 13:56:26,840 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_141.srt
+2024-07-28 13:56:26,840 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_142.srt
+2024-07-28 13:56:26,879 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_142.srt
+2024-07-28 13:56:28,164 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_142.srt
+2024-07-28 13:56:28,164 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_143.srt
+2024-07-28 13:56:28,201 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_143.srt
+2024-07-28 13:56:29,500 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_143.srt
+2024-07-28 13:56:29,500 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_144.srt
+2024-07-28 13:56:29,510 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_144.srt
+2024-07-28 13:56:30,746 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_144.srt
+2024-07-28 13:56:30,750 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_145.srt
+2024-07-28 13:56:30,786 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_145.srt
+2024-07-28 13:56:32,161 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_145.srt
+2024-07-28 13:56:32,161 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_146.srt
+2024-07-28 13:56:32,170 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_146.srt
+2024-07-28 13:56:33,485 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_146.srt
+2024-07-28 13:56:33,485 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_147.srt
+2024-07-28 13:56:33,493 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_147.srt
+2024-07-28 13:56:34,929 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_147.srt
+2024-07-28 13:56:34,929 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_148.srt
+2024-07-28 13:56:34,971 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_148.srt
+2024-07-28 13:56:35,844 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_148.srt
+2024-07-28 13:56:35,844 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_149.srt
+2024-07-28 13:56:35,849 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_149.srt
+2024-07-28 13:56:37,317 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_149.srt
+2024-07-28 13:56:37,318 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_15.srt
+2024-07-28 13:56:37,326 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_15.srt
+2024-07-28 13:56:38,716 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_15.srt
+2024-07-28 13:56:38,716 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_150.srt
+2024-07-28 13:56:38,757 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_150.srt
+2024-07-28 13:56:39,433 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_150.srt
+2024-07-28 13:56:39,433 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_151.srt
+2024-07-28 13:56:39,473 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_151.srt
+2024-07-28 13:56:40,870 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_151.srt
+2024-07-28 13:56:40,870 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_152.srt
+2024-07-28 13:56:40,910 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_152.srt
+2024-07-28 13:56:42,293 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_152.srt
+2024-07-28 13:56:42,293 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_153.srt
+2024-07-28 13:56:42,334 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_153.srt
+2024-07-28 13:56:43,630 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_153.srt
+2024-07-28 13:56:43,630 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_154.srt
+2024-07-28 13:56:43,639 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_154.srt
+2024-07-28 13:56:44,860 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_154.srt
+2024-07-28 13:56:44,860 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_155.srt
+2024-07-28 13:56:44,868 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_155.srt
+2024-07-28 13:56:46,291 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_155.srt
+2024-07-28 13:56:46,291 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_156.srt
+2024-07-28 13:56:46,301 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_156.srt
+2024-07-28 13:56:47,520 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_156.srt
+2024-07-28 13:56:47,520 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_157.srt
+2024-07-28 13:56:47,529 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_157.srt
+2024-07-28 13:56:48,855 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_157.srt
+2024-07-28 13:56:48,855 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_158.srt
+2024-07-28 13:56:48,864 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_158.srt
+2024-07-28 13:56:50,199 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_158.srt
+2024-07-28 13:56:50,199 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_159.srt
+2024-07-28 13:56:50,207 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_159.srt
+2024-07-28 13:56:51,520 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_159.srt
+2024-07-28 13:56:51,521 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_16.srt
+2024-07-28 13:56:51,534 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_16.srt
+2024-07-28 13:56:52,945 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_16.srt
+2024-07-28 13:56:52,945 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_160.srt
+2024-07-28 13:56:52,950 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_160.srt
+2024-07-28 13:56:54,282 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_160.srt
+2024-07-28 13:56:54,282 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_161.srt
+2024-07-28 13:56:54,324 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_161.srt
+2024-07-28 13:56:55,616 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_161.srt
+2024-07-28 13:56:55,616 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_162.srt
+2024-07-28 13:56:55,624 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_162.srt
+2024-07-28 13:56:56,937 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_162.srt
+2024-07-28 13:56:56,937 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_163.srt
+2024-07-28 13:56:56,946 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_163.srt
+2024-07-28 13:56:58,168 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_163.srt
+2024-07-28 13:56:58,168 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_164.srt
+2024-07-28 13:56:58,175 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_164.srt
+2024-07-28 13:56:58,180 - ERROR - Error processing file C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_164.srt: division by zero
+Traceback (most recent call last):
+  File "c:\Users\Coffee Nebula\Desktop\Python\translate_chunks.py", line 123, in process_file
+    split_texts = split_translated_text(translated_text, len(processed_chunks))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Coffee Nebula\Desktop\Python\translate_chunks.py", line 65, in split_translated_text
+    target_weight_per_chunk = total_weight / chunk_count
+                              ~~~~~~~~~~~~~^~~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-07-28 13:56:58,180 - ERROR - Failed to process file chunk_164.srt: division by zero
+2024-07-28 13:56:58,180 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_165.srt
+2024-07-28 13:56:58,185 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_165.srt
+2024-07-28 13:56:59,505 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_165.srt
+2024-07-28 13:56:59,505 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_166.srt
+2024-07-28 13:56:59,516 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_166.srt
+2024-07-28 13:57:00,873 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_166.srt
+2024-07-28 13:57:00,873 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_167.srt
+2024-07-28 13:57:00,881 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_167.srt
+2024-07-28 13:57:02,160 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_167.srt
+2024-07-28 13:57:02,160 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_168.srt
+2024-07-28 13:57:02,199 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_168.srt
+2024-07-28 13:57:03,495 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_168.srt
+2024-07-28 13:57:03,495 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_169.srt
+2024-07-28 13:57:03,505 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_169.srt
+2024-07-28 13:57:04,748 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_169.srt
+2024-07-28 13:57:04,748 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_17.srt
+2024-07-28 13:57:04,756 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_17.srt
+2024-07-28 13:57:05,991 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_17.srt
+2024-07-28 13:57:05,991 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_170.srt
+2024-07-28 13:57:05,999 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_170.srt
+2024-07-28 13:57:07,296 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_170.srt
+2024-07-28 13:57:07,296 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_171.srt
+2024-07-28 13:57:07,300 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_171.srt
+2024-07-28 13:57:08,614 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_171.srt
+2024-07-28 13:57:08,614 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_172.srt
+2024-07-28 13:57:08,645 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_172.srt
+2024-07-28 13:57:09,940 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_172.srt
+2024-07-28 13:57:09,940 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_173.srt
+2024-07-28 13:57:09,948 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_173.srt
+2024-07-28 13:57:11,274 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_173.srt
+2024-07-28 13:57:11,274 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_174.srt
+2024-07-28 13:57:11,280 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_174.srt
+2024-07-28 13:57:12,612 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_174.srt
+2024-07-28 13:57:12,612 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_175.srt
+2024-07-28 13:57:12,621 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_175.srt
+2024-07-28 13:57:13,850 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_175.srt
+2024-07-28 13:57:13,852 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_176.srt
+2024-07-28 13:57:13,888 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_176.srt
+2024-07-28 13:57:15,475 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_176.srt
+2024-07-28 13:57:15,475 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_177.srt
+2024-07-28 13:57:15,513 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_177.srt
+2024-07-28 13:57:16,724 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_177.srt
+2024-07-28 13:57:16,724 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_178.srt
+2024-07-28 13:57:16,733 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_178.srt
+2024-07-28 13:57:18,041 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_178.srt
+2024-07-28 13:57:18,041 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_179.srt
+2024-07-28 13:57:18,051 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_179.srt
+2024-07-28 13:57:19,379 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_179.srt
+2024-07-28 13:57:19,399 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_18.srt
+2024-07-28 13:57:19,408 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_18.srt
+2024-07-28 13:57:20,696 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_18.srt
+2024-07-28 13:57:20,696 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_180.srt
+2024-07-28 13:57:20,704 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_180.srt
+2024-07-28 13:57:22,035 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_180.srt
+2024-07-28 13:57:22,035 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_181.srt
+2024-07-28 13:57:22,076 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_181.srt
+2024-07-28 13:57:23,566 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_181.srt
+2024-07-28 13:57:23,566 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_182.srt
+2024-07-28 13:57:23,575 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_182.srt
+2024-07-28 13:57:25,129 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_182.srt
+2024-07-28 13:57:25,129 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_183.srt
+2024-07-28 13:57:25,137 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_183.srt
+2024-07-28 13:57:26,429 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_183.srt
+2024-07-28 13:57:26,429 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_184.srt
+2024-07-28 13:57:26,444 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_184.srt
+2024-07-28 13:57:27,868 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_184.srt
+2024-07-28 13:57:27,868 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_185.srt
+2024-07-28 13:57:27,882 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_185.srt
+2024-07-28 13:57:29,101 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_185.srt
+2024-07-28 13:57:29,101 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_186.srt
+2024-07-28 13:57:29,115 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_186.srt
+2024-07-28 13:57:30,431 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_186.srt
+2024-07-28 13:57:30,431 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_187.srt
+2024-07-28 13:57:30,439 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_187.srt
+2024-07-28 13:57:31,863 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_187.srt
+2024-07-28 13:57:31,863 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_188.srt
+2024-07-28 13:57:31,869 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_188.srt
+2024-07-28 13:57:32,377 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_188.srt
+2024-07-28 13:57:32,377 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_189.srt
+2024-07-28 13:57:32,385 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_189.srt
+2024-07-28 13:57:33,699 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_189.srt
+2024-07-28 13:57:33,699 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_19.srt
+2024-07-28 13:57:33,707 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_19.srt
+2024-07-28 13:57:34,967 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_19.srt
+2024-07-28 13:57:34,967 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_190.srt
+2024-07-28 13:57:34,976 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_190.srt
+2024-07-28 13:57:36,366 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_190.srt
+2024-07-28 13:57:36,366 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_191.srt
+2024-07-28 13:57:36,403 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_191.srt
+2024-07-28 13:57:37,311 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_191.srt
+2024-07-28 13:57:37,311 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_192.srt
+2024-07-28 13:57:37,321 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_192.srt
+2024-07-28 13:57:38,512 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_192.srt
+2024-07-28 13:57:38,512 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_193.srt
+2024-07-28 13:57:38,519 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_193.srt
+2024-07-28 13:57:39,854 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_193.srt
+2024-07-28 13:57:39,854 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_194.srt
+2024-07-28 13:57:39,858 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_194.srt
+2024-07-28 13:57:41,177 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_194.srt
+2024-07-28 13:57:41,197 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_195.srt
+2024-07-28 13:57:41,205 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_195.srt
+2024-07-28 13:57:42,519 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_195.srt
+2024-07-28 13:57:42,519 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_196.srt
+2024-07-28 13:57:42,561 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_196.srt
+2024-07-28 13:57:43,881 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_196.srt
+2024-07-28 13:57:43,881 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_197.srt
+2024-07-28 13:57:43,888 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_197.srt
+2024-07-28 13:57:45,299 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_197.srt
+2024-07-28 13:57:45,299 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_198.srt
+2024-07-28 13:57:45,306 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_198.srt
+2024-07-28 13:57:46,507 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_198.srt
+2024-07-28 13:57:46,507 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_199.srt
+2024-07-28 13:57:46,515 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_199.srt
+2024-07-28 13:57:47,969 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_199.srt
+2024-07-28 13:57:47,969 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_2.srt
+2024-07-28 13:57:47,980 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_2.srt
+2024-07-28 13:57:49,222 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_2.srt
+2024-07-28 13:57:49,222 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_20.srt
+2024-07-28 13:57:49,230 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_20.srt
+2024-07-28 13:57:50,669 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_20.srt
+2024-07-28 13:57:50,669 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_200.srt
+2024-07-28 13:57:50,679 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_200.srt
+2024-07-28 13:57:51,938 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_200.srt
+2024-07-28 13:57:51,938 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_201.srt
+2024-07-28 13:57:51,945 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_201.srt
+2024-07-28 13:57:53,267 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_201.srt
+2024-07-28 13:57:53,268 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_202.srt
+2024-07-28 13:57:53,276 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_202.srt
+2024-07-28 13:57:54,554 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_202.srt
+2024-07-28 13:57:54,554 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_203.srt
+2024-07-28 13:57:54,564 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_203.srt
+2024-07-28 13:57:55,858 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_203.srt
+2024-07-28 13:57:55,862 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_204.srt
+2024-07-28 13:57:55,871 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_204.srt
+2024-07-28 13:57:57,161 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_204.srt
+2024-07-28 13:57:57,161 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_205.srt
+2024-07-28 13:57:57,200 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_205.srt
+2024-07-28 13:57:58,588 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_205.srt
+2024-07-28 13:57:58,588 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_206.srt
+2024-07-28 13:57:58,629 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_206.srt
+2024-07-28 13:57:59,919 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_206.srt
+2024-07-28 13:57:59,919 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_207.srt
+2024-07-28 13:57:59,926 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_207.srt
+2024-07-28 13:58:01,182 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_207.srt
+2024-07-28 13:58:01,182 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_208.srt
+2024-07-28 13:58:01,188 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_208.srt
+2024-07-28 13:58:02,489 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_208.srt
+2024-07-28 13:58:02,489 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_209.srt
+2024-07-28 13:58:02,531 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_209.srt
+2024-07-28 13:58:03,828 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_209.srt
+2024-07-28 13:58:03,828 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_21.srt
+2024-07-28 13:58:03,837 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_21.srt
+2024-07-28 13:58:05,149 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_21.srt
+2024-07-28 13:58:05,149 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_210.srt
+2024-07-28 13:58:05,158 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_210.srt
+2024-07-28 13:58:06,498 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_210.srt
+2024-07-28 13:58:06,500 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_211.srt
+2024-07-28 13:58:06,509 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_211.srt
+2024-07-28 13:58:07,190 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_211.srt
+2024-07-28 13:58:07,190 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_212.srt
+2024-07-28 13:58:07,198 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_212.srt
+2024-07-28 13:58:08,625 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_212.srt
+2024-07-28 13:58:08,625 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_213.srt
+2024-07-28 13:58:08,666 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_213.srt
+2024-07-28 13:58:09,853 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_213.srt
+2024-07-28 13:58:09,853 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_214.srt
+2024-07-28 13:58:09,860 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_214.srt
+2024-07-28 13:58:11,122 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_214.srt
+2024-07-28 13:58:11,122 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_215.srt
+2024-07-28 13:58:11,131 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_215.srt
+2024-07-28 13:58:12,417 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_215.srt
+2024-07-28 13:58:12,417 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_216.srt
+2024-07-28 13:58:12,424 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_216.srt
+2024-07-28 13:58:13,633 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_216.srt
+2024-07-28 13:58:13,633 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_217.srt
+2024-07-28 13:58:13,642 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_217.srt
+2024-07-28 13:58:15,024 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_217.srt
+2024-07-28 13:58:15,026 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_218.srt
+2024-07-28 13:58:15,029 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_218.srt
+2024-07-28 13:58:16,334 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_218.srt
+2024-07-28 13:58:16,335 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_219.srt
+2024-07-28 13:58:16,344 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_219.srt
+2024-07-28 13:58:17,580 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_219.srt
+2024-07-28 13:58:17,580 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_22.srt
+2024-07-28 13:58:17,588 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_22.srt
+2024-07-28 13:58:18,974 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_22.srt
+2024-07-28 13:58:18,976 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_220.srt
+2024-07-28 13:58:18,979 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_220.srt
+2024-07-28 13:58:20,299 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_220.srt
+2024-07-28 13:58:20,299 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_221.srt
+2024-07-28 13:58:20,338 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_221.srt
+2024-07-28 13:58:21,730 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_221.srt
+2024-07-28 13:58:21,730 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_222.srt
+2024-07-28 13:58:21,746 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_222.srt
+2024-07-28 13:58:23,185 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_222.srt
+2024-07-28 13:58:23,187 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_223.srt
+2024-07-28 13:58:23,195 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_223.srt
+2024-07-28 13:58:24,493 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_223.srt
+2024-07-28 13:58:24,493 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_224.srt
+2024-07-28 13:58:24,528 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_224.srt
+2024-07-28 13:58:25,836 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_224.srt
+2024-07-28 13:58:25,836 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_225.srt
+2024-07-28 13:58:25,875 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_225.srt
+2024-07-28 13:58:27,223 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_225.srt
+2024-07-28 13:58:27,223 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_226.srt
+2024-07-28 13:58:27,233 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_226.srt
+2024-07-28 13:58:28,805 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_226.srt
+2024-07-28 13:58:28,805 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_227.srt
+2024-07-28 13:58:28,814 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_227.srt
+2024-07-28 13:58:30,131 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_227.srt
+2024-07-28 13:58:30,131 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_228.srt
+2024-07-28 13:58:30,169 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_228.srt
+2024-07-28 13:58:31,463 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_228.srt
+2024-07-28 13:58:31,466 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_229.srt
+2024-07-28 13:58:31,470 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_229.srt
+2024-07-28 13:58:32,819 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_229.srt
+2024-07-28 13:58:32,819 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_23.srt
+2024-07-28 13:58:32,828 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_23.srt
+2024-07-28 13:58:34,117 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_23.srt
+2024-07-28 13:58:34,117 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_230.srt
+2024-07-28 13:58:34,160 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_230.srt
+2024-07-28 13:58:35,561 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_230.srt
+2024-07-28 13:58:35,561 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_231.srt
+2024-07-28 13:58:35,569 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_231.srt
+2024-07-28 13:58:37,091 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_231.srt
+2024-07-28 13:58:37,093 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_232.srt
+2024-07-28 13:58:37,097 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_232.srt
+2024-07-28 13:58:38,447 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_232.srt
+2024-07-28 13:58:38,448 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_233.srt
+2024-07-28 13:58:38,456 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_233.srt
+2024-07-28 13:58:39,755 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_233.srt
+2024-07-28 13:58:39,755 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_234.srt
+2024-07-28 13:58:39,762 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_234.srt
+2024-07-28 13:58:41,014 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_234.srt
+2024-07-28 13:58:41,015 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_235.srt
+2024-07-28 13:58:41,020 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_235.srt
+2024-07-28 13:58:42,292 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_235.srt
+2024-07-28 13:58:42,292 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_236.srt
+2024-07-28 13:58:42,300 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_236.srt
+2024-07-28 13:58:43,670 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_236.srt
+2024-07-28 13:58:43,670 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_237.srt
+2024-07-28 13:58:43,670 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_237.srt
+2024-07-28 13:58:45,083 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_237.srt
+2024-07-28 13:58:45,085 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_238.srt
+2024-07-28 13:58:45,122 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_238.srt
+2024-07-28 13:58:46,410 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_238.srt
+2024-07-28 13:58:46,410 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_239.srt
+2024-07-28 13:58:46,420 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_239.srt
+2024-07-28 13:58:47,744 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_239.srt
+2024-07-28 13:58:47,744 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_24.srt
+2024-07-28 13:58:47,750 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_24.srt
+2024-07-28 13:58:48,989 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_24.srt
+2024-07-28 13:58:48,989 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_240.srt
+2024-07-28 13:58:48,994 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_240.srt
+2024-07-28 13:58:50,405 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_240.srt
+2024-07-28 13:58:50,405 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_241.srt
+2024-07-28 13:58:50,444 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_241.srt
+2024-07-28 13:58:51,730 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_241.srt
+2024-07-28 13:58:51,730 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_242.srt
+2024-07-28 13:58:51,739 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_242.srt
+2024-07-28 13:58:52,950 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_242.srt
+2024-07-28 13:58:52,950 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_243.srt
+2024-07-28 13:58:52,980 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_243.srt
+2024-07-28 13:58:54,400 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_243.srt
+2024-07-28 13:58:54,403 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_244.srt
+2024-07-28 13:58:54,406 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_244.srt
+2024-07-28 13:58:55,830 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_244.srt
+2024-07-28 13:58:55,830 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_245.srt
+2024-07-28 13:58:55,871 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_245.srt
+2024-07-28 13:58:57,156 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_245.srt
+2024-07-28 13:58:57,156 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_246.srt
+2024-07-28 13:58:57,166 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_246.srt
+2024-07-28 13:58:58,523 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_246.srt
+2024-07-28 13:58:58,523 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_247.srt
+2024-07-28 13:58:58,531 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_247.srt
+2024-07-28 13:58:59,777 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_247.srt
+2024-07-28 13:58:59,777 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_248.srt
+2024-07-28 13:58:59,784 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_248.srt
+2024-07-28 13:59:01,164 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_248.srt
+2024-07-28 13:59:01,164 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_249.srt
+2024-07-28 13:59:01,198 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_249.srt
+2024-07-28 13:59:02,494 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_249.srt
+2024-07-28 13:59:02,494 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_25.srt
+2024-07-28 13:59:02,499 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_25.srt
+2024-07-28 13:59:03,833 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_25.srt
+2024-07-28 13:59:03,836 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_250.srt
+2024-07-28 13:59:03,868 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_250.srt
+2024-07-28 13:59:05,379 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_250.srt
+2024-07-28 13:59:05,379 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_251.srt
+2024-07-28 13:59:05,387 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_251.srt
+2024-07-28 13:59:06,694 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_251.srt
+2024-07-28 13:59:06,694 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_252.srt
+2024-07-28 13:59:06,733 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_252.srt
+2024-07-28 13:59:08,117 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_252.srt
+2024-07-28 13:59:08,117 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_253.srt
+2024-07-28 13:59:08,127 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_253.srt
+2024-07-28 13:59:09,584 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_253.srt
+2024-07-28 13:59:09,584 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_254.srt
+2024-07-28 13:59:09,594 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_254.srt
+2024-07-28 13:59:10,905 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_254.srt
+2024-07-28 13:59:10,905 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_255.srt
+2024-07-28 13:59:10,938 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_255.srt
+2024-07-28 13:59:12,246 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_255.srt
+2024-07-28 13:59:12,246 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_256.srt
+2024-07-28 13:59:12,256 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_256.srt
+2024-07-28 13:59:13,559 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_256.srt
+2024-07-28 13:59:13,559 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_257.srt
+2024-07-28 13:59:13,567 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_257.srt
+2024-07-28 13:59:14,902 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_257.srt
+2024-07-28 13:59:14,902 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_258.srt
+2024-07-28 13:59:14,913 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_258.srt
+2024-07-28 13:59:16,318 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_258.srt
+2024-07-28 13:59:16,318 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_259.srt
+2024-07-28 13:59:16,358 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_259.srt
+2024-07-28 13:59:17,962 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_259.srt
+2024-07-28 13:59:17,962 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_26.srt
+2024-07-28 13:59:17,969 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_26.srt
+2024-07-28 13:59:19,137 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_26.srt
+2024-07-28 13:59:19,137 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_260.srt
+2024-07-28 13:59:19,145 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_260.srt
+2024-07-28 13:59:20,444 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_260.srt
+2024-07-28 13:59:20,445 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_261.srt
+2024-07-28 13:59:20,452 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_261.srt
+2024-07-28 13:59:21,746 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_261.srt
+2024-07-28 13:59:21,746 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_262.srt
+2024-07-28 13:59:21,786 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_262.srt
+2024-07-28 13:59:23,015 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_262.srt
+2024-07-28 13:59:23,015 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_263.srt
+2024-07-28 13:59:23,052 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_263.srt
+2024-07-28 13:59:24,408 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_263.srt
+2024-07-28 13:59:24,408 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_264.srt
+2024-07-28 13:59:24,415 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_264.srt
+2024-07-28 13:59:25,654 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_264.srt
+2024-07-28 13:59:25,654 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_265.srt
+2024-07-28 13:59:25,657 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_265.srt
+2024-07-28 13:59:27,167 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_265.srt
+2024-07-28 13:59:27,167 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_266.srt
+2024-07-28 13:59:27,203 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_266.srt
+2024-07-28 13:59:28,703 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_266.srt
+2024-07-28 13:59:28,703 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_267.srt
+2024-07-28 13:59:28,743 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_267.srt
+2024-07-28 13:59:30,146 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_267.srt
+2024-07-28 13:59:30,146 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_268.srt
+2024-07-28 13:59:30,156 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_268.srt
+2024-07-28 13:59:31,419 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_268.srt
+2024-07-28 13:59:31,419 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_269.srt
+2024-07-28 13:59:31,456 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_269.srt
+2024-07-28 13:59:32,806 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_269.srt
+2024-07-28 13:59:32,806 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_27.srt
+2024-07-28 13:59:32,841 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_27.srt
+2024-07-28 13:59:34,069 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_27.srt
+2024-07-28 13:59:34,069 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_270.srt
+2024-07-28 13:59:34,077 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_270.srt
+2024-07-28 13:59:35,385 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_270.srt
+2024-07-28 13:59:35,386 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_271.srt
+2024-07-28 13:59:35,393 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_271.srt
+2024-07-28 13:59:36,072 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_271.srt
+2024-07-28 13:59:36,072 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_272.srt
+2024-07-28 13:59:36,080 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_272.srt
+2024-07-28 13:59:37,396 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_272.srt
+2024-07-28 13:59:37,398 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_273.srt
+2024-07-28 13:59:37,405 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_273.srt
+2024-07-28 13:59:37,405 - ERROR - Error processing file C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_273.srt: division by zero
+Traceback (most recent call last):
+  File "c:\Users\Coffee Nebula\Desktop\Python\translate_chunks.py", line 123, in process_file
+    split_texts = split_translated_text(translated_text, len(processed_chunks))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Coffee Nebula\Desktop\Python\translate_chunks.py", line 65, in split_translated_text
+    target_weight_per_chunk = total_weight / chunk_count
+                              ~~~~~~~~~~~~~^~~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-07-28 13:59:37,406 - ERROR - Failed to process file chunk_273.srt: division by zero
+2024-07-28 13:59:37,406 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_274.srt
+2024-07-28 13:59:37,439 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_274.srt
+2024-07-28 13:59:38,709 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_274.srt
+2024-07-28 13:59:38,709 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_275.srt
+2024-07-28 13:59:38,717 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_275.srt
+2024-07-28 13:59:39,992 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_275.srt
+2024-07-28 13:59:39,992 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_276.srt
+2024-07-28 13:59:40,000 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_276.srt
+2024-07-28 13:59:41,295 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_276.srt
+2024-07-28 13:59:41,295 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_277.srt
+2024-07-28 13:59:41,305 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_277.srt
+2024-07-28 13:59:42,507 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_277.srt
+2024-07-28 13:59:42,514 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_278.srt
+2024-07-28 13:59:42,522 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_278.srt
+2024-07-28 13:59:43,859 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_278.srt
+2024-07-28 13:59:43,879 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_279.srt
+2024-07-28 13:59:43,887 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_279.srt
+2024-07-28 13:59:45,209 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_279.srt
+2024-07-28 13:59:45,213 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_28.srt
+2024-07-28 13:59:45,219 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_28.srt
+2024-07-28 13:59:46,521 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_28.srt
+2024-07-28 13:59:46,521 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_280.srt
+2024-07-28 13:59:46,562 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_280.srt
+2024-07-28 13:59:47,956 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_280.srt
+2024-07-28 13:59:47,957 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_281.srt
+2024-07-28 13:59:47,965 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_281.srt
+2024-07-28 13:59:49,290 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_281.srt
+2024-07-28 13:59:49,290 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_282.srt
+2024-07-28 13:59:49,327 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_282.srt
+2024-07-28 13:59:50,717 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_282.srt
+2024-07-28 13:59:50,717 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_283.srt
+2024-07-28 13:59:50,729 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_283.srt
+2024-07-28 13:59:52,047 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_283.srt
+2024-07-28 13:59:52,047 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_284.srt
+2024-07-28 13:59:52,053 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_284.srt
+2024-07-28 13:59:53,286 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_284.srt
+2024-07-28 13:59:53,286 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_285.srt
+2024-07-28 13:59:53,320 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_285.srt
+2024-07-28 13:59:54,581 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_285.srt
+2024-07-28 13:59:54,581 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_286.srt
+2024-07-28 13:59:54,618 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_286.srt
+2024-07-28 13:59:55,971 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_286.srt
+2024-07-28 13:59:55,971 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_287.srt
+2024-07-28 13:59:55,973 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_287.srt
+2024-07-28 13:59:57,232 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_287.srt
+2024-07-28 13:59:57,232 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_288.srt
+2024-07-28 13:59:57,263 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_288.srt
+2024-07-28 13:59:58,540 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_288.srt
+2024-07-28 13:59:58,540 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_289.srt
+2024-07-28 13:59:58,550 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_289.srt
+2024-07-28 13:59:59,723 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_289.srt
+2024-07-28 13:59:59,723 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_29.srt
+2024-07-28 13:59:59,728 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_29.srt
+2024-07-28 14:00:01,096 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_29.srt
+2024-07-28 14:00:01,097 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_290.srt
+2024-07-28 14:00:01,105 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_290.srt
+2024-07-28 14:00:02,494 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_290.srt
+2024-07-28 14:00:02,494 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_291.srt
+2024-07-28 14:00:02,500 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_291.srt
+2024-07-28 14:00:03,717 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_291.srt
+2024-07-28 14:00:03,717 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_292.srt
+2024-07-28 14:00:03,727 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_292.srt
+2024-07-28 14:00:05,066 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_292.srt
+2024-07-28 14:00:05,066 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_293.srt
+2024-07-28 14:00:05,102 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_293.srt
+2024-07-28 14:00:06,417 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_293.srt
+2024-07-28 14:00:06,417 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_294.srt
+2024-07-28 14:00:06,423 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_294.srt
+2024-07-28 14:00:07,815 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_294.srt
+2024-07-28 14:00:07,815 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_295.srt
+2024-07-28 14:00:07,821 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_295.srt
+2024-07-28 14:00:09,150 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_295.srt
+2024-07-28 14:00:09,152 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_296.srt
+2024-07-28 14:00:09,155 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_296.srt
+2024-07-28 14:00:10,490 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_296.srt
+2024-07-28 14:00:10,490 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_297.srt
+2024-07-28 14:00:10,494 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_297.srt
+2024-07-28 14:00:11,853 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_297.srt
+2024-07-28 14:00:11,853 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_298.srt
+2024-07-28 14:00:11,863 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_298.srt
+2024-07-28 14:00:13,247 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_298.srt
+2024-07-28 14:00:13,247 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_299.srt
+2024-07-28 14:00:13,252 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_299.srt
+2024-07-28 14:00:14,681 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_299.srt
+2024-07-28 14:00:14,681 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_3.srt
+2024-07-28 14:00:14,687 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_3.srt
+2024-07-28 14:00:16,016 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_3.srt
+2024-07-28 14:00:16,016 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_30.srt
+2024-07-28 14:00:16,052 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_30.srt
+2024-07-28 14:00:17,281 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_30.srt
+2024-07-28 14:00:17,284 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_300.srt
+2024-07-28 14:00:17,287 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_300.srt
+2024-07-28 14:00:18,602 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_300.srt
+2024-07-28 14:00:18,602 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_301.srt
+2024-07-28 14:00:18,612 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_301.srt
+2024-07-28 14:00:19,804 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_301.srt
+2024-07-28 14:00:19,804 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_302.srt
+2024-07-28 14:00:19,845 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_302.srt
+2024-07-28 14:00:21,247 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_302.srt
+2024-07-28 14:00:21,247 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_303.srt
+2024-07-28 14:00:21,276 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_303.srt
+2024-07-28 14:00:22,596 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_303.srt
+2024-07-28 14:00:22,596 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_304.srt
+2024-07-28 14:00:22,605 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_304.srt
+2024-07-28 14:00:23,870 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_304.srt
+2024-07-28 14:00:23,870 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_305.srt
+2024-07-28 14:00:23,905 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_305.srt
+2024-07-28 14:00:25,338 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_305.srt
+2024-07-28 14:00:25,338 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_306.srt
+2024-07-28 14:00:25,342 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_306.srt
+2024-07-28 14:00:26,668 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_306.srt
+2024-07-28 14:00:26,668 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_307.srt
+2024-07-28 14:00:26,676 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_307.srt
+2024-07-28 14:00:28,029 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_307.srt
+2024-07-28 14:00:28,029 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_308.srt
+2024-07-28 14:00:28,040 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_308.srt
+2024-07-28 14:00:29,329 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_308.srt
+2024-07-28 14:00:29,329 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_309.srt
+2024-07-28 14:00:29,340 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_309.srt
+2024-07-28 14:00:30,595 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_309.srt
+2024-07-28 14:00:30,595 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_31.srt
+2024-07-28 14:00:30,604 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_31.srt
+2024-07-28 14:00:31,882 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_31.srt
+2024-07-28 14:00:31,883 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_310.srt
+2024-07-28 14:00:31,919 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_310.srt
+2024-07-28 14:00:33,355 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_310.srt
+2024-07-28 14:00:33,355 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_311.srt
+2024-07-28 14:00:33,364 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_311.srt
+2024-07-28 14:00:34,747 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_311.srt
+2024-07-28 14:00:34,747 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_312.srt
+2024-07-28 14:00:34,756 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_312.srt
+2024-07-28 14:00:36,186 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_312.srt
+2024-07-28 14:00:36,186 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_313.srt
+2024-07-28 14:00:36,194 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_313.srt
+2024-07-28 14:00:37,493 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_313.srt
+2024-07-28 14:00:37,494 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_314.srt
+2024-07-28 14:00:37,500 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_314.srt
+2024-07-28 14:00:38,873 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_314.srt
+2024-07-28 14:00:38,873 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_315.srt
+2024-07-28 14:00:38,880 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_315.srt
+2024-07-28 14:00:40,187 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_315.srt
+2024-07-28 14:00:40,188 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_316.srt
+2024-07-28 14:00:40,225 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_316.srt
+2024-07-28 14:00:41,518 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_316.srt
+2024-07-28 14:00:41,518 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_317.srt
+2024-07-28 14:00:41,529 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_317.srt
+2024-07-28 14:00:42,698 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_317.srt
+2024-07-28 14:00:42,698 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_318.srt
+2024-07-28 14:00:42,710 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_318.srt
+2024-07-28 14:00:43,954 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_318.srt
+2024-07-28 14:00:43,954 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_319.srt
+2024-07-28 14:00:43,963 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_319.srt
+2024-07-28 14:00:45,296 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_319.srt
+2024-07-28 14:00:45,296 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_32.srt
+2024-07-28 14:00:45,304 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_32.srt
+2024-07-28 14:00:46,627 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_32.srt
+2024-07-28 14:00:46,627 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_33.srt
+2024-07-28 14:00:46,635 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_33.srt
+2024-07-28 14:00:48,060 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_33.srt
+2024-07-28 14:00:48,062 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_34.srt
+2024-07-28 14:00:48,067 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_34.srt
+2024-07-28 14:00:49,312 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_34.srt
+2024-07-28 14:00:49,312 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_35.srt
+2024-07-28 14:00:49,320 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_35.srt
+2024-07-28 14:00:50,722 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_35.srt
+2024-07-28 14:00:50,722 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_36.srt
+2024-07-28 14:00:50,728 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_36.srt
+2024-07-28 14:00:52,065 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_36.srt
+2024-07-28 14:00:52,065 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_37.srt
+2024-07-28 14:00:52,073 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_37.srt
+2024-07-28 14:00:53,398 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_37.srt
+2024-07-28 14:00:53,402 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_38.srt
+2024-07-28 14:00:53,409 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_38.srt
+2024-07-28 14:00:54,816 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_38.srt
+2024-07-28 14:00:54,816 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_39.srt
+2024-07-28 14:00:54,818 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_39.srt
+2024-07-28 14:00:56,256 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_39.srt
+2024-07-28 14:00:56,259 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_4.srt
+2024-07-28 14:00:56,262 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_4.srt
+2024-07-28 14:00:57,529 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_4.srt
+2024-07-28 14:00:57,529 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_40.srt
+2024-07-28 14:00:57,535 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_40.srt
+2024-07-28 14:00:58,923 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_40.srt
+2024-07-28 14:00:58,923 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_41.srt
+2024-07-28 14:00:58,932 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_41.srt
+2024-07-28 14:01:00,242 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_41.srt
+2024-07-28 14:01:00,242 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_42.srt
+2024-07-28 14:01:00,250 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_42.srt
+2024-07-28 14:01:01,524 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_42.srt
+2024-07-28 14:01:01,530 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_43.srt
+2024-07-28 14:01:01,531 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_43.srt
+2024-07-28 14:01:03,018 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_43.srt
+2024-07-28 14:01:03,020 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_44.srt
+2024-07-28 14:01:03,025 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_44.srt
+2024-07-28 14:01:04,346 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_44.srt
+2024-07-28 14:01:04,346 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_45.srt
+2024-07-28 14:01:04,349 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_45.srt
+2024-07-28 14:01:05,681 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_45.srt
+2024-07-28 14:01:05,681 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_46.srt
+2024-07-28 14:01:05,694 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_46.srt
+2024-07-28 14:01:07,005 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_46.srt
+2024-07-28 14:01:07,005 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_47.srt
+2024-07-28 14:01:07,043 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_47.srt
+2024-07-28 14:01:08,539 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_47.srt
+2024-07-28 14:01:08,539 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_48.srt
+2024-07-28 14:01:08,547 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_48.srt
+2024-07-28 14:01:10,386 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_48.srt
+2024-07-28 14:01:10,386 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_49.srt
+2024-07-28 14:01:10,423 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_49.srt
+2024-07-28 14:01:11,854 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_49.srt
+2024-07-28 14:01:11,854 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_5.srt
+2024-07-28 14:01:11,863 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_5.srt
+2024-07-28 14:01:13,265 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_5.srt
+2024-07-28 14:01:13,265 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_50.srt
+2024-07-28 14:01:13,292 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_50.srt
+2024-07-28 14:01:14,690 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_50.srt
+2024-07-28 14:01:14,690 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_51.srt
+2024-07-28 14:01:14,699 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_51.srt
+2024-07-28 14:01:16,125 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_51.srt
+2024-07-28 14:01:16,127 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_52.srt
+2024-07-28 14:01:16,130 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_52.srt
+2024-07-28 14:01:17,478 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_52.srt
+2024-07-28 14:01:17,478 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_53.srt
+2024-07-28 14:01:17,484 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_53.srt
+2024-07-28 14:01:18,796 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_53.srt
+2024-07-28 14:01:18,796 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_54.srt
+2024-07-28 14:01:18,800 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_54.srt
+2024-07-28 14:01:20,114 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_54.srt
+2024-07-28 14:01:20,114 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_55.srt
+2024-07-28 14:01:20,119 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_55.srt
+2024-07-28 14:01:21,643 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_55.srt
+2024-07-28 14:01:21,643 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_56.srt
+2024-07-28 14:01:21,648 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_56.srt
+2024-07-28 14:01:22,986 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_56.srt
+2024-07-28 14:01:22,986 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_57.srt
+2024-07-28 14:01:22,989 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_57.srt
+2024-07-28 14:01:24,317 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_57.srt
+2024-07-28 14:01:24,320 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_58.srt
+2024-07-28 14:01:24,325 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_58.srt
+2024-07-28 14:01:25,554 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_58.srt
+2024-07-28 14:01:25,554 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_59.srt
+2024-07-28 14:01:25,590 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_59.srt
+2024-07-28 14:01:26,995 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_59.srt
+2024-07-28 14:01:26,997 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_6.srt
+2024-07-28 14:01:27,024 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_6.srt
+2024-07-28 14:01:28,345 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_6.srt
+2024-07-28 14:01:28,345 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_60.srt
+2024-07-28 14:01:28,353 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_60.srt
+2024-07-28 14:01:29,644 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_60.srt
+2024-07-28 14:01:29,644 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_61.srt
+2024-07-28 14:01:29,657 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_61.srt
+2024-07-28 14:01:30,918 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_61.srt
+2024-07-28 14:01:30,918 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_62.srt
+2024-07-28 14:01:30,926 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_62.srt
+2024-07-28 14:01:31,133 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_62.srt
+2024-07-28 14:01:31,133 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_63.srt
+2024-07-28 14:01:31,141 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_63.srt
+2024-07-28 14:01:32,918 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_63.srt
+2024-07-28 14:01:32,925 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_64.srt
+2024-07-28 14:01:32,926 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_64.srt
+2024-07-28 14:01:34,252 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_64.srt
+2024-07-28 14:01:34,252 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_65.srt
+2024-07-28 14:01:34,261 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_65.srt
+2024-07-28 14:01:35,523 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_65.srt
+2024-07-28 14:01:35,531 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_66.srt
+2024-07-28 14:01:35,571 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_66.srt
+2024-07-28 14:01:36,867 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_66.srt
+2024-07-28 14:01:36,869 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_67.srt
+2024-07-28 14:01:36,875 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_67.srt
+2024-07-28 14:01:38,126 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_67.srt
+2024-07-28 14:01:38,126 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_68.srt
+2024-07-28 14:01:38,133 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_68.srt
+2024-07-28 14:01:39,470 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_68.srt
+2024-07-28 14:01:39,470 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_69.srt
+2024-07-28 14:01:39,487 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_69.srt
+2024-07-28 14:01:40,904 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_69.srt
+2024-07-28 14:01:40,904 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_7.srt
+2024-07-28 14:01:40,945 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_7.srt
+2024-07-28 14:01:42,331 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_7.srt
+2024-07-28 14:01:42,331 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_70.srt
+2024-07-28 14:01:42,338 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_70.srt
+2024-07-28 14:01:43,703 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_70.srt
+2024-07-28 14:01:43,703 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_71.srt
+2024-07-28 14:01:43,711 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_71.srt
+2024-07-28 14:01:44,939 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_71.srt
+2024-07-28 14:01:44,939 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_72.srt
+2024-07-28 14:01:44,948 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_72.srt
+2024-07-28 14:01:46,231 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_72.srt
+2024-07-28 14:01:46,231 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_73.srt
+2024-07-28 14:01:46,239 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_73.srt
+2024-07-28 14:01:47,755 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_73.srt
+2024-07-28 14:01:47,755 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_74.srt
+2024-07-28 14:01:47,792 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_74.srt
+2024-07-28 14:01:49,105 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_74.srt
+2024-07-28 14:01:49,105 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_75.srt
+2024-07-28 14:01:49,140 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_75.srt
+2024-07-28 14:01:50,421 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_75.srt
+2024-07-28 14:01:50,423 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_76.srt
+2024-07-28 14:01:50,432 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_76.srt
+2024-07-28 14:01:51,869 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_76.srt
+2024-07-28 14:01:51,869 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_77.srt
+2024-07-28 14:01:51,899 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_77.srt
+2024-07-28 14:01:53,295 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_77.srt
+2024-07-28 14:01:53,295 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_78.srt
+2024-07-28 14:01:53,303 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_78.srt
+2024-07-28 14:01:54,627 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_78.srt
+2024-07-28 14:01:54,627 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_79.srt
+2024-07-28 14:01:54,637 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_79.srt
+2024-07-28 14:01:56,009 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_79.srt
+2024-07-28 14:01:56,009 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_8.srt
+2024-07-28 14:01:56,018 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_8.srt
+2024-07-28 14:01:57,300 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_8.srt
+2024-07-28 14:01:57,300 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_80.srt
+2024-07-28 14:01:57,304 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_80.srt
+2024-07-28 14:01:58,496 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_80.srt
+2024-07-28 14:01:58,496 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_81.srt
+2024-07-28 14:01:58,505 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_81.srt
+2024-07-28 14:01:59,783 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_81.srt
+2024-07-28 14:01:59,783 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_82.srt
+2024-07-28 14:01:59,790 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_82.srt
+2024-07-28 14:02:01,080 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_82.srt
+2024-07-28 14:02:01,082 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_83.srt
+2024-07-28 14:02:01,117 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_83.srt
+2024-07-28 14:02:02,409 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_83.srt
+2024-07-28 14:02:02,411 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_84.srt
+2024-07-28 14:02:02,446 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_84.srt
+2024-07-28 14:02:03,839 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_84.srt
+2024-07-28 14:02:03,839 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_85.srt
+2024-07-28 14:02:03,844 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_85.srt
+2024-07-28 14:02:05,176 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_85.srt
+2024-07-28 14:02:05,176 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_86.srt
+2024-07-28 14:02:05,184 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_86.srt
+2024-07-28 14:02:06,507 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_86.srt
+2024-07-28 14:02:06,507 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_87.srt
+2024-07-28 14:02:06,541 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_87.srt
+2024-07-28 14:02:07,946 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_87.srt
+2024-07-28 14:02:07,946 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_88.srt
+2024-07-28 14:02:07,981 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_88.srt
+2024-07-28 14:02:09,275 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_88.srt
+2024-07-28 14:02:09,275 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_89.srt
+2024-07-28 14:02:09,279 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_89.srt
+2024-07-28 14:02:10,503 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_89.srt
+2024-07-28 14:02:10,503 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_9.srt
+2024-07-28 14:02:10,510 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_9.srt
+2024-07-28 14:02:11,776 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_9.srt
+2024-07-28 14:02:11,777 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_90.srt
+2024-07-28 14:02:11,814 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_90.srt
+2024-07-28 14:02:13,172 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_90.srt
+2024-07-28 14:02:13,173 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_91.srt
+2024-07-28 14:02:13,178 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_91.srt
+2024-07-28 14:02:14,180 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_91.srt
+2024-07-28 14:02:14,180 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_92.srt
+2024-07-28 14:02:14,186 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_92.srt
+2024-07-28 14:02:15,478 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_92.srt
+2024-07-28 14:02:15,478 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_93.srt
+2024-07-28 14:02:15,519 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_93.srt
+2024-07-28 14:02:16,955 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_93.srt
+2024-07-28 14:02:16,955 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_94.srt
+2024-07-28 14:02:16,993 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_94.srt
+2024-07-28 14:02:18,800 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_94.srt
+2024-07-28 14:02:18,800 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_95.srt
+2024-07-28 14:02:18,807 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_95.srt
+2024-07-28 14:02:20,154 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_95.srt
+2024-07-28 14:02:20,154 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_96.srt
+2024-07-28 14:02:20,162 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_96.srt
+2024-07-28 14:02:21,462 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_96.srt
+2024-07-28 14:02:21,462 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_97.srt
+2024-07-28 14:02:21,473 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_97.srt
+2024-07-28 14:02:22,690 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_97.srt
+2024-07-28 14:02:22,690 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_98.srt
+2024-07-28 14:02:22,723 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_98.srt
+2024-07-28 14:02:24,013 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_98.srt
+2024-07-28 14:02:24,013 - INFO - Processing file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_99.srt
+2024-07-28 14:02:24,047 - INFO - Translating text for file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_99.srt
+2024-07-28 14:02:25,369 - INFO - Successfully processed and translated file: C:\Users\Coffee Nebula\Desktop\Python\chunks\chunk_99.srt
