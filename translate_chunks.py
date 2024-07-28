@@ -51,22 +51,25 @@ def split_translated_text(text, original_chunks):
         end = start + target_length
         
         # Look for a punctuation mark to split on
-        split_index = min(end, len(words) - 1)
-        while split_index > start and not any(words[split_index-1].endswith(mark) for mark in punctuation_marks):
+        split_index = end
+        while split_index > start and split_index < len(words) and not any(words[split_index-1].endswith(mark) for mark in punctuation_marks):
             split_index -= 1
         
         # If we couldn't find a punctuation mark, just split at the target length
-        if split_index == start:
-            split_index = min(end, len(words))
+        if split_index == start or split_index >= len(words):
+            split_index = end
         
-        result.append(' '.join(words[start:split_index]))
+        result.append(' '.join(words[start:split_index]).strip())
         start = split_index
     
     # Add any remaining words to the last chunk
     if start < len(words):
         result[-1] += ' ' + ' '.join(words[start:])
+        result[-1] = result[-1].strip()
     
     return result
+
+
 
 def process_file(input_file, output_file):
     chunks = extract_content(input_file)
@@ -80,6 +83,9 @@ def process_file(input_file, output_file):
             subtitle_number = chunk[0] if chunk[0].isdigit() else ''
             timestamp = chunk[1] if '-->' in chunk[1] else chunk[0]
             f.write(f"{subtitle_number}\n{timestamp}\n{text}\n\n")
+
+
+
 
 def main():
     # Use absolute paths
